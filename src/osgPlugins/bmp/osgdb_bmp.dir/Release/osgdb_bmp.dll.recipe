@@ -17,7 +17,7 @@
       <FullPath>C:\src\osg2.6.1\OpenSceneGraph\build\bin\Release\osgUtil.dll</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\src\osg2.6.1\OpenSceneGraph\build\lib\Release\osgdb_bmp.dll</FullPath>
+      <FullPath>E:\GitHub\osg_win\bin\Release\osgdb_bmp.dll</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

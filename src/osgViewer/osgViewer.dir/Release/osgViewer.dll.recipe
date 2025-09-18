@@ -23,7 +23,7 @@
       <FullPath>C:\src\osg2.6.1\OpenSceneGraph\build\bin\Release\osgText.dll</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\src\osg2.6.1\OpenSceneGraph\build\bin\Release\osgViewer.dll</FullPath>
+      <FullPath>E:\GitHub\osg_win\bin\Release\osgViewer.dll</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

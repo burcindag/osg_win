@@ -1,8 +1,8 @@
-C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\osgTerrain\Locator.cpp;C:\src\osg2.6.1\OpenSceneGraph\build\src\osgPlugins\osgTerrain\osgdb_osgterrain.dir\Release\Locator.obj
-C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\osgTerrain\ImageLayer.cpp;C:\src\osg2.6.1\OpenSceneGraph\build\src\osgPlugins\osgTerrain\osgdb_osgterrain.dir\Release\ImageLayer.obj
-C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\osgTerrain\HeightFieldLayer.cpp;C:\src\osg2.6.1\OpenSceneGraph\build\src\osgPlugins\osgTerrain\osgdb_osgterrain.dir\Release\HeightFieldLayer.obj
-C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\osgTerrain\CompositeLayer.cpp;C:\src\osg2.6.1\OpenSceneGraph\build\src\osgPlugins\osgTerrain\osgdb_osgterrain.dir\Release\CompositeLayer.obj
-C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\osgTerrain\Layer.cpp;C:\src\osg2.6.1\OpenSceneGraph\build\src\osgPlugins\osgTerrain\osgdb_osgterrain.dir\Release\Layer.obj
-C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\osgTerrain\TerrainTile.cpp;C:\src\osg2.6.1\OpenSceneGraph\build\src\osgPlugins\osgTerrain\osgdb_osgterrain.dir\Release\TerrainTile.obj
-C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\osgTerrain\GeometryTechnique.cpp;C:\src\osg2.6.1\OpenSceneGraph\build\src\osgPlugins\osgTerrain\osgdb_osgterrain.dir\Release\GeometryTechnique.obj
-C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\osgTerrain\ReaderWriterOsgTerrain.cpp;C:\src\osg2.6.1\OpenSceneGraph\build\src\osgPlugins\osgTerrain\osgdb_osgterrain.dir\Release\ReaderWriterOsgTerrain.obj
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\osgTerrain\Locator.cpp;E:\GitHub\osg_win\src\osgPlugins\osgTerrain\osgdb_osgterrain.dir\Release\Locator.obj
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\osgTerrain\ImageLayer.cpp;E:\GitHub\osg_win\src\osgPlugins\osgTerrain\osgdb_osgterrain.dir\Release\ImageLayer.obj
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\osgTerrain\HeightFieldLayer.cpp;E:\GitHub\osg_win\src\osgPlugins\osgTerrain\osgdb_osgterrain.dir\Release\HeightFieldLayer.obj
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\osgTerrain\CompositeLayer.cpp;E:\GitHub\osg_win\src\osgPlugins\osgTerrain\osgdb_osgterrain.dir\Release\CompositeLayer.obj
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\osgTerrain\Layer.cpp;E:\GitHub\osg_win\src\osgPlugins\osgTerrain\osgdb_osgterrain.dir\Release\Layer.obj
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\osgTerrain\TerrainTile.cpp;E:\GitHub\osg_win\src\osgPlugins\osgTerrain\osgdb_osgterrain.dir\Release\TerrainTile.obj
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\osgTerrain\GeometryTechnique.cpp;E:\GitHub\osg_win\src\osgPlugins\osgTerrain\osgdb_osgterrain.dir\Release\GeometryTechnique.obj
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\osgTerrain\ReaderWriterOsgTerrain.cpp;E:\GitHub\osg_win\src\osgPlugins\osgTerrain\osgdb_osgterrain.dir\Release\ReaderWriterOsgTerrain.obj

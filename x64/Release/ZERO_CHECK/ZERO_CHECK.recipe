@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\src\osg2.6.1\OpenSceneGraph\build\x64\Release\ZERO_CHECK</FullPath>
+      <FullPath>E:\GitHub\osg_win\x64\Release\ZERO_CHECK</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

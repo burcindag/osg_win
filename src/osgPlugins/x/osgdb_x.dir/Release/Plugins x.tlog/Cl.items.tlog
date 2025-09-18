@@ -1,4 +1,4 @@
-C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\x\ReaderWriterDirectX.cpp;C:\src\osg2.6.1\OpenSceneGraph\build\src\osgPlugins\x\osgdb_x.dir\Release\ReaderWriterDirectX.obj
-C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\x\directx.cpp;C:\src\osg2.6.1\OpenSceneGraph\build\src\osgPlugins\x\osgdb_x.dir\Release\directx.obj
-C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\x\mesh.cpp;C:\src\osg2.6.1\OpenSceneGraph\build\src\osgPlugins\x\osgdb_x.dir\Release\mesh.obj
-C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\x\types.cpp;C:\src\osg2.6.1\OpenSceneGraph\build\src\osgPlugins\x\osgdb_x.dir\Release\types.obj
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\x\ReaderWriterDirectX.cpp;E:\GitHub\osg_win\src\osgPlugins\x\osgdb_x.dir\Release\ReaderWriterDirectX.obj
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\x\directx.cpp;E:\GitHub\osg_win\src\osgPlugins\x\osgdb_x.dir\Release\directx.obj
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\x\mesh.cpp;E:\GitHub\osg_win\src\osgPlugins\x\osgdb_x.dir\Release\mesh.obj
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\x\types.cpp;E:\GitHub\osg_win\src\osgPlugins\x\osgdb_x.dir\Release\types.obj

@@ -29,7 +29,7 @@
       <FullPath>C:\src\osg2.6.1\OpenSceneGraph\build\bin\Release\osgTerrain.dll</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\src\osg2.6.1\OpenSceneGraph\build\lib\Release\osgdb_ive.dll</FullPath>
+      <FullPath>E:\GitHub\osg_win\bin\Release\osgdb_ive.dll</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

@@ -1,8 +1,8 @@
-C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\osgWidget\Box.cpp;C:\src\osg2.6.1\OpenSceneGraph\build\src\osgPlugins\osgWidget\osgdb_osgwidget.dir\Release\Box.obj
-C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\osgWidget\EmbeddedWindow.cpp;C:\src\osg2.6.1\OpenSceneGraph\build\src\osgPlugins\osgWidget\osgdb_osgwidget.dir\Release\EmbeddedWindow.obj
-C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\osgWidget\Frame.cpp;C:\src\osg2.6.1\OpenSceneGraph\build\src\osgPlugins\osgWidget\osgdb_osgwidget.dir\Release\Frame.obj
-C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\osgWidget\Input.cpp;C:\src\osg2.6.1\OpenSceneGraph\build\src\osgPlugins\osgWidget\osgdb_osgwidget.dir\Release\Input.obj
-C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\osgWidget\Label.cpp;C:\src\osg2.6.1\OpenSceneGraph\build\src\osgPlugins\osgWidget\osgdb_osgwidget.dir\Release\Label.obj
-C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\osgWidget\Table.cpp;C:\src\osg2.6.1\OpenSceneGraph\build\src\osgPlugins\osgWidget\osgdb_osgwidget.dir\Release\Table.obj
-C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\osgWidget\Widget.cpp;C:\src\osg2.6.1\OpenSceneGraph\build\src\osgPlugins\osgWidget\osgdb_osgwidget.dir\Release\Widget.obj
-C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\osgWidget\WindowManager.cpp;C:\src\osg2.6.1\OpenSceneGraph\build\src\osgPlugins\osgWidget\osgdb_osgwidget.dir\Release\WindowManager.obj
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\osgWidget\Box.cpp;E:\GitHub\osg_win\src\osgPlugins\osgWidget\osgdb_osgwidget.dir\Release\Box.obj
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\osgWidget\EmbeddedWindow.cpp;E:\GitHub\osg_win\src\osgPlugins\osgWidget\osgdb_osgwidget.dir\Release\EmbeddedWindow.obj
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\osgWidget\Frame.cpp;E:\GitHub\osg_win\src\osgPlugins\osgWidget\osgdb_osgwidget.dir\Release\Frame.obj
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\osgWidget\Input.cpp;E:\GitHub\osg_win\src\osgPlugins\osgWidget\osgdb_osgwidget.dir\Release\Input.obj
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\osgWidget\Label.cpp;E:\GitHub\osg_win\src\osgPlugins\osgWidget\osgdb_osgwidget.dir\Release\Label.obj
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\osgWidget\Table.cpp;E:\GitHub\osg_win\src\osgPlugins\osgWidget\osgdb_osgwidget.dir\Release\Table.obj
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\osgWidget\Widget.cpp;E:\GitHub\osg_win\src\osgPlugins\osgWidget\osgdb_osgwidget.dir\Release\Widget.obj
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\osgWidget\WindowManager.cpp;E:\GitHub\osg_win\src\osgPlugins\osgWidget\osgdb_osgwidget.dir\Release\WindowManager.obj

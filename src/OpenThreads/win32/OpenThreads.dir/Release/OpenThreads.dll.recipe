@@ -5,7 +5,7 @@
       <FullPath>C:\src\osg2.6.1\OpenSceneGraph\build\x64\Release\ZERO_CHECK</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\src\osg2.6.1\OpenSceneGraph\build\bin\Release\OpenThreads.dll</FullPath>
+      <FullPath>E:\GitHub\osg_win\bin\Release\OpenThreads.dll</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

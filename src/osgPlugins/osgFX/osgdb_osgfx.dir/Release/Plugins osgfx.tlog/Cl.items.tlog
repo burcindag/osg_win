@@ -1,7 +1,7 @@
-C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\osgFX\IO_AnisotropicLighting.cpp;C:\src\osg2.6.1\OpenSceneGraph\build\src\osgPlugins\osgFX\osgdb_osgfx.dir\Release\IO_AnisotropicLighting.obj
-C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\osgFX\IO_BumpMapping.cpp;C:\src\osg2.6.1\OpenSceneGraph\build\src\osgPlugins\osgFX\osgdb_osgfx.dir\Release\IO_BumpMapping.obj
-C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\osgFX\IO_Cartoon.cpp;C:\src\osg2.6.1\OpenSceneGraph\build\src\osgPlugins\osgFX\osgdb_osgfx.dir\Release\IO_Cartoon.obj
-C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\osgFX\IO_Effect.cpp;C:\src\osg2.6.1\OpenSceneGraph\build\src\osgPlugins\osgFX\osgdb_osgfx.dir\Release\IO_Effect.obj
-C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\osgFX\IO_MultiTextureControl.cpp;C:\src\osg2.6.1\OpenSceneGraph\build\src\osgPlugins\osgFX\osgdb_osgfx.dir\Release\IO_MultiTextureControl.obj
-C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\osgFX\IO_Scribe.cpp;C:\src\osg2.6.1\OpenSceneGraph\build\src\osgPlugins\osgFX\osgdb_osgfx.dir\Release\IO_Scribe.obj
-C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\osgFX\IO_SpecularHighlights.cpp;C:\src\osg2.6.1\OpenSceneGraph\build\src\osgPlugins\osgFX\osgdb_osgfx.dir\Release\IO_SpecularHighlights.obj
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\osgFX\IO_AnisotropicLighting.cpp;E:\GitHub\osg_win\src\osgPlugins\osgFX\osgdb_osgfx.dir\Release\IO_AnisotropicLighting.obj
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\osgFX\IO_BumpMapping.cpp;E:\GitHub\osg_win\src\osgPlugins\osgFX\osgdb_osgfx.dir\Release\IO_BumpMapping.obj
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\osgFX\IO_Cartoon.cpp;E:\GitHub\osg_win\src\osgPlugins\osgFX\osgdb_osgfx.dir\Release\IO_Cartoon.obj
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\osgFX\IO_Effect.cpp;E:\GitHub\osg_win\src\osgPlugins\osgFX\osgdb_osgfx.dir\Release\IO_Effect.obj
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\osgFX\IO_MultiTextureControl.cpp;E:\GitHub\osg_win\src\osgPlugins\osgFX\osgdb_osgfx.dir\Release\IO_MultiTextureControl.obj
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\osgFX\IO_Scribe.cpp;E:\GitHub\osg_win\src\osgPlugins\osgFX\osgdb_osgfx.dir\Release\IO_Scribe.obj
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\osgFX\IO_SpecularHighlights.cpp;E:\GitHub\osg_win\src\osgPlugins\osgFX\osgdb_osgfx.dir\Release\IO_SpecularHighlights.obj
