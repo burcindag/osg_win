@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osgPlugins\osgFX\IO_AnisotropicLighting.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osgPlugins\osgFX\IO_BumpMapping.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osgPlugins\osgFX\IO_Cartoon.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osgPlugins\osgFX\IO_Effect.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osgPlugins\osgFX\IO_MultiTextureControl.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osgPlugins\osgFX\IO_Scribe.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osgPlugins\osgFX\IO_SpecularHighlights.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\src\osg\OpenSceneGraph\src\osgPlugins\osgFX\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{BAB03155-AEB5-3948-8F07-5A5E42FC2B00}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

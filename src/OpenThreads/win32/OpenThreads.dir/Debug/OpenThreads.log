@@ -1,0 +1,3 @@
+﻿  LINK : C:\src\osg\OpenSceneGraph\build\bin\Debug\OpenThreadsd.dll not found or not built by the last incremental link; performing full link
+     Creating library C:/src/osg/OpenSceneGraph/build/lib/Debug/OpenThreadsd.lib and object C:/src/osg/OpenSceneGraph/build/lib/Debug/OpenThreadsd.exp
+  OpenThreads.vcxproj -> C:\src\osg\OpenSceneGraph\build\bin\Debug\OpenThreadsd.dll

@@ -1,0 +1,16 @@
+C:\src\osg\OpenSceneGraph\src\osgGA\AnimationPathManipulator.cpp;E:\src\2.8.3\src\osgGA\osgGA.dir\Release\AnimationPathManipulator.obj
+C:\src\osg\OpenSceneGraph\src\osgGA\DriveManipulator.cpp;E:\src\2.8.3\src\osgGA\osgGA.dir\Release\DriveManipulator.obj
+C:\src\osg\OpenSceneGraph\src\osgGA\EventQueue.cpp;E:\src\2.8.3\src\osgGA\osgGA.dir\Release\EventQueue.obj
+C:\src\osg\OpenSceneGraph\src\osgGA\EventVisitor.cpp;E:\src\2.8.3\src\osgGA\osgGA.dir\Release\EventVisitor.obj
+C:\src\osg\OpenSceneGraph\src\osgGA\FlightManipulator.cpp;E:\src\2.8.3\src\osgGA\osgGA.dir\Release\FlightManipulator.obj
+C:\src\osg\OpenSceneGraph\src\osgGA\GUIEventAdapter.cpp;E:\src\2.8.3\src\osgGA\osgGA.dir\Release\GUIEventAdapter.obj
+C:\src\osg\OpenSceneGraph\src\osgGA\GUIEventHandler.cpp;E:\src\2.8.3\src\osgGA\osgGA.dir\Release\GUIEventHandler.obj
+C:\src\osg\OpenSceneGraph\src\osgGA\KeySwitchMatrixManipulator.cpp;E:\src\2.8.3\src\osgGA\osgGA.dir\Release\KeySwitchMatrixManipulator.obj
+C:\src\osg\OpenSceneGraph\src\osgGA\MatrixManipulator.cpp;E:\src\2.8.3\src\osgGA\osgGA.dir\Release\MatrixManipulator.obj
+C:\src\osg\OpenSceneGraph\src\osgGA\NodeTrackerManipulator.cpp;E:\src\2.8.3\src\osgGA\osgGA.dir\Release\NodeTrackerManipulator.obj
+C:\src\osg\OpenSceneGraph\src\osgGA\StateSetManipulator.cpp;E:\src\2.8.3\src\osgGA\osgGA.dir\Release\StateSetManipulator.obj
+C:\src\osg\OpenSceneGraph\src\osgGA\TerrainManipulator.cpp;E:\src\2.8.3\src\osgGA\osgGA.dir\Release\TerrainManipulator.obj
+C:\src\osg\OpenSceneGraph\src\osgGA\TrackballManipulator.cpp;E:\src\2.8.3\src\osgGA\osgGA.dir\Release\TrackballManipulator.obj
+C:\src\osg\OpenSceneGraph\src\osgGA\UFOManipulator.cpp;E:\src\2.8.3\src\osgGA\osgGA.dir\Release\UFOManipulator.obj
+C:\src\osg\OpenSceneGraph\src\osgGA\Version.cpp;E:\src\2.8.3\src\osgGA\osgGA.dir\Release\Version.obj
+C:\src\osg\OpenSceneGraph\src\osgGA\CameraViewSwitchManipulator.cpp;E:\src\2.8.3\src\osgGA\osgGA.dir\Release\CameraViewSwitchManipulator.obj

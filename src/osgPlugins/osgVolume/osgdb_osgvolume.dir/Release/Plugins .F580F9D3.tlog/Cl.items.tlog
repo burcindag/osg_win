@@ -1,0 +1,13 @@
+C:\src\osg\OpenSceneGraph\src\osgPlugins\osgVolume\Locator.cpp;E:\src\2.8.3\src\osgPlugins\osgVolume\osgdb_osgvolume.dir\Release\Locator.obj
+C:\src\osg\OpenSceneGraph\src\osgPlugins\osgVolume\ImageLayer.cpp;E:\src\2.8.3\src\osgPlugins\osgVolume\osgdb_osgvolume.dir\Release\ImageLayer.obj
+C:\src\osg\OpenSceneGraph\src\osgPlugins\osgVolume\Layer.cpp;E:\src\2.8.3\src\osgPlugins\osgVolume\osgdb_osgvolume.dir\Release\Layer.obj
+C:\src\osg\OpenSceneGraph\src\osgPlugins\osgVolume\Volume.cpp;E:\src\2.8.3\src\osgPlugins\osgVolume\osgdb_osgvolume.dir\Release\Volume.obj
+C:\src\osg\OpenSceneGraph\src\osgPlugins\osgVolume\VolumeTile.cpp;E:\src\2.8.3\src\osgPlugins\osgVolume\osgdb_osgvolume.dir\Release\VolumeTile.obj
+C:\src\osg\OpenSceneGraph\src\osgPlugins\osgVolume\RayTracedTechnique.cpp;E:\src\2.8.3\src\osgPlugins\osgVolume\osgdb_osgvolume.dir\Release\RayTracedTechnique.obj
+C:\src\osg\OpenSceneGraph\src\osgPlugins\osgVolume\FixedFunctionTechnique.cpp;E:\src\2.8.3\src\osgPlugins\osgVolume\osgdb_osgvolume.dir\Release\FixedFunctionTechnique.obj
+C:\src\osg\OpenSceneGraph\src\osgPlugins\osgVolume\Property.cpp;E:\src\2.8.3\src\osgPlugins\osgVolume\osgdb_osgvolume.dir\Release\Property.obj
+C:\src\osg\OpenSceneGraph\src\osgPlugins\osgVolume\CompositeProperty.cpp;E:\src\2.8.3\src\osgPlugins\osgVolume\osgdb_osgvolume.dir\Release\CompositeProperty.obj
+C:\src\osg\OpenSceneGraph\src\osgPlugins\osgVolume\SwitchProperty.cpp;E:\src\2.8.3\src\osgPlugins\osgVolume\osgdb_osgvolume.dir\Release\SwitchProperty.obj
+C:\src\osg\OpenSceneGraph\src\osgPlugins\osgVolume\ScalarProperty.cpp;E:\src\2.8.3\src\osgPlugins\osgVolume\osgdb_osgvolume.dir\Release\ScalarProperty.obj
+C:\src\osg\OpenSceneGraph\src\osgPlugins\osgVolume\TransferFunctionProperty.cpp;E:\src\2.8.3\src\osgPlugins\osgVolume\osgdb_osgvolume.dir\Release\TransferFunctionProperty.obj
+C:\src\osg\OpenSceneGraph\src\osgPlugins\osgVolume\PropertyAdjustmentCallback.cpp;E:\src\2.8.3\src\osgPlugins\osgVolume\osgdb_osgvolume.dir\Release\PropertyAdjustmentCallback.obj

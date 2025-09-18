@@ -1,0 +1,303 @@
+﻿  Building Custom Rule C:/src/osg/OpenSceneGraph/applications/osgversion/CMakeLists.txt
+  osgversion.cpp
+C:\src\osg\OpenSceneGraph\include\osg\Version(64,9): warning C4005: 'OSG_VERSION_MAJOR': macro redefinition
+  (compiling source file '../../../applications/osgversion/osgversion.cpp')
+      C:\src\osg\OpenSceneGraph\build\include\osg\Config(7,9):
+      see previous definition of 'OSG_VERSION_MAJOR'
+  
+C:\src\osg\OpenSceneGraph\include\osg\Version(65,9): warning C4005: 'OSG_VERSION_MINOR': macro redefinition
+  (compiling source file '../../../applications/osgversion/osgversion.cpp')
+      C:\src\osg\OpenSceneGraph\build\include\osg\Config(8,9):
+      see previous definition of 'OSG_VERSION_MINOR'
+  
+C:\src\osg\OpenSceneGraph\include\osg\Version(66,9): warning C4005: 'OSG_VERSION_PATCH': macro redefinition
+  (compiling source file '../../../applications/osgversion/osgversion.cpp')
+      C:\src\osg\OpenSceneGraph\build\include\osg\Config(9,9):
+      see previous definition of 'OSG_VERSION_PATCH'
+  
+C:\src\osg\OpenSceneGraph\build\include\osg\Config(7,9): warning C4005: 'OSG_VERSION_MAJOR': macro redefinition
+  (compiling source file '../../../applications/osgversion/osgversion.cpp')
+      C:\src\osg\OpenSceneGraph\include\osg\Version(64,9):
+      see previous definition of 'OSG_VERSION_MAJOR'
+  
+C:\src\osg\OpenSceneGraph\build\include\osg\Config(8,9): warning C4005: 'OSG_VERSION_MINOR': macro redefinition
+  (compiling source file '../../../applications/osgversion/osgversion.cpp')
+      C:\src\osg\OpenSceneGraph\include\osg\Version(65,9):
+      see previous definition of 'OSG_VERSION_MINOR'
+  
+C:\src\osg\OpenSceneGraph\build\include\osg\Config(9,9): warning C4005: 'OSG_VERSION_PATCH': macro redefinition
+  (compiling source file '../../../applications/osgversion/osgversion.cpp')
+      C:\src\osg\OpenSceneGraph\include\osg\Version(66,9):
+      see previous definition of 'OSG_VERSION_PATCH'
+  
+C:\src\osg\OpenSceneGraph\include\osg\ApplicationUsage(95,21): warning C4251: 'osg::ApplicationUsage::_applicationName': 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of 'osg::ApplicationUsage'
+  (compiling source file '../../../applications/osgversion/osgversion.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xstring(541,7):
+      see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+  
+C:\src\osg\OpenSceneGraph\include\osg\ApplicationUsage(96,21): warning C4251: 'osg::ApplicationUsage::_description': 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of 'osg::ApplicationUsage'
+  (compiling source file '../../../applications/osgversion/osgversion.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xstring(541,7):
+      see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+  
+C:\src\osg\OpenSceneGraph\include\osg\ApplicationUsage(97,21): warning C4251: 'osg::ApplicationUsage::_commandLineUsage': 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of 'osg::ApplicationUsage'
+  (compiling source file '../../../applications/osgversion/osgversion.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xstring(541,7):
+      see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+  
+C:\src\osg\OpenSceneGraph\include\osg\ApplicationUsage(98,21): warning C4251: 'osg::ApplicationUsage::_commandLineOptions': 'std::map<std::string,std::string,std::less<std::string>,std::allocator<std::pair<const std::string,std::string>>>' needs to have dll-interface to be used by clients of 'osg::ApplicationUsage'
+  (compiling source file '../../../applications/osgversion/osgversion.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\map(72,7):
+      see declaration of 'std::map<std::string,std::string,std::less<std::string>,std::allocator<std::pair<const std::string,std::string>>>'
+  
+C:\src\osg\OpenSceneGraph\include\osg\ApplicationUsage(99,21): warning C4251: 'osg::ApplicationUsage::_environmentalVariables': 'std::map<std::string,std::string,std::less<std::string>,std::allocator<std::pair<const std::string,std::string>>>' needs to have dll-interface to be used by clients of 'osg::ApplicationUsage'
+  (compiling source file '../../../applications/osgversion/osgversion.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\map(72,7):
+      see declaration of 'std::map<std::string,std::string,std::less<std::string>,std::allocator<std::pair<const std::string,std::string>>>'
+  
+C:\src\osg\OpenSceneGraph\include\osg\ApplicationUsage(100,21): warning C4251: 'osg::ApplicationUsage::_keyboardMouse': 'std::map<std::string,std::string,std::less<std::string>,std::allocator<std::pair<const std::string,std::string>>>' needs to have dll-interface to be used by clients of 'osg::ApplicationUsage'
+  (compiling source file '../../../applications/osgversion/osgversion.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\map(72,7):
+      see declaration of 'std::map<std::string,std::string,std::less<std::string>,std::allocator<std::pair<const std::string,std::string>>>'
+  
+C:\src\osg\OpenSceneGraph\include\osg\ApplicationUsage(101,21): warning C4251: 'osg::ApplicationUsage::_environmentalVariablesDefaults': 'std::map<std::string,std::string,std::less<std::string>,std::allocator<std::pair<const std::string,std::string>>>' needs to have dll-interface to be used by clients of 'osg::ApplicationUsage'
+  (compiling source file '../../../applications/osgversion/osgversion.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\map(72,7):
+      see declaration of 'std::map<std::string,std::string,std::less<std::string>,std::allocator<std::pair<const std::string,std::string>>>'
+  
+C:\src\osg\OpenSceneGraph\include\osg\ApplicationUsage(102,21): warning C4251: 'osg::ApplicationUsage::_commandLineOptionsDefaults': 'std::map<std::string,std::string,std::less<std::string>,std::allocator<std::pair<const std::string,std::string>>>' needs to have dll-interface to be used by clients of 'osg::ApplicationUsage'
+  (compiling source file '../../../applications/osgversion/osgversion.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\map(72,7):
+      see declaration of 'std::map<std::string,std::string,std::less<std::string>,std::allocator<std::pair<const std::string,std::string>>>'
+  
+C:\src\osg\OpenSceneGraph\include\osg\ArgumentParser(206,41): warning C4251: 'osg::ArgumentParser::_errorMessageMap': 'std::map<std::string,osg::ArgumentParser::ErrorSeverity,std::less<std::string>,std::allocator<std::pair<const std::string,osg::ArgumentParser::ErrorSeverity>>>' needs to have dll-interface to be used by clients of 'osg::ArgumentParser'
+  (compiling source file '../../../applications/osgversion/osgversion.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\map(72,7):
+      see declaration of 'std::map<std::string,osg::ArgumentParser::ErrorSeverity,std::less<std::string>,std::allocator<std::pair<const std::string,osg::ArgumentParser::ErrorSeverity>>>'
+  
+C:\src\osg\OpenSceneGraph\include\osg\ArgumentParser(207,41): warning C4251: 'osg::ArgumentParser::_usage': 'osg::ref_ptr<osg::ApplicationUsage>' needs to have dll-interface to be used by clients of 'osg::ArgumentParser'
+  (compiling source file '../../../applications/osgversion/osgversion.cpp')
+      C:\src\osg\OpenSceneGraph\include\osg\ref_ptr(23,7):
+      see declaration of 'osg::ref_ptr<osg::ApplicationUsage>'
+  
+C:\src\osg\OpenSceneGraph\include\osg\Object(162,21): warning C4251: 'osg::Object::_name': 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of 'osg::Object'
+  (compiling source file '../../../applications/osgversion/osgversion.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xstring(541,7):
+      see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+  
+C:\src\osg\OpenSceneGraph\include\osg\Object(164,29): warning C4251: 'osg::Object::_userData': 'osg::ref_ptr<osg::Referenced>' needs to have dll-interface to be used by clients of 'osg::Object'
+  (compiling source file '../../../applications/osgversion/osgversion.cpp')
+      C:\src\osg\OpenSceneGraph\include\osg\ref_ptr(23,7):
+      see declaration of 'osg::ref_ptr<osg::Referenced>'
+  
+C:\src\osg\OpenSceneGraph\include\osg\Quat(366,42): warning C4244: 'argument': conversion from 'const osg::Quat::value_type' to 'osg::Vec3f::value_type', possible loss of data
+  (compiling source file '../../../applications/osgversion/osgversion.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Quat(366,35): warning C4244: 'argument': conversion from 'const osg::Quat::value_type' to 'osg::Vec3f::value_type', possible loss of data
+  (compiling source file '../../../applications/osgversion/osgversion.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Quat(366,28): warning C4244: 'argument': conversion from 'const osg::Quat::value_type' to 'osg::Vec3f::value_type', possible loss of data
+  (compiling source file '../../../applications/osgversion/osgversion.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Quat(369,19): warning C4244: 'argument': conversion from 'osg::Quat::value_type' to 'osg::Vec3f::value_type', possible loss of data
+  (compiling source file '../../../applications/osgversion/osgversion.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixd(585,78): warning C4244: 'argument': conversion from 'osg::Matrixd::value_type' to 'osg::Vec3f::value_type', possible loss of data
+  (compiling source file '../../../applications/osgversion/osgversion.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixd(584,78): warning C4244: 'argument': conversion from 'osg::Matrixd::value_type' to 'osg::Vec3f::value_type', possible loss of data
+  (compiling source file '../../../applications/osgversion/osgversion.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixd(583,88): warning C4244: 'argument': conversion from 'osg::Matrixd::value_type' to 'osg::Vec3f::value_type', possible loss of data
+  (compiling source file '../../../applications/osgversion/osgversion.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixd(601,78): warning C4244: 'argument': conversion from 'osg::Matrixd::value_type' to 'osg::Vec3f::value_type', possible loss of data
+  (compiling source file '../../../applications/osgversion/osgversion.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixd(600,78): warning C4244: 'argument': conversion from 'osg::Matrixd::value_type' to 'osg::Vec3f::value_type', possible loss of data
+  (compiling source file '../../../applications/osgversion/osgversion.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixd(599,88): warning C4244: 'argument': conversion from 'osg::Matrixd::value_type' to 'osg::Vec3f::value_type', possible loss of data
+  (compiling source file '../../../applications/osgversion/osgversion.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixd(617,9): warning C4244: 'argument': conversion from 'osg::Matrixd::value_type' to 'osg::Vec4f::value_type', possible loss of data
+  (compiling source file '../../../applications/osgversion/osgversion.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixd(616,9): warning C4244: 'argument': conversion from 'osg::Matrixd::value_type' to 'osg::Vec4f::value_type', possible loss of data
+  (compiling source file '../../../applications/osgversion/osgversion.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixd(615,9): warning C4244: 'argument': conversion from 'osg::Matrixd::value_type' to 'osg::Vec4f::value_type', possible loss of data
+  (compiling source file '../../../applications/osgversion/osgversion.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixd(614,19): warning C4244: 'argument': conversion from 'osg::Matrixd::value_type' to 'osg::Vec4f::value_type', possible loss of data
+  (compiling source file '../../../applications/osgversion/osgversion.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixd(632,9): warning C4244: 'argument': conversion from 'osg::Matrixd::value_type' to 'osg::Vec4f::value_type', possible loss of data
+  (compiling source file '../../../applications/osgversion/osgversion.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixd(631,9): warning C4244: 'argument': conversion from 'osg::Matrixd::value_type' to 'osg::Vec4f::value_type', possible loss of data
+  (compiling source file '../../../applications/osgversion/osgversion.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixd(630,9): warning C4244: 'argument': conversion from 'osg::Matrixd::value_type' to 'osg::Vec4f::value_type', possible loss of data
+  (compiling source file '../../../applications/osgversion/osgversion.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixd(629,19): warning C4244: 'argument': conversion from 'osg::Matrixd::value_type' to 'osg::Vec4f::value_type', possible loss of data
+  (compiling source file '../../../applications/osgversion/osgversion.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixd(647,18): warning C4244: 'argument': conversion from 'osg::Matrixd::value_type' to 'osg::Vec3f::value_type', possible loss of data
+  (compiling source file '../../../applications/osgversion/osgversion.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixd(646,18): warning C4244: 'argument': conversion from 'osg::Matrixd::value_type' to 'osg::Vec3f::value_type', possible loss of data
+  (compiling source file '../../../applications/osgversion/osgversion.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixd(645,19): warning C4244: 'argument': conversion from 'osg::Matrixd::value_type' to 'osg::Vec3f::value_type', possible loss of data
+  (compiling source file '../../../applications/osgversion/osgversion.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixd(660,18): warning C4244: 'argument': conversion from 'osg::Matrixd::value_type' to 'osg::Vec3f::value_type', possible loss of data
+  (compiling source file '../../../applications/osgversion/osgversion.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixd(659,18): warning C4244: 'argument': conversion from 'osg::Matrixd::value_type' to 'osg::Vec3f::value_type', possible loss of data
+  (compiling source file '../../../applications/osgversion/osgversion.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixd(658,19): warning C4244: 'argument': conversion from 'osg::Matrixd::value_type' to 'osg::Vec3f::value_type', possible loss of data
+  (compiling source file '../../../applications/osgversion/osgversion.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixf(445,35): warning C4244: 'argument': conversion from 'osg::Vec3d::value_type' to 'osg::Matrixf::value_type', possible loss of data
+  (compiling source file '../../../applications/osgversion/osgversion.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixf(445,28): warning C4244: 'argument': conversion from 'osg::Vec3d::value_type' to 'osg::Matrixf::value_type', possible loss of data
+  (compiling source file '../../../applications/osgversion/osgversion.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixf(445,21): warning C4244: 'argument': conversion from 'osg::Vec3d::value_type' to 'osg::Matrixf::value_type', possible loss of data
+  (compiling source file '../../../applications/osgversion/osgversion.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixf(462,39): warning C4244: 'argument': conversion from 'osg::Vec3d::value_type' to 'osg::Matrixf::value_type', possible loss of data
+  (compiling source file '../../../applications/osgversion/osgversion.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixf(462,32): warning C4244: 'argument': conversion from 'osg::Vec3d::value_type' to 'osg::Matrixf::value_type', possible loss of data
+  (compiling source file '../../../applications/osgversion/osgversion.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixf(462,25): warning C4244: 'argument': conversion from 'osg::Vec3d::value_type' to 'osg::Matrixf::value_type', possible loss of data
+  (compiling source file '../../../applications/osgversion/osgversion.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixf(587,18): warning C4244: 'initializing': conversion from 'osg::Vec3d::value_type' to 'osg::Matrixf::value_type', possible loss of data
+  (compiling source file '../../../applications/osgversion/osgversion.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixf(602,18): warning C4244: 'initializing': conversion from 'osg::Vec3d::value_type' to 'osg::Matrixf::value_type', possible loss of data
+  (compiling source file '../../../applications/osgversion/osgversion.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixf(670,26): warning C4244: '+=': conversion from 'double' to 'osg::Matrixf::value_type', possible loss of data
+  (compiling source file '../../../applications/osgversion/osgversion.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixf(671,26): warning C4244: '+=': conversion from 'double' to 'osg::Matrixf::value_type', possible loss of data
+  (compiling source file '../../../applications/osgversion/osgversion.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixf(672,26): warning C4244: '+=': conversion from 'double' to 'osg::Matrixf::value_type', possible loss of data
+  (compiling source file '../../../applications/osgversion/osgversion.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixf(673,26): warning C4244: '+=': conversion from 'double' to 'osg::Matrixf::value_type', possible loss of data
+  (compiling source file '../../../applications/osgversion/osgversion.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixf(698,26): warning C4244: '+=': conversion from 'double' to 'osg::Matrixf::value_type', possible loss of data
+  (compiling source file '../../../applications/osgversion/osgversion.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixf(699,26): warning C4244: '+=': conversion from 'double' to 'osg::Matrixf::value_type', possible loss of data
+  (compiling source file '../../../applications/osgversion/osgversion.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixf(700,26): warning C4244: '+=': conversion from 'double' to 'osg::Matrixf::value_type', possible loss of data
+  (compiling source file '../../../applications/osgversion/osgversion.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixf(701,26): warning C4244: '+=': conversion from 'double' to 'osg::Matrixf::value_type', possible loss of data
+  (compiling source file '../../../applications/osgversion/osgversion.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixf(721,22): warning C4244: '*=': conversion from 'osg::Vec3d::value_type' to 'osg::Matrixf::value_type', possible loss of data
+  (compiling source file '../../../applications/osgversion/osgversion.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixf(721,42): warning C4244: '*=': conversion from 'osg::Vec3d::value_type' to 'osg::Matrixf::value_type', possible loss of data
+  (compiling source file '../../../applications/osgversion/osgversion.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixf(721,62): warning C4244: '*=': conversion from 'osg::Vec3d::value_type' to 'osg::Matrixf::value_type', possible loss of data
+  (compiling source file '../../../applications/osgversion/osgversion.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixf(721,82): warning C4244: '*=': conversion from 'osg::Vec3d::value_type' to 'osg::Matrixf::value_type', possible loss of data
+  (compiling source file '../../../applications/osgversion/osgversion.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixf(722,22): warning C4244: '*=': conversion from 'osg::Vec3d::value_type' to 'osg::Matrixf::value_type', possible loss of data
+  (compiling source file '../../../applications/osgversion/osgversion.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixf(722,42): warning C4244: '*=': conversion from 'osg::Vec3d::value_type' to 'osg::Matrixf::value_type', possible loss of data
+  (compiling source file '../../../applications/osgversion/osgversion.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixf(722,62): warning C4244: '*=': conversion from 'osg::Vec3d::value_type' to 'osg::Matrixf::value_type', possible loss of data
+  (compiling source file '../../../applications/osgversion/osgversion.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixf(722,82): warning C4244: '*=': conversion from 'osg::Vec3d::value_type' to 'osg::Matrixf::value_type', possible loss of data
+  (compiling source file '../../../applications/osgversion/osgversion.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixf(723,22): warning C4244: '*=': conversion from 'osg::Vec3d::value_type' to 'osg::Matrixf::value_type', possible loss of data
+  (compiling source file '../../../applications/osgversion/osgversion.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixf(723,42): warning C4244: '*=': conversion from 'osg::Vec3d::value_type' to 'osg::Matrixf::value_type', possible loss of data
+  (compiling source file '../../../applications/osgversion/osgversion.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixf(723,62): warning C4244: '*=': conversion from 'osg::Vec3d::value_type' to 'osg::Matrixf::value_type', possible loss of data
+  (compiling source file '../../../applications/osgversion/osgversion.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixf(723,82): warning C4244: '*=': conversion from 'osg::Vec3d::value_type' to 'osg::Matrixf::value_type', possible loss of data
+  (compiling source file '../../../applications/osgversion/osgversion.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixf(735,22): warning C4244: '*=': conversion from 'osg::Vec3d::value_type' to 'osg::Matrixf::value_type', possible loss of data
+  (compiling source file '../../../applications/osgversion/osgversion.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixf(735,42): warning C4244: '*=': conversion from 'osg::Vec3d::value_type' to 'osg::Matrixf::value_type', possible loss of data
+  (compiling source file '../../../applications/osgversion/osgversion.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixf(735,62): warning C4244: '*=': conversion from 'osg::Vec3d::value_type' to 'osg::Matrixf::value_type', possible loss of data
+  (compiling source file '../../../applications/osgversion/osgversion.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixf(735,82): warning C4244: '*=': conversion from 'osg::Vec3d::value_type' to 'osg::Matrixf::value_type', possible loss of data
+  (compiling source file '../../../applications/osgversion/osgversion.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixf(736,22): warning C4244: '*=': conversion from 'osg::Vec3d::value_type' to 'osg::Matrixf::value_type', possible loss of data
+  (compiling source file '../../../applications/osgversion/osgversion.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixf(736,42): warning C4244: '*=': conversion from 'osg::Vec3d::value_type' to 'osg::Matrixf::value_type', possible loss of data
+  (compiling source file '../../../applications/osgversion/osgversion.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixf(736,62): warning C4244: '*=': conversion from 'osg::Vec3d::value_type' to 'osg::Matrixf::value_type', possible loss of data
+  (compiling source file '../../../applications/osgversion/osgversion.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixf(736,82): warning C4244: '*=': conversion from 'osg::Vec3d::value_type' to 'osg::Matrixf::value_type', possible loss of data
+  (compiling source file '../../../applications/osgversion/osgversion.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixf(737,22): warning C4244: '*=': conversion from 'osg::Vec3d::value_type' to 'osg::Matrixf::value_type', possible loss of data
+  (compiling source file '../../../applications/osgversion/osgversion.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixf(737,42): warning C4244: '*=': conversion from 'osg::Vec3d::value_type' to 'osg::Matrixf::value_type', possible loss of data
+  (compiling source file '../../../applications/osgversion/osgversion.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixf(737,62): warning C4244: '*=': conversion from 'osg::Vec3d::value_type' to 'osg::Matrixf::value_type', possible loss of data
+  (compiling source file '../../../applications/osgversion/osgversion.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixf(737,82): warning C4244: '*=': conversion from 'osg::Vec3d::value_type' to 'osg::Matrixf::value_type', possible loss of data
+  (compiling source file '../../../applications/osgversion/osgversion.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Plane(148,81): warning C4244: 'argument': conversion from 'const osg::Plane::value_type' to 'osg::Vec4f::value_type', possible loss of data
+  (compiling source file '../../../applications/osgversion/osgversion.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Plane(148,74): warning C4244: 'argument': conversion from 'const osg::Plane::value_type' to 'osg::Vec4f::value_type', possible loss of data
+  (compiling source file '../../../applications/osgversion/osgversion.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Plane(148,67): warning C4244: 'argument': conversion from 'const osg::Plane::value_type' to 'osg::Vec4f::value_type', possible loss of data
+  (compiling source file '../../../applications/osgversion/osgversion.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Plane(148,60): warning C4244: 'argument': conversion from 'const osg::Plane::value_type' to 'osg::Vec4f::value_type', possible loss of data
+  (compiling source file '../../../applications/osgversion/osgversion.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Plane(161,32): warning C4244: 'return': conversion from 'osg::Plane::value_type' to 'float', possible loss of data
+  (compiling source file '../../../applications/osgversion/osgversion.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Plane(177,32): warning C4244: 'return': conversion from 'osg::Plane::value_type' to 'float', possible loss of data
+  (compiling source file '../../../applications/osgversion/osgversion.cpp')
+  
+LINK : fatal error LNK1104: cannot open file 'OpenThreadsd.lib'

@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osgShadow\OccluderGeometry.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osgShadow\ShadowMap.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osgShadow\ShadowTechnique.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osgShadow\ShadowTexture.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osgShadow\ShadowVolume.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osgShadow\ShadowedScene.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osgShadow\SoftShadowMap.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osgShadow\ParallelSplitShadowMap.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osgShadow\Version.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osgShadow\ConvexPolyhedron.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osgShadow\DebugShadowMap.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osgShadow\LightSpacePerspectiveShadowMap.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osgShadow\MinimalCullBoundsShadowMap.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osgShadow\MinimalDrawBoundsShadowMap.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osgShadow\MinimalShadowMap.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osgShadow\StandardShadowMap.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osgShadow\ViewDependentShadowTechnique.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\src\osg\OpenSceneGraph\src\osgShadow\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osgShadow\Export">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osgShadow\OccluderGeometry">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osgShadow\ShadowMap">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osgShadow\ShadowTechnique">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osgShadow\ShadowTexture">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osgShadow\ShadowVolume">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osgShadow\ShadowedScene">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osgShadow\SoftShadowMap">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osgShadow\ParallelSplitShadowMap">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osgShadow\Version">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osgShadow\ConvexPolyhedron">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osgShadow\DebugShadowMap">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osgShadow\LightSpacePerspectiveShadowMap">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osgShadow\MinimalCullBoundsShadowMap">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osgShadow\MinimalDrawBoundsShadowMap">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osgShadow\MinimalShadowMap">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osgShadow\ProjectionShadowMap">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osgShadow\StandardShadowMap">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osgShadow\ViewDependentShadowTechnique">
+      <Filter>Header Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{1001FD7A-F899-3469-8133-CD2F5F167162}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{BAB03155-AEB5-3948-8F07-5A5E42FC2B00}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

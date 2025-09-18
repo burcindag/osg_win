@@ -1,0 +1,10 @@
+^C:\SRC\OSG\OPENSCENEGRAPH\BUILD\CMAKEFILES\1BDAE873FF646DDADB0BA2FDBF676006\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/src/osg/OpenSceneGraph -BC:/src/osg/OpenSceneGraph/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/src/osg/OpenSceneGraph/build/OpenSceneGraph.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

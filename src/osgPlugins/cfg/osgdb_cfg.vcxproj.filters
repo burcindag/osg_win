@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osgPlugins\cfg\CameraConfig.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osgPlugins\cfg\Camera.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osgPlugins\cfg\ConfigLexer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osgPlugins\cfg\ConfigParser.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osgPlugins\cfg\ReaderWriterCFG.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osgPlugins\cfg\RenderSurface.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osgPlugins\cfg\VisualChooser.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\src\osg\OpenSceneGraph\src\osgPlugins\cfg\CameraConfig.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\src\osg\OpenSceneGraph\src\osgPlugins\cfg\Camera.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\src\osg\OpenSceneGraph\src\osgPlugins\cfg\ConfigParser.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\src\osg\OpenSceneGraph\src\osgPlugins\cfg\RenderSurface.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\src\osg\OpenSceneGraph\src\osgPlugins\cfg\VisualChooser.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\src\osg\OpenSceneGraph\src\osgPlugins\cfg\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{1001FD7A-F899-3469-8133-CD2F5F167162}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{BAB03155-AEB5-3948-8F07-5A5E42FC2B00}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

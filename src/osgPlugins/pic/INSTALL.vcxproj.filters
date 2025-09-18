@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\src\osg\OpenSceneGraph\build\CMakeFiles\2e8e648d357ce15e68e423ac9818538a\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{FF9BD2DB-5B95-3A35-95E4-6E0F99D3BC43}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

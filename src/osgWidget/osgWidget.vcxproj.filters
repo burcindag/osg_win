@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osgWidget\Box.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osgWidget\Browser.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osgWidget\PdfReader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osgWidget\VncClient.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osgWidget\Canvas.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osgWidget\Frame.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osgWidget\Input.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osgWidget\Label.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osgWidget\Lua.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osgWidget\Python.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osgWidget\StyleManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osgWidget\Table.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osgWidget\Util.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osgWidget\Version.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osgWidget\ViewerEventHandlers.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osgWidget\Widget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osgWidget\Window.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osgWidget\WindowManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\src\osg\OpenSceneGraph\src\osgWidget\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osgWidget\Export">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osgWidget\Box">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osgWidget\Browser">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osgWidget\PdfReader">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osgWidget\VncClient">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osgWidget\Canvas">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osgWidget\EventInterface">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osgWidget\Frame">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osgWidget\Input">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osgWidget\Label">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osgWidget\Lua">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osgWidget\Python">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osgWidget\ScriptEngine">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osgWidget\StyleInterface">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osgWidget\StyleManager">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osgWidget\Table">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osgWidget\Types">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osgWidget\UIObjectParent">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osgWidget\Util">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osgWidget\Version">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osgWidget\ViewerEventHandlers">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osgWidget\Widget">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osgWidget\Window">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osgWidget\WindowManager">
+      <Filter>Header Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{1001FD7A-F899-3469-8133-CD2F5F167162}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{BAB03155-AEB5-3948-8F07-5A5E42FC2B00}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

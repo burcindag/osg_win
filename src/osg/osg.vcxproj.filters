@@ -1,0 +1,899 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\AlphaFunc.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\AnimationPath.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\ApplicationUsage.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\ArgumentParser.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\Array.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\AudioStream.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\AutoTransform.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\Billboard.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\BlendColor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\BlendEquation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\BlendFunc.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\BufferObject.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\Camera.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\CameraView.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\ClampColor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\ClearNode.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\ClipNode.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\ClipPlane.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\ClusterCullingCallback.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\CollectOccludersVisitor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\ColorMask.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\ColorMatrix.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\ComputeBoundsVisitor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\ConvexPlanarOccluder.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\ConvexPlanarPolygon.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\CoordinateSystemNode.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\CopyOp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\CullFace.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\CullingSet.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\CullSettings.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\CullStack.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\DeleteHandler.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\Depth.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\DisplaySettings.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\Drawable.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\DrawPixels.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\dxtctool.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\Fog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\FragmentProgram.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\FrameBufferObject.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\FrameStamp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\FrontFace.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\Geode.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\Geometry.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\GL2Extensions.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\GLExtensions.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\GLObjects.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\GraphicsContext.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\GraphicsThread.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\Group.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\Hint.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\Image.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\ImageSequence.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\ImageStream.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\ImageUtils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\KdTree.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\Light.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\LightModel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\LightSource.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\LineSegment.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\LineStipple.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\LineWidth.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\LOD.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\LogicOp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\Material.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\Math.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\Matrixd.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\MatrixDecomposition.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\Matrixf.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\MatrixTransform.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\Multisample.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\NodeCallback.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\Node.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\NodeTrackerCallback.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\NodeVisitor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\Notify.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\Object.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\OccluderNode.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\OcclusionQueryNode.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\OperationThread.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\PagedLOD.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\Point.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\PointSprite.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\PolygonMode.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\PolygonOffset.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\PolygonStipple.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\PositionAttitudeTransform.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\PrimitiveSet.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\Program.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\Projection.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\ProxyNode.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\Quat.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\Referenced.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\Scissor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\Sequence.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\ShadeModel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\Shader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\ShadowVolumeOccluder.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\Shape.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\ShapeDrawable.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\StateAttribute.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\State.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\StateSet.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\Stats.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\Stencil.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\StencilTwoSided.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\Switch.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\TexEnvCombine.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\TexEnv.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\TexEnvFilter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\TexGen.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\TexGenNode.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\TexMat.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\Texture1D.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\Texture2DArray.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\Texture2D.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\Texture3D.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\Texture.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\TextureCubeMap.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\TextureRectangle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\Timer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\TransferFunction.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\Transform.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\Uniform.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\Version.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\VertexProgram.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\View.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg\OpenSceneGraph\src\osg\Viewport.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\src\osg\OpenSceneGraph\src\osg\dxtctool.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\src\osg\OpenSceneGraph\src\osg\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\AlphaFunc">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\AnimationPath">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\ApplicationUsage">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\ArgumentParser">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\Array">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\AudioStream">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\AutoTransform">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\Billboard">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\BlendColor">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\BlendEquation">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\BlendFunc">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\BoundingBox">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\BoundingSphere">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\BoundsChecking">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\buffered_value">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\BufferObject">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\Camera">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\CameraNode">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\CameraView">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\ClampColor">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\ClearNode">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\ClipNode">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\ClipPlane">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\ClusterCullingCallback">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\CollectOccludersVisitor">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\ColorMask">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\ColorMatrix">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\ComputeBoundsVisitor">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\ConvexPlanarOccluder">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\ConvexPlanarPolygon">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\CoordinateSystemNode">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\CopyOp">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\CullFace">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\CullingSet">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\CullSettings">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\CullStack">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\DeleteHandler">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\Depth">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\DisplaySettings">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\Drawable">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\DrawPixels">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\Endian">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\Export">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\fast_back_stack">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\Fog">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\FragmentProgram">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\FrameBufferObject">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\FrameStamp">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\FrontFace">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\Geode">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\Geometry">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\GL">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\GL2Extensions">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\GLExtensions">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\GLObjects">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\GLU">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\GraphicsContext">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\GraphicsThread">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\Group">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\Hint">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\Image">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\ImageSequence">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\ImageStream">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\ImageUtils">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\io_utils">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\KdTree">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\Light">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\LightModel">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\LightSource">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\LineSegment">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\LineStipple">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\LineWidth">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\LOD">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\LogicOp">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\Material">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\Math">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\Matrix">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\Matrixd">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\Matrixf">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\MatrixTransform">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\MixinVector">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\Multisample">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\Node">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\NodeCallback">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\NodeTrackerCallback">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\NodeVisitor">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\Notify">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\Object">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\observer_ptr">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\OccluderNode">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\OcclusionQueryNode">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\OperationThread">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\PagedLOD">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\Plane">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\Point">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\PointSprite">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\PolygonMode">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\PolygonOffset">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\PolygonStipple">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\Polytope">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\PositionAttitudeTransform">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\PrimitiveSet">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\Program">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\Projection">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\ProxyNode">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\Quat">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\Referenced">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\ref_ptr">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\RenderInfo">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\Scissor">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\Sequence">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\ShadeModel">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\Shader">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\ShadowVolumeOccluder">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\Shape">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\ShapeDrawable">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\State">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\StateAttribute">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\StateAttributeCallback">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\StateSet">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\Stats">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\Stencil">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\StencilTwoSided">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\Switch">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\TemplatePrimitiveFunctor">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\TexEnv">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\TexEnvCombine">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\TexEnvFilter">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\TexGen">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\TexGenNode">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\TexMat">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\Texture">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\Texture1D">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\Texture2D">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\Texture2DArray">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\Texture3D">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\TextureCubeMap">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\TextureRectangle">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\Timer">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\TransferFunction">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\Transform">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\TriangleFunctor">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\TriangleIndexFunctor">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\Uniform">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\Vec2">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\Vec2b">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\Vec2d">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\Vec2f">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\Vec2s">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\Vec3">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\Vec3b">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\Vec3d">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\Vec3f">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\Vec3s">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\Vec4">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\Vec4b">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\Vec4d">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\Vec4f">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\Vec4s">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\Vec4ub">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\Version">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\VertexProgram">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\View">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg\OpenSceneGraph\include\osg\Viewport">
+      <Filter>Header Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{1001FD7A-F899-3469-8133-CD2F5F167162}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{BAB03155-AEB5-3948-8F07-5A5E42FC2B00}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

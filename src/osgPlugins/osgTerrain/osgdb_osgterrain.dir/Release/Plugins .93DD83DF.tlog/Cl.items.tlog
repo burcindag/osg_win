@@ -1,0 +1,9 @@
+C:\src\osg\OpenSceneGraph\src\osgPlugins\osgTerrain\Locator.cpp;E:\src\2.8.3\src\osgPlugins\osgTerrain\osgdb_osgterrain.dir\Release\Locator.obj
+C:\src\osg\OpenSceneGraph\src\osgPlugins\osgTerrain\ImageLayer.cpp;E:\src\2.8.3\src\osgPlugins\osgTerrain\osgdb_osgterrain.dir\Release\ImageLayer.obj
+C:\src\osg\OpenSceneGraph\src\osgPlugins\osgTerrain\HeightFieldLayer.cpp;E:\src\2.8.3\src\osgPlugins\osgTerrain\osgdb_osgterrain.dir\Release\HeightFieldLayer.obj
+C:\src\osg\OpenSceneGraph\src\osgPlugins\osgTerrain\CompositeLayer.cpp;E:\src\2.8.3\src\osgPlugins\osgTerrain\osgdb_osgterrain.dir\Release\CompositeLayer.obj
+C:\src\osg\OpenSceneGraph\src\osgPlugins\osgTerrain\SwitchLayer.cpp;E:\src\2.8.3\src\osgPlugins\osgTerrain\osgdb_osgterrain.dir\Release\SwitchLayer.obj
+C:\src\osg\OpenSceneGraph\src\osgPlugins\osgTerrain\Layer.cpp;E:\src\2.8.3\src\osgPlugins\osgTerrain\osgdb_osgterrain.dir\Release\Layer.obj
+C:\src\osg\OpenSceneGraph\src\osgPlugins\osgTerrain\TerrainTile.cpp;E:\src\2.8.3\src\osgPlugins\osgTerrain\osgdb_osgterrain.dir\Release\TerrainTile.obj
+C:\src\osg\OpenSceneGraph\src\osgPlugins\osgTerrain\GeometryTechnique.cpp;E:\src\2.8.3\src\osgPlugins\osgTerrain\osgdb_osgterrain.dir\Release\GeometryTechnique.obj
+C:\src\osg\OpenSceneGraph\src\osgPlugins\osgTerrain\ReaderWriterOsgTerrain.cpp;E:\src\2.8.3\src\osgPlugins\osgTerrain\osgdb_osgterrain.dir\Release\ReaderWriterOsgTerrain.obj

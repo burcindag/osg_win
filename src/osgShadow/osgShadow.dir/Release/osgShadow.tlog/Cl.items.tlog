@@ -1,0 +1,17 @@
+C:\src\osg\OpenSceneGraph\src\osgShadow\OccluderGeometry.cpp;E:\src\2.8.3\src\osgShadow\osgShadow.dir\Release\OccluderGeometry.obj
+C:\src\osg\OpenSceneGraph\src\osgShadow\ShadowMap.cpp;E:\src\2.8.3\src\osgShadow\osgShadow.dir\Release\ShadowMap.obj
+C:\src\osg\OpenSceneGraph\src\osgShadow\ShadowTechnique.cpp;E:\src\2.8.3\src\osgShadow\osgShadow.dir\Release\ShadowTechnique.obj
+C:\src\osg\OpenSceneGraph\src\osgShadow\ShadowTexture.cpp;E:\src\2.8.3\src\osgShadow\osgShadow.dir\Release\ShadowTexture.obj
+C:\src\osg\OpenSceneGraph\src\osgShadow\ShadowVolume.cpp;E:\src\2.8.3\src\osgShadow\osgShadow.dir\Release\ShadowVolume.obj
+C:\src\osg\OpenSceneGraph\src\osgShadow\ShadowedScene.cpp;E:\src\2.8.3\src\osgShadow\osgShadow.dir\Release\ShadowedScene.obj
+C:\src\osg\OpenSceneGraph\src\osgShadow\SoftShadowMap.cpp;E:\src\2.8.3\src\osgShadow\osgShadow.dir\Release\SoftShadowMap.obj
+C:\src\osg\OpenSceneGraph\src\osgShadow\ParallelSplitShadowMap.cpp;E:\src\2.8.3\src\osgShadow\osgShadow.dir\Release\ParallelSplitShadowMap.obj
+C:\src\osg\OpenSceneGraph\src\osgShadow\Version.cpp;E:\src\2.8.3\src\osgShadow\osgShadow.dir\Release\Version.obj
+C:\src\osg\OpenSceneGraph\src\osgShadow\ConvexPolyhedron.cpp;E:\src\2.8.3\src\osgShadow\osgShadow.dir\Release\ConvexPolyhedron.obj
+C:\src\osg\OpenSceneGraph\src\osgShadow\DebugShadowMap.cpp;E:\src\2.8.3\src\osgShadow\osgShadow.dir\Release\DebugShadowMap.obj
+C:\src\osg\OpenSceneGraph\src\osgShadow\LightSpacePerspectiveShadowMap.cpp;E:\src\2.8.3\src\osgShadow\osgShadow.dir\Release\LightSpacePerspectiveShadowMap.obj
+C:\src\osg\OpenSceneGraph\src\osgShadow\MinimalCullBoundsShadowMap.cpp;E:\src\2.8.3\src\osgShadow\osgShadow.dir\Release\MinimalCullBoundsShadowMap.obj
+C:\src\osg\OpenSceneGraph\src\osgShadow\MinimalDrawBoundsShadowMap.cpp;E:\src\2.8.3\src\osgShadow\osgShadow.dir\Release\MinimalDrawBoundsShadowMap.obj
+C:\src\osg\OpenSceneGraph\src\osgShadow\MinimalShadowMap.cpp;E:\src\2.8.3\src\osgShadow\osgShadow.dir\Release\MinimalShadowMap.obj
+C:\src\osg\OpenSceneGraph\src\osgShadow\StandardShadowMap.cpp;E:\src\2.8.3\src\osgShadow\osgShadow.dir\Release\StandardShadowMap.obj
+C:\src\osg\OpenSceneGraph\src\osgShadow\ViewDependentShadowTechnique.cpp;E:\src\2.8.3\src\osgShadow\osgShadow.dir\Release\ViewDependentShadowTechnique.obj

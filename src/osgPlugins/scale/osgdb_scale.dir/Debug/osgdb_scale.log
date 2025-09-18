@@ -1,0 +1,629 @@
+﻿  Building Custom Rule C:/src/osg/OpenSceneGraph/src/osgPlugins/scale/CMakeLists.txt
+  ReaderWriterSCALE.cpp
+C:\src\osg\OpenSceneGraph\include\osg\Object(162,21): warning C4251: 'osg::Object::_name': 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of 'osg::Object'
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xstring(541,7):
+      see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+  
+C:\src\osg\OpenSceneGraph\include\osg\Object(164,29): warning C4251: 'osg::Object::_userData': 'osg::ref_ptr<osg::Referenced>' needs to have dll-interface to be used by clients of 'osg::Object'
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+      C:\src\osg\OpenSceneGraph\include\osg\ref_ptr(23,7):
+      see declaration of 'osg::ref_ptr<osg::Referenced>'
+  
+C:\src\osg\OpenSceneGraph\include\osg\Quat(366,42): warning C4244: 'argument': conversion from 'const osg::Quat::value_type' to 'osg::Vec3f::value_type', possible loss of data
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Quat(366,35): warning C4244: 'argument': conversion from 'const osg::Quat::value_type' to 'osg::Vec3f::value_type', possible loss of data
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Quat(366,28): warning C4244: 'argument': conversion from 'const osg::Quat::value_type' to 'osg::Vec3f::value_type', possible loss of data
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Quat(369,19): warning C4244: 'argument': conversion from 'osg::Quat::value_type' to 'osg::Vec3f::value_type', possible loss of data
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixd(585,78): warning C4244: 'argument': conversion from 'osg::Matrixd::value_type' to 'osg::Vec3f::value_type', possible loss of data
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixd(584,78): warning C4244: 'argument': conversion from 'osg::Matrixd::value_type' to 'osg::Vec3f::value_type', possible loss of data
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixd(583,88): warning C4244: 'argument': conversion from 'osg::Matrixd::value_type' to 'osg::Vec3f::value_type', possible loss of data
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixd(601,78): warning C4244: 'argument': conversion from 'osg::Matrixd::value_type' to 'osg::Vec3f::value_type', possible loss of data
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixd(600,78): warning C4244: 'argument': conversion from 'osg::Matrixd::value_type' to 'osg::Vec3f::value_type', possible loss of data
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixd(599,88): warning C4244: 'argument': conversion from 'osg::Matrixd::value_type' to 'osg::Vec3f::value_type', possible loss of data
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixd(617,9): warning C4244: 'argument': conversion from 'osg::Matrixd::value_type' to 'osg::Vec4f::value_type', possible loss of data
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixd(616,9): warning C4244: 'argument': conversion from 'osg::Matrixd::value_type' to 'osg::Vec4f::value_type', possible loss of data
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixd(615,9): warning C4244: 'argument': conversion from 'osg::Matrixd::value_type' to 'osg::Vec4f::value_type', possible loss of data
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixd(614,19): warning C4244: 'argument': conversion from 'osg::Matrixd::value_type' to 'osg::Vec4f::value_type', possible loss of data
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixd(632,9): warning C4244: 'argument': conversion from 'osg::Matrixd::value_type' to 'osg::Vec4f::value_type', possible loss of data
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixd(631,9): warning C4244: 'argument': conversion from 'osg::Matrixd::value_type' to 'osg::Vec4f::value_type', possible loss of data
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixd(630,9): warning C4244: 'argument': conversion from 'osg::Matrixd::value_type' to 'osg::Vec4f::value_type', possible loss of data
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixd(629,19): warning C4244: 'argument': conversion from 'osg::Matrixd::value_type' to 'osg::Vec4f::value_type', possible loss of data
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixd(647,18): warning C4244: 'argument': conversion from 'osg::Matrixd::value_type' to 'osg::Vec3f::value_type', possible loss of data
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixd(646,18): warning C4244: 'argument': conversion from 'osg::Matrixd::value_type' to 'osg::Vec3f::value_type', possible loss of data
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixd(645,19): warning C4244: 'argument': conversion from 'osg::Matrixd::value_type' to 'osg::Vec3f::value_type', possible loss of data
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixd(660,18): warning C4244: 'argument': conversion from 'osg::Matrixd::value_type' to 'osg::Vec3f::value_type', possible loss of data
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixd(659,18): warning C4244: 'argument': conversion from 'osg::Matrixd::value_type' to 'osg::Vec3f::value_type', possible loss of data
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixd(658,19): warning C4244: 'argument': conversion from 'osg::Matrixd::value_type' to 'osg::Vec3f::value_type', possible loss of data
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixf(445,35): warning C4244: 'argument': conversion from 'osg::Vec3d::value_type' to 'osg::Matrixf::value_type', possible loss of data
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixf(445,28): warning C4244: 'argument': conversion from 'osg::Vec3d::value_type' to 'osg::Matrixf::value_type', possible loss of data
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixf(445,21): warning C4244: 'argument': conversion from 'osg::Vec3d::value_type' to 'osg::Matrixf::value_type', possible loss of data
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixf(462,39): warning C4244: 'argument': conversion from 'osg::Vec3d::value_type' to 'osg::Matrixf::value_type', possible loss of data
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixf(462,32): warning C4244: 'argument': conversion from 'osg::Vec3d::value_type' to 'osg::Matrixf::value_type', possible loss of data
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixf(462,25): warning C4244: 'argument': conversion from 'osg::Vec3d::value_type' to 'osg::Matrixf::value_type', possible loss of data
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixf(587,18): warning C4244: 'initializing': conversion from 'osg::Vec3d::value_type' to 'osg::Matrixf::value_type', possible loss of data
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixf(602,18): warning C4244: 'initializing': conversion from 'osg::Vec3d::value_type' to 'osg::Matrixf::value_type', possible loss of data
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixf(670,26): warning C4244: '+=': conversion from 'double' to 'osg::Matrixf::value_type', possible loss of data
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixf(671,26): warning C4244: '+=': conversion from 'double' to 'osg::Matrixf::value_type', possible loss of data
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixf(672,26): warning C4244: '+=': conversion from 'double' to 'osg::Matrixf::value_type', possible loss of data
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixf(673,26): warning C4244: '+=': conversion from 'double' to 'osg::Matrixf::value_type', possible loss of data
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixf(698,26): warning C4244: '+=': conversion from 'double' to 'osg::Matrixf::value_type', possible loss of data
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixf(699,26): warning C4244: '+=': conversion from 'double' to 'osg::Matrixf::value_type', possible loss of data
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixf(700,26): warning C4244: '+=': conversion from 'double' to 'osg::Matrixf::value_type', possible loss of data
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixf(701,26): warning C4244: '+=': conversion from 'double' to 'osg::Matrixf::value_type', possible loss of data
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixf(721,22): warning C4244: '*=': conversion from 'osg::Vec3d::value_type' to 'osg::Matrixf::value_type', possible loss of data
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixf(721,42): warning C4244: '*=': conversion from 'osg::Vec3d::value_type' to 'osg::Matrixf::value_type', possible loss of data
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixf(721,62): warning C4244: '*=': conversion from 'osg::Vec3d::value_type' to 'osg::Matrixf::value_type', possible loss of data
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixf(721,82): warning C4244: '*=': conversion from 'osg::Vec3d::value_type' to 'osg::Matrixf::value_type', possible loss of data
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixf(722,22): warning C4244: '*=': conversion from 'osg::Vec3d::value_type' to 'osg::Matrixf::value_type', possible loss of data
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixf(722,42): warning C4244: '*=': conversion from 'osg::Vec3d::value_type' to 'osg::Matrixf::value_type', possible loss of data
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixf(722,62): warning C4244: '*=': conversion from 'osg::Vec3d::value_type' to 'osg::Matrixf::value_type', possible loss of data
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixf(722,82): warning C4244: '*=': conversion from 'osg::Vec3d::value_type' to 'osg::Matrixf::value_type', possible loss of data
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixf(723,22): warning C4244: '*=': conversion from 'osg::Vec3d::value_type' to 'osg::Matrixf::value_type', possible loss of data
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixf(723,42): warning C4244: '*=': conversion from 'osg::Vec3d::value_type' to 'osg::Matrixf::value_type', possible loss of data
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixf(723,62): warning C4244: '*=': conversion from 'osg::Vec3d::value_type' to 'osg::Matrixf::value_type', possible loss of data
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixf(723,82): warning C4244: '*=': conversion from 'osg::Vec3d::value_type' to 'osg::Matrixf::value_type', possible loss of data
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixf(735,22): warning C4244: '*=': conversion from 'osg::Vec3d::value_type' to 'osg::Matrixf::value_type', possible loss of data
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixf(735,42): warning C4244: '*=': conversion from 'osg::Vec3d::value_type' to 'osg::Matrixf::value_type', possible loss of data
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixf(735,62): warning C4244: '*=': conversion from 'osg::Vec3d::value_type' to 'osg::Matrixf::value_type', possible loss of data
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixf(735,82): warning C4244: '*=': conversion from 'osg::Vec3d::value_type' to 'osg::Matrixf::value_type', possible loss of data
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixf(736,22): warning C4244: '*=': conversion from 'osg::Vec3d::value_type' to 'osg::Matrixf::value_type', possible loss of data
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixf(736,42): warning C4244: '*=': conversion from 'osg::Vec3d::value_type' to 'osg::Matrixf::value_type', possible loss of data
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixf(736,62): warning C4244: '*=': conversion from 'osg::Vec3d::value_type' to 'osg::Matrixf::value_type', possible loss of data
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixf(736,82): warning C4244: '*=': conversion from 'osg::Vec3d::value_type' to 'osg::Matrixf::value_type', possible loss of data
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixf(737,22): warning C4244: '*=': conversion from 'osg::Vec3d::value_type' to 'osg::Matrixf::value_type', possible loss of data
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixf(737,42): warning C4244: '*=': conversion from 'osg::Vec3d::value_type' to 'osg::Matrixf::value_type', possible loss of data
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixf(737,62): warning C4244: '*=': conversion from 'osg::Vec3d::value_type' to 'osg::Matrixf::value_type', possible loss of data
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Matrixf(737,82): warning C4244: '*=': conversion from 'osg::Vec3d::value_type' to 'osg::Matrixf::value_type', possible loss of data
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\StateAttribute(337,20): warning C4251: 'osg::StateAttribute::_parents': 'std::vector<osg::StateSet *,std::allocator<osg::StateSet *>>' needs to have dll-interface to be used by clients of 'osg::StateAttribute'
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\vector(442,7):
+      see declaration of 'std::vector<osg::StateSet *,std::allocator<osg::StateSet *>>'
+  
+C:\src\osg\OpenSceneGraph\include\osg\StateAttribute(340,43): warning C4251: 'osg::StateAttribute::_updateCallback': 'osg::ref_ptr<osg::StateAttributeCallback>' needs to have dll-interface to be used by clients of 'osg::StateAttribute'
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+      C:\src\osg\OpenSceneGraph\include\osg\ref_ptr(23,7):
+      see declaration of 'osg::ref_ptr<osg::StateAttributeCallback>'
+  
+C:\src\osg\OpenSceneGraph\include\osg\StateAttribute(341,43): warning C4251: 'osg::StateAttribute::_eventCallback': 'osg::ref_ptr<osg::StateAttributeCallback>' needs to have dll-interface to be used by clients of 'osg::StateAttribute'
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+      C:\src\osg\OpenSceneGraph\include\osg\ref_ptr(23,7):
+      see declaration of 'osg::ref_ptr<osg::StateAttributeCallback>'
+  
+C:\src\osg\OpenSceneGraph\include\osg\DisplaySettings(241,41): warning C4251: 'osg::DisplaySettings::_application': 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of 'osg::DisplaySettings'
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xstring(541,7):
+      see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+  
+C:\src\osg\OpenSceneGraph\include\osg\BufferObject(264,33): warning C4251: 'osg::BufferObject::_bufferObjectList': 'osg::buffered_value<unsigned int>' needs to have dll-interface to be used by clients of 'osg::BufferObject'
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+      C:\src\osg\OpenSceneGraph\include\osg\buffered_value(26,7):
+      see declaration of 'osg::buffered_value<unsigned int>'
+  
+C:\src\osg\OpenSceneGraph\include\osg\BufferObject(265,33): warning C4251: 'osg::BufferObject::_compiledList': 'osg::buffered_value<unsigned int>' needs to have dll-interface to be used by clients of 'osg::BufferObject'
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+      C:\src\osg\OpenSceneGraph\include\osg\buffered_value(26,7):
+      see declaration of 'osg::buffered_value<unsigned int>'
+  
+C:\src\osg\OpenSceneGraph\include\osg\BufferObject(305,31): warning C4251: 'osg::VertexBufferObject::_bufferEntryArrayPairs': 'std::vector<osg::VertexBufferObject::BufferEntryArrayPair,std::allocator<osg::VertexBufferObject::BufferEntryArrayPair>>' needs to have dll-interface to be used by clients of 'osg::VertexBufferObject'
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\vector(442,7):
+      see declaration of 'std::vector<osg::VertexBufferObject::BufferEntryArrayPair,std::allocator<osg::VertexBufferObject::BufferEntryArrayPair>>'
+  
+C:\src\osg\OpenSceneGraph\include\osg\BufferObject(341,38): warning C4251: 'osg::ElementBufferObject::_bufferEntryDrawElementsPairs': 'std::vector<osg::ElementBufferObject::BufferEntryDrawElementsPair,std::allocator<osg::ElementBufferObject::BufferEntryDrawElementsPair>>' needs to have dll-interface to be used by clients of 'osg::ElementBufferObject'
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\vector(442,7):
+      see declaration of 'std::vector<osg::ElementBufferObject::BufferEntryDrawElementsPair,std::allocator<osg::ElementBufferObject::BufferEntryDrawElementsPair>>'
+  
+C:\src\osg\OpenSceneGraph\include\osg\BufferObject(374,30): warning C4251: 'osg::PixelBufferObject::_bufferEntryImagePair': 'std::pair<osg::BufferObject::BufferEntry,osg::Image *>' needs to have dll-interface to be used by clients of 'osg::PixelBufferObject'
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\utility(247,8):
+      see declaration of 'std::pair<osg::BufferObject::BufferEntry,osg::Image *>'
+  
+C:\src\osg\OpenSceneGraph\include\osg\BufferObject(430,21): warning C4251: 'osg::PixelDataBufferObject::_bufferData': 'osg::BufferObject::BufferEntry' needs to have dll-interface to be used by clients of 'osg::PixelDataBufferObject'
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+      C:\src\osg\OpenSceneGraph\include\osg\BufferObject(126,16):
+      see declaration of 'osg::BufferObject::BufferEntry'
+  
+C:\src\osg\OpenSceneGraph\include\osg\BufferObject(434,26): warning C4251: 'osg::PixelDataBufferObject::_mode': 'osg::buffered_value<unsigned int>' needs to have dll-interface to be used by clients of 'osg::PixelDataBufferObject'
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+      C:\src\osg\OpenSceneGraph\include\osg\buffered_value(26,7):
+      see declaration of 'osg::buffered_value<unsigned int>'
+  
+C:\src\osg\OpenSceneGraph\include\osg\Array(169,49): warning C4251: 'osg::Array::_vbo': 'osg::ref_ptr<osg::VertexBufferObject>' needs to have dll-interface to be used by clients of 'osg::Array'
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+      C:\src\osg\OpenSceneGraph\include\osg\ref_ptr(23,7):
+      see declaration of 'osg::ref_ptr<osg::VertexBufferObject>'
+  
+C:\src\osg\OpenSceneGraph\include\osg\Uniform(482,20): warning C4251: 'osg::Uniform::_parents': 'std::vector<osg::StateSet *,std::allocator<osg::StateSet *>>' needs to have dll-interface to be used by clients of 'osg::Uniform'
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\vector(442,7):
+      see declaration of 'std::vector<osg::StateSet *,std::allocator<osg::StateSet *>>'
+  
+C:\src\osg\OpenSceneGraph\include\osg\Uniform(490,29): warning C4251: 'osg::Uniform::_floatArray': 'osg::ref_ptr<osg::FloatArray>' needs to have dll-interface to be used by clients of 'osg::Uniform'
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+      C:\src\osg\OpenSceneGraph\include\osg\ref_ptr(23,7):
+      see declaration of 'osg::ref_ptr<osg::FloatArray>'
+  
+C:\src\osg\OpenSceneGraph\include\osg\Uniform(491,29): warning C4251: 'osg::Uniform::_intArray': 'osg::ref_ptr<osg::IntArray>' needs to have dll-interface to be used by clients of 'osg::Uniform'
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+      C:\src\osg\OpenSceneGraph\include\osg\ref_ptr(23,7):
+      see declaration of 'osg::ref_ptr<osg::IntArray>'
+  
+C:\src\osg\OpenSceneGraph\include\osg\Uniform(492,29): warning C4251: 'osg::Uniform::_uintArray': 'osg::ref_ptr<osg::UIntArray>' needs to have dll-interface to be used by clients of 'osg::Uniform'
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+      C:\src\osg\OpenSceneGraph\include\osg\ref_ptr(23,7):
+      see declaration of 'osg::ref_ptr<osg::UIntArray>'
+  
+C:\src\osg\OpenSceneGraph\include\osg\Uniform(494,29): warning C4251: 'osg::Uniform::_updateCallback': 'osg::ref_ptr<osg::Uniform::Callback>' needs to have dll-interface to be used by clients of 'osg::Uniform'
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+      C:\src\osg\OpenSceneGraph\include\osg\ref_ptr(23,7):
+      see declaration of 'osg::ref_ptr<osg::Uniform::Callback>'
+  
+C:\src\osg\OpenSceneGraph\include\osg\Uniform(495,29): warning C4251: 'osg::Uniform::_eventCallback': 'osg::ref_ptr<osg::Uniform::Callback>' needs to have dll-interface to be used by clients of 'osg::Uniform'
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+      C:\src\osg\OpenSceneGraph\include\osg\ref_ptr(23,7):
+      see declaration of 'osg::ref_ptr<osg::Uniform::Callback>'
+  
+C:\src\osg\OpenSceneGraph\include\osg\Uniform(318,73): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Shader(186,21): warning C4251: 'osg::Shader::_shaderSource': 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of 'osg::Shader'
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xstring(541,7):
+      see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+  
+C:\src\osg\OpenSceneGraph\include\osg\Shader(187,21): warning C4251: 'osg::Shader::_shaderFileName': 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of 'osg::Shader'
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xstring(541,7):
+      see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+  
+C:\src\osg\OpenSceneGraph\include\osg\Shader(190,20): warning C4251: 'osg::Shader::_programSet': 'std::set<osg::Program *,std::less<osg::Program *>,std::allocator<osg::Program *>>' needs to have dll-interface to be used by clients of 'osg::Shader'
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\set(51,7):
+      see declaration of 'std::set<osg::Program *,std::less<osg::Program *>,std::allocator<osg::Program *>>'
+  
+C:\src\osg\OpenSceneGraph\include\osg\Shader(191,71): warning C4251: 'osg::Shader::_pcsList': 'osg::buffered_value<osg::ref_ptr<osg::Shader::PerContextShader>>' needs to have dll-interface to be used by clients of 'osg::Shader'
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+      C:\src\osg\OpenSceneGraph\include\osg\buffered_value(26,7):
+      see declaration of 'osg::buffered_value<osg::ref_ptr<osg::Shader::PerContextShader>>'
+  
+C:\src\osg\OpenSceneGraph\include\osg\Program(232,45): warning C4251: 'osg::Program::PerContextProgram::_extensions': 'osg::ref_ptr<osg::GL2Extensions>' needs to have dll-interface to be used by clients of 'osg::Program::PerContextProgram'
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+      C:\src\osg\OpenSceneGraph\include\osg\ref_ptr(23,7):
+      see declaration of 'osg::ref_ptr<osg::GL2Extensions>'
+  
+C:\src\osg\OpenSceneGraph\include\osg\Program(241,34): warning C4251: 'osg::Program::PerContextProgram::_uniformInfoMap': 'std::map<std::string,osg::Program::ActiveVarInfo,std::less<std::string>,std::allocator<std::pair<const std::string,osg::Program::ActiveVarInfo>>>' needs to have dll-interface to be used by clients of 'osg::Program::PerContextProgram'
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\map(72,7):
+      see declaration of 'std::map<std::string,osg::Program::ActiveVarInfo,std::less<std::string>,std::allocator<std::pair<const std::string,osg::Program::ActiveVarInfo>>>'
+  
+C:\src\osg\OpenSceneGraph\include\osg\Program(242,34): warning C4251: 'osg::Program::PerContextProgram::_attribInfoMap': 'std::map<std::string,osg::Program::ActiveVarInfo,std::less<std::string>,std::allocator<std::pair<const std::string,osg::Program::ActiveVarInfo>>>' needs to have dll-interface to be used by clients of 'osg::Program::PerContextProgram'
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\map(72,7):
+      see declaration of 'std::map<std::string,osg::Program::ActiveVarInfo,std::less<std::string>,std::allocator<std::pair<const std::string,osg::Program::ActiveVarInfo>>>'
+  
+C:\src\osg\OpenSceneGraph\include\osg\Program(246,48): warning C4251: 'osg::Program::PerContextProgram::_lastAppliedUniformList': 'std::vector<osg::Program::PerContextProgram::UniformModifiedCountPair,std::allocator<osg::Program::PerContextProgram::UniformModifiedCountPair>>' needs to have dll-interface to be used by clients of 'osg::Program::PerContextProgram'
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\vector(442,7):
+      see declaration of 'std::vector<osg::Program::PerContextProgram::UniformModifiedCountPair,std::allocator<osg::Program::PerContextProgram::UniformModifiedCountPair>>'
+  
+C:\src\osg\OpenSceneGraph\include\osg\Program(249,28): warning C4251: 'osg::Program::PerContextProgram::_shadersToDetach': 'std::vector<osg::ref_ptr<osg::Shader>,std::allocator<osg::ref_ptr<osg::Shader>>>' needs to have dll-interface to be used by clients of 'osg::Program::PerContextProgram'
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\vector(442,7):
+      see declaration of 'std::vector<osg::ref_ptr<osg::Shader>,std::allocator<osg::ref_ptr<osg::Shader>>>'
+  
+C:\src\osg\OpenSceneGraph\include\osg\Program(250,28): warning C4251: 'osg::Program::PerContextProgram::_shadersToAttach': 'std::vector<osg::ref_ptr<osg::Shader>,std::allocator<osg::ref_ptr<osg::Shader>>>' needs to have dll-interface to be used by clients of 'osg::Program::PerContextProgram'
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\vector(442,7):
+      see declaration of 'std::vector<osg::ref_ptr<osg::Shader>,std::allocator<osg::ref_ptr<osg::Shader>>>'
+  
+C:\src\osg\OpenSceneGraph\include\osg\Program(266,72): warning C4251: 'osg::Program::_pcpList': 'osg::buffered_value<osg::ref_ptr<osg::Program::PerContextProgram>>' needs to have dll-interface to be used by clients of 'osg::Program'
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+      C:\src\osg\OpenSceneGraph\include\osg\buffered_value(26,7):
+      see declaration of 'osg::buffered_value<osg::ref_ptr<osg::Program::PerContextProgram>>'
+  
+C:\src\osg\OpenSceneGraph\include\osg\Program(267,27): warning C4251: 'osg::Program::_attribBindingList': 'std::map<std::string,GLuint,std::less<std::string>,std::allocator<std::pair<const std::string,GLuint>>>' needs to have dll-interface to be used by clients of 'osg::Program'
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\map(72,7):
+      see declaration of 'std::map<std::string,GLuint,std::less<std::string>,std::allocator<std::pair<const std::string,GLuint>>>'
+  
+C:\src\osg\OpenSceneGraph\include\osg\Program(268,29): warning C4251: 'osg::Program::_fragDataBindingList': 'std::map<std::string,GLuint,std::less<std::string>,std::allocator<std::pair<const std::string,GLuint>>>' needs to have dll-interface to be used by clients of 'osg::Program'
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\map(72,7):
+      see declaration of 'std::map<std::string,GLuint,std::less<std::string>,std::allocator<std::pair<const std::string,GLuint>>>'
+  
+C:\src\osg\OpenSceneGraph\include\osg\Program(271,20): warning C4251: 'osg::Program::_shaderList': 'std::vector<osg::ref_ptr<osg::Shader>,std::allocator<osg::ref_ptr<osg::Shader>>>' needs to have dll-interface to be used by clients of 'osg::Program'
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\vector(442,7):
+      see declaration of 'std::vector<osg::ref_ptr<osg::Shader>,std::allocator<osg::ref_ptr<osg::Shader>>>'
+  
+C:\src\osg\OpenSceneGraph\include\osg\StateSet(457,20): warning C4251: 'osg::StateSet::_parents': 'std::vector<osg::Object *,std::allocator<osg::Object *>>' needs to have dll-interface to be used by clients of 'osg::StateSet'
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\vector(442,7):
+      see declaration of 'std::vector<osg::Object *,std::allocator<osg::Object *>>'
+  
+C:\src\osg\OpenSceneGraph\include\osg\StateSet(463,45): warning C4251: 'osg::StateSet::_modeList': 'std::map<osg::StateAttribute::GLMode,osg::StateAttribute::GLModeValue,std::less<osg::StateAttribute::GLMode>,std::allocator<std::pair<const osg::StateAttribute::GLMode,osg::StateAttribute::GLModeValue>>>' needs to have dll-interface to be used by clients of 'osg::StateSet'
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\map(72,7):
+      see declaration of 'std::map<osg::StateAttribute::GLMode,osg::StateAttribute::GLModeValue,std::less<osg::StateAttribute::GLMode>,std::allocator<std::pair<const osg::StateAttribute::GLMode,osg::StateAttribute::GLModeValue>>>'
+  
+C:\src\osg\OpenSceneGraph\include\osg\StateSet(464,45): warning C4251: 'osg::StateSet::_attributeList': 'std::map<osg::StateAttribute::TypeMemberPair,osg::StateSet::RefAttributePair,std::less<osg::StateAttribute::TypeMemberPair>,std::allocator<std::pair<const osg::StateAttribute::TypeMemberPair,osg::StateSet::RefAttributePair>>>' needs to have dll-interface to be used by clients of 'osg::StateSet'
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\map(72,7):
+      see declaration of 'std::map<osg::StateAttribute::TypeMemberPair,osg::StateSet::RefAttributePair,std::less<osg::StateAttribute::TypeMemberPair>,std::allocator<std::pair<const osg::StateAttribute::TypeMemberPair,osg::StateSet::RefAttributePair>>>'
+  
+C:\src\osg\OpenSceneGraph\include\osg\StateSet(466,45): warning C4251: 'osg::StateSet::_textureModeList': 'std::vector<osg::StateSet::ModeList,std::allocator<osg::StateSet::ModeList>>' needs to have dll-interface to be used by clients of 'osg::StateSet'
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\vector(442,7):
+      see declaration of 'std::vector<osg::StateSet::ModeList,std::allocator<osg::StateSet::ModeList>>'
+  
+C:\src\osg\OpenSceneGraph\include\osg\StateSet(467,45): warning C4251: 'osg::StateSet::_textureAttributeList': 'std::vector<osg::StateSet::AttributeList,std::allocator<osg::StateSet::AttributeList>>' needs to have dll-interface to be used by clients of 'osg::StateSet'
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\vector(442,7):
+      see declaration of 'std::vector<osg::StateSet::AttributeList,std::allocator<osg::StateSet::AttributeList>>'
+  
+C:\src\osg\OpenSceneGraph\include\osg\StateSet(469,45): warning C4251: 'osg::StateSet::_uniformList': 'std::map<std::string,osg::StateSet::RefUniformPair,std::less<std::string>,std::allocator<std::pair<const std::string,osg::StateSet::RefUniformPair>>>' needs to have dll-interface to be used by clients of 'osg::StateSet'
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\map(72,7):
+      see declaration of 'std::map<std::string,osg::StateSet::RefUniformPair,std::less<std::string>,std::allocator<std::pair<const std::string,osg::StateSet::RefUniformPair>>>'
+  
+C:\src\osg\OpenSceneGraph\include\osg\StateSet(501,45): warning C4251: 'osg::StateSet::_binName': 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of 'osg::StateSet'
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xstring(541,7):
+      see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+  
+C:\src\osg\OpenSceneGraph\include\osg\StateSet(504,27): warning C4251: 'osg::StateSet::_updateCallback': 'osg::ref_ptr<osg::StateSet::Callback>' needs to have dll-interface to be used by clients of 'osg::StateSet'
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+      C:\src\osg\OpenSceneGraph\include\osg\ref_ptr(23,7):
+      see declaration of 'osg::ref_ptr<osg::StateSet::Callback>'
+  
+C:\src\osg\OpenSceneGraph\include\osg\StateSet(508,27): warning C4251: 'osg::StateSet::_eventCallback': 'osg::ref_ptr<osg::StateSet::Callback>' needs to have dll-interface to be used by clients of 'osg::StateSet'
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+      C:\src\osg\OpenSceneGraph\include\osg\ref_ptr(23,7):
+      see declaration of 'osg::ref_ptr<osg::StateSet::Callback>'
+  
+C:\src\osg\OpenSceneGraph\include\osg\NodeCallback(88,31): warning C4251: 'osg::NodeCallback::_nestedCallback': 'osg::ref_ptr<osg::NodeCallback>' needs to have dll-interface to be used by clients of 'osg::NodeCallback'
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+      C:\src\osg\OpenSceneGraph\include\osg\ref_ptr(23,7):
+      see declaration of 'osg::ref_ptr<osg::NodeCallback>'
+  
+C:\src\osg\OpenSceneGraph\include\osg\Node(393,49): warning C4251: 'osg::Node::_initialBound': 'osg::BoundingSphereImpl<osg::Vec3f>' needs to have dll-interface to be used by clients of 'osg::Node'
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+      C:\src\osg\OpenSceneGraph\include\osg\BoundingSphere(34,7):
+      see declaration of 'osg::BoundingSphereImpl<osg::Vec3f>'
+  
+C:\src\osg\OpenSceneGraph\include\osg\Node(394,49): warning C4251: 'osg::Node::_computeBoundCallback': 'osg::ref_ptr<osg::Node::ComputeBoundingSphereCallback>' needs to have dll-interface to be used by clients of 'osg::Node'
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+      C:\src\osg\OpenSceneGraph\include\osg\ref_ptr(23,7):
+      see declaration of 'osg::ref_ptr<osg::Node::ComputeBoundingSphereCallback>'
+  
+C:\src\osg\OpenSceneGraph\include\osg\Node(395,49): warning C4251: 'osg::Node::_boundingSphere': 'osg::BoundingSphereImpl<osg::Vec3f>' needs to have dll-interface to be used by clients of 'osg::Node'
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+      C:\src\osg\OpenSceneGraph\include\osg\BoundingSphere(34,7):
+      see declaration of 'osg::BoundingSphereImpl<osg::Vec3f>'
+  
+C:\src\osg\OpenSceneGraph\include\osg\Node(401,20): warning C4251: 'osg::Node::_parents': 'std::vector<osg::Group *,std::allocator<osg::Group *>>' needs to have dll-interface to be used by clients of 'osg::Node'
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\vector(442,7):
+      see declaration of 'std::vector<osg::Group *,std::allocator<osg::Group *>>'
+  
+C:\src\osg\OpenSceneGraph\include\osg\Node(406,31): warning C4251: 'osg::Node::_updateCallback': 'osg::ref_ptr<osg::NodeCallback>' needs to have dll-interface to be used by clients of 'osg::Node'
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+      C:\src\osg\OpenSceneGraph\include\osg\ref_ptr(23,7):
+      see declaration of 'osg::ref_ptr<osg::NodeCallback>'
+  
+C:\src\osg\OpenSceneGraph\include\osg\Node(410,31): warning C4251: 'osg::Node::_eventCallback': 'osg::ref_ptr<osg::NodeCallback>' needs to have dll-interface to be used by clients of 'osg::Node'
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+      C:\src\osg\OpenSceneGraph\include\osg\ref_ptr(23,7):
+      see declaration of 'osg::ref_ptr<osg::NodeCallback>'
+  
+C:\src\osg\OpenSceneGraph\include\osg\Node(414,31): warning C4251: 'osg::Node::_cullCallback': 'osg::ref_ptr<osg::NodeCallback>' needs to have dll-interface to be used by clients of 'osg::Node'
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+      C:\src\osg\OpenSceneGraph\include\osg\ref_ptr(23,7):
+      see declaration of 'osg::ref_ptr<osg::NodeCallback>'
+  
+C:\src\osg\OpenSceneGraph\include\osg\Node(425,25): warning C4251: 'osg::Node::_descriptions': 'std::vector<std::string,std::allocator<std::string>>' needs to have dll-interface to be used by clients of 'osg::Node'
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\vector(442,7):
+      see declaration of 'std::vector<std::string,std::allocator<std::string>>'
+  
+C:\src\osg\OpenSceneGraph\include\osg\Node(427,27): warning C4251: 'osg::Node::_stateset': 'osg::ref_ptr<osg::StateSet>' needs to have dll-interface to be used by clients of 'osg::Node'
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+      C:\src\osg\OpenSceneGraph\include\osg\ref_ptr(23,7):
+      see declaration of 'osg::ref_ptr<osg::StateSet>'
+  
+C:\src\osg\OpenSceneGraph\include\osg\NodeVisitor(331,41): warning C4251: 'osg::NodeVisitor::_frameStamp': 'osg::ref_ptr<osg::FrameStamp>' needs to have dll-interface to be used by clients of 'osg::NodeVisitor'
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+      C:\src\osg\OpenSceneGraph\include\osg\ref_ptr(23,7):
+      see declaration of 'osg::ref_ptr<osg::FrameStamp>'
+  
+C:\src\osg\OpenSceneGraph\include\osg\NodeVisitor(337,41): warning C4251: 'osg::NodeVisitor::_nodePath': 'std::vector<osg::Node *,std::allocator<osg::Node *>>' needs to have dll-interface to be used by clients of 'osg::NodeVisitor'
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\vector(442,7):
+      see declaration of 'std::vector<osg::Node *,std::allocator<osg::Node *>>'
+  
+C:\src\osg\OpenSceneGraph\include\osg\NodeVisitor(339,41): warning C4251: 'osg::NodeVisitor::_userData': 'osg::ref_ptr<osg::Referenced>' needs to have dll-interface to be used by clients of 'osg::NodeVisitor'
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+      C:\src\osg\OpenSceneGraph\include\osg\ref_ptr(23,7):
+      see declaration of 'osg::ref_ptr<osg::Referenced>'
+  
+C:\src\osg\OpenSceneGraph\include\osg\NodeVisitor(341,41): warning C4251: 'osg::NodeVisitor::_databaseRequestHandler': 'osg::ref_ptr<osg::NodeVisitor::DatabaseRequestHandler>' needs to have dll-interface to be used by clients of 'osg::NodeVisitor'
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+      C:\src\osg\OpenSceneGraph\include\osg\ref_ptr(23,7):
+      see declaration of 'osg::ref_ptr<osg::NodeVisitor::DatabaseRequestHandler>'
+  
+C:\src\osg\OpenSceneGraph\include\osg\NodeVisitor(342,41): warning C4251: 'osg::NodeVisitor::_imageRequestHandler': 'osg::ref_ptr<osg::NodeVisitor::ImageRequestHandler>' needs to have dll-interface to be used by clients of 'osg::NodeVisitor'
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+      C:\src\osg\OpenSceneGraph\include\osg\ref_ptr(23,7):
+      see declaration of 'osg::ref_ptr<osg::NodeVisitor::ImageRequestHandler>'
+  
+C:\src\osg\OpenSceneGraph\include\osg\Group(165,18): warning C4251: 'osg::Group::_children': 'std::vector<osg::ref_ptr<osg::Node>,std::allocator<osg::ref_ptr<osg::Node>>>' needs to have dll-interface to be used by clients of 'osg::Group'
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\vector(442,7):
+      see declaration of 'std::vector<osg::ref_ptr<osg::Node>,std::allocator<osg::ref_ptr<osg::Node>>>'
+  
+C:\src\osg\OpenSceneGraph\include\osg\Image(341,21): warning C4251: 'osg::Image::_fileName': 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of 'osg::Image'
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xstring(541,7):
+      see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+  
+C:\src\osg\OpenSceneGraph\include\osg\Image(363,24): warning C4251: 'osg::Image::_mipmapData': 'std::vector<T,std::allocator<T>>' needs to have dll-interface to be used by clients of 'osg::Image'
+C:\src\osg\OpenSceneGraph\include\osg\Image(363,24): warning C4251:         with
+C:\src\osg\OpenSceneGraph\include\osg\Image(363,24): warning C4251:         [
+C:\src\osg\OpenSceneGraph\include\osg\Image(363,24): warning C4251:             T=unsigned int
+C:\src\osg\OpenSceneGraph\include\osg\Image(363,24): warning C4251:         ]
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\vector(442,7):
+      see declaration of 'std::vector<T,std::allocator<T>>'
+          with
+          [
+              T=unsigned int
+          ]
+  
+C:\src\osg\OpenSceneGraph\include\osg\Image(365,36): warning C4251: 'osg::Image::_bufferObject': 'osg::ref_ptr<osg::PixelBufferObject>' needs to have dll-interface to be used by clients of 'osg::Image'
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+      C:\src\osg\OpenSceneGraph\include\osg\ref_ptr(23,7):
+      see declaration of 'osg::ref_ptr<osg::PixelBufferObject>'
+  
+C:\src\osg\OpenSceneGraph\include\osg\Plane(148,81): warning C4244: 'argument': conversion from 'const osg::Plane::value_type' to 'osg::Vec4f::value_type', possible loss of data
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Plane(148,74): warning C4244: 'argument': conversion from 'const osg::Plane::value_type' to 'osg::Vec4f::value_type', possible loss of data
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Plane(148,67): warning C4244: 'argument': conversion from 'const osg::Plane::value_type' to 'osg::Vec4f::value_type', possible loss of data
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Plane(148,60): warning C4244: 'argument': conversion from 'const osg::Plane::value_type' to 'osg::Vec4f::value_type', possible loss of data
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Plane(161,32): warning C4244: 'return': conversion from 'osg::Plane::value_type' to 'float', possible loss of data
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Plane(177,32): warning C4244: 'return': conversion from 'osg::Plane::value_type' to 'float', possible loss of data
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\Shape(183,17): warning C4251: 'osg::Sphere::_center': 'osg::Vec3f' needs to have dll-interface to be used by clients of 'osg::Sphere'
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+      C:\src\osg\OpenSceneGraph\include\osg\Vec3f(28,7):
+      see declaration of 'osg::Vec3f'
+  
+C:\src\osg\OpenSceneGraph\include\osg\Shape(235,17): warning C4251: 'osg::Box::_center': 'osg::Vec3f' needs to have dll-interface to be used by clients of 'osg::Box'
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+      C:\src\osg\OpenSceneGraph\include\osg\Vec3f(28,7):
+      see declaration of 'osg::Vec3f'
+  
+C:\src\osg\OpenSceneGraph\include\osg\Shape(236,17): warning C4251: 'osg::Box::_halfLengths': 'osg::Vec3f' needs to have dll-interface to be used by clients of 'osg::Box'
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+      C:\src\osg\OpenSceneGraph\include\osg\Vec3f(28,7):
+      see declaration of 'osg::Vec3f'
+  
+C:\src\osg\OpenSceneGraph\include\osg\Shape(296,17): warning C4251: 'osg::Cone::_center': 'osg::Vec3f' needs to have dll-interface to be used by clients of 'osg::Cone'
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+      C:\src\osg\OpenSceneGraph\include\osg\Vec3f(28,7):
+      see declaration of 'osg::Vec3f'
+  
+C:\src\osg\OpenSceneGraph\include\osg\Shape(353,17): warning C4251: 'osg::Cylinder::_center': 'osg::Vec3f' needs to have dll-interface to be used by clients of 'osg::Cylinder'
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+      C:\src\osg\OpenSceneGraph\include\osg\Vec3f(28,7):
+      see declaration of 'osg::Vec3f'
+  
+C:\src\osg\OpenSceneGraph\include\osg\Shape(409,17): warning C4251: 'osg::Capsule::_center': 'osg::Vec3f' needs to have dll-interface to be used by clients of 'osg::Capsule'
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+      C:\src\osg\OpenSceneGraph\include\osg\Vec3f(28,7):
+      see declaration of 'osg::Vec3f'
+  
+C:\src\osg\OpenSceneGraph\include\osg\Shape(458,28): warning C4251: 'osg::TriangleMesh::_vertices': 'osg::ref_ptr<osg::Vec3Array>' needs to have dll-interface to be used by clients of 'osg::TriangleMesh'
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+      C:\src\osg\OpenSceneGraph\include\osg\ref_ptr(23,7):
+      see declaration of 'osg::ref_ptr<osg::Vec3Array>'
+  
+C:\src\osg\OpenSceneGraph\include\osg\Shape(459,29): warning C4251: 'osg::TriangleMesh::_indices': 'osg::ref_ptr<osg::IndexArray>' needs to have dll-interface to be used by clients of 'osg::TriangleMesh'
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+      C:\src\osg\OpenSceneGraph\include\osg\ref_ptr(23,7):
+      see declaration of 'osg::ref_ptr<osg::IndexArray>'
+  
+C:\src\osg\OpenSceneGraph\include\osg\Shape(571,41): warning C4251: 'osg::HeightField::_origin': 'osg::Vec3f' needs to have dll-interface to be used by clients of 'osg::HeightField'
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+      C:\src\osg\OpenSceneGraph\include\osg\Vec3f(28,7):
+      see declaration of 'osg::Vec3f'
+  
+C:\src\osg\OpenSceneGraph\include\osg\Shape(579,41): warning C4251: 'osg::HeightField::_heights': 'osg::ref_ptr<osg::FloatArray>' needs to have dll-interface to be used by clients of 'osg::HeightField'
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+      C:\src\osg\OpenSceneGraph\include\osg\ref_ptr(23,7):
+      see declaration of 'osg::ref_ptr<osg::FloatArray>'
+  
+C:\src\osg\OpenSceneGraph\include\osg\Shape(642,25): warning C4251: 'osg::CompositeShape::_shape': 'osg::ref_ptr<osg::Shape>' needs to have dll-interface to be used by clients of 'osg::CompositeShape'
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+      C:\src\osg\OpenSceneGraph\include\osg\ref_ptr(23,7):
+      see declaration of 'osg::ref_ptr<osg::Shape>'
+  
+C:\src\osg\OpenSceneGraph\include\osg\Shape(643,25): warning C4251: 'osg::CompositeShape::_children': 'std::vector<osg::ref_ptr<osg::Shape>,std::allocator<osg::ref_ptr<osg::Shape>>>' needs to have dll-interface to be used by clients of 'osg::CompositeShape'
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\vector(442,7):
+      see declaration of 'std::vector<osg::ref_ptr<osg::Shape>,std::allocator<osg::ref_ptr<osg::Shape>>>'
+  
+C:\src\osg\OpenSceneGraph\include\osg\OperationThread(55,28): warning C4589: Constructor of abstract class 'osg::Operation' ignores initializer for virtual base class 'osg::Referenced'
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+      C:\src\osg\OpenSceneGraph\include\osg\OperationThread(55,28):
+      virtual base classes are only initialized by the most-derived type
+  
+C:\src\osg\OpenSceneGraph\include\osg\OperationThread(81,23): warning C4589: Constructor of abstract class 'osg::Operation' ignores initializer for virtual base class 'osg::Referenced'
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+      C:\src\osg\OpenSceneGraph\include\osg\OperationThread(81,23):
+      virtual base classes are only initialized by the most-derived type
+  
+C:\src\osg\OpenSceneGraph\include\osg\OperationThread(85,23): warning C4589: Constructor of abstract class 'osg::Operation' ignores initializer for virtual base class 'osg::Referenced'
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+      C:\src\osg\OpenSceneGraph\include\osg\OperationThread(85,23):
+      virtual base classes are only initialized by the most-derived type
+  
+C:\src\osg\OpenSceneGraph\include\osg\BoundingSphere(219,51): warning C4244: '+=': conversion from 'double' to 'osg::Vec3f::value_type', possible loss of data
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+      C:\src\osg\OpenSceneGraph\include\osg\BoundingSphere(219,51):
+      the template instantiation context (the oldest one first) is
+          C:\src\osg\OpenSceneGraph\include\osg\Node(393,49):
+          see reference to class template instantiation 'osg::BoundingSphereImpl<osg::Vec3f>' being compiled
+          C:\src\osg\OpenSceneGraph\include\osg\BoundingSphere(178,1):
+          while compiling class template member function 'void osg::BoundingSphereImpl<osg::Vec3f>::expandBy(const osg::BoundingSphereImpl<osg::Vec3f> &)'
+              C:\src\osg\OpenSceneGraph\include\osg\Node(332,45):
+              see the first reference to 'osg::BoundingSphereImpl<osg::Vec3f>::expandBy' in 'osg::Node::getBound'
+  
+C:\src\osg\OpenSceneGraph\include\osg\BoundingSphere(220,51): warning C4244: '+=': conversion from 'double' to 'osg::Vec3f::value_type', possible loss of data
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\BoundingSphere(221,51): warning C4244: '+=': conversion from 'double' to 'osg::Vec3f::value_type', possible loss of data
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+  
+C:\src\osg\OpenSceneGraph\include\osg\BoundingSphere(223,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../../../../src/osgPlugins/scale/ReaderWriterSCALE.cpp')
+  
+LINK : fatal error LNK1104: cannot open file 'OpenThreadsd.lib'
