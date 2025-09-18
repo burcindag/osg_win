@@ -1,0 +1,1715 @@
+﻿  Building Custom Rule C:/src/osg2.6.1/OpenSceneGraph/src/osgPlugins/txp/CMakeLists.txt
+  ReaderWriterTXP.cpp
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\Image(301,42): warning C4100: 'nv': unreferenced parameter
+  (compiling source file '../../../../src/osgPlugins/txp/ReaderWriterTXP.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(55,28): warning C4589: Constructor of abstract class 'osg::Operation' ignores initializer for virtual base class 'osg::Referenced'
+  (compiling source file '../../../../src/osgPlugins/txp/ReaderWriterTXP.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(55,28):
+      virtual base classes are only initialized by the most-derived type
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(81,23): warning C4589: Constructor of abstract class 'osg::Operation' ignores initializer for virtual base class 'osg::Referenced'
+  (compiling source file '../../../../src/osgPlugins/txp/ReaderWriterTXP.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(81,23):
+      virtual base classes are only initialized by the most-derived type
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(85,23): warning C4589: Constructor of abstract class 'osg::Operation' ignores initializer for virtual base class 'osg::Referenced'
+  (compiling source file '../../../../src/osgPlugins/txp/ReaderWriterTXP.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(85,23):
+      virtual base classes are only initialized by the most-derived type
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(210,24): warning C4458: declaration of 'rows' hides class member
+  (compiling source file '../../../../src/osgPlugins/txp/ReaderWriterTXP.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(233,11):
+      see declaration of 'trpgHeader::rows'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(210,33): warning C4458: declaration of 'cols' hides class member
+  (compiling source file '../../../../src/osgPlugins/txp/ReaderWriterTXP.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(234,11):
+      see declaration of 'trpgHeader::cols'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(215,25): warning C4458: declaration of 'rows' hides class member
+  (compiling source file '../../../../src/osgPlugins/txp/ReaderWriterTXP.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(233,11):
+      see declaration of 'trpgHeader::rows'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(215,35): warning C4458: declaration of 'cols' hides class member
+  (compiling source file '../../../../src/osgPlugins/txp/ReaderWriterTXP.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(234,11):
+      see declaration of 'trpgHeader::cols'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(594,20): warning C4091: 'typedef ': ignored on left of 'trpgLightAttr::PerformerAttr' when no variable is declared
+  (compiling source file '../../../../src/osgPlugins/txp/ReaderWriterTXP.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(611,20): warning C4091: 'typedef ': ignored on left of 'trpgLightAttr::AnimationAttr' when no variable is declared
+  (compiling source file '../../../../src/osgPlugins/txp/ReaderWriterTXP.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(622,20): warning C4091: 'typedef ': ignored on left of 'trpgLightAttr::CalligraphicAttr' when no variable is declared
+  (compiling source file '../../../../src/osgPlugins/txp/ReaderWriterTXP.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1963,25): warning C4458: declaration of 'row' hides class member
+  (compiling source file '../../../../src/osgPlugins/txp/ReaderWriterTXP.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1980,9):
+      see declaration of 'trpgTileHeader::row'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1963,34): warning C4458: declaration of 'col' hides class member
+  (compiling source file '../../../../src/osgPlugins/txp/ReaderWriterTXP.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1981,9):
+      see declaration of 'trpgTileHeader::col'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1968,26): warning C4458: declaration of 'row' hides class member
+  (compiling source file '../../../../src/osgPlugins/txp/ReaderWriterTXP.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1980,9):
+      see declaration of 'trpgTileHeader::row'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1968,36): warning C4458: declaration of 'col' hides class member
+  (compiling source file '../../../../src/osgPlugins/txp/ReaderWriterTXP.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1981,9):
+      see declaration of 'trpgTileHeader::col'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_read.h(165,36): warning C4458: declaration of 'texTable' hides class member
+  (compiling source file '../../../../src/osgPlugins/txp/ReaderWriterTXP.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_read.h(173,25):
+      see declaration of 'trpgrImageHelper::texTable'
+  
+  TileMapper.cpp
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(210,24): warning C4458: declaration of 'rows' hides class member
+  (compiling source file '../../../../src/osgPlugins/txp/TileMapper.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(233,11):
+      see declaration of 'trpgHeader::rows'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(210,33): warning C4458: declaration of 'cols' hides class member
+  (compiling source file '../../../../src/osgPlugins/txp/TileMapper.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(234,11):
+      see declaration of 'trpgHeader::cols'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(215,25): warning C4458: declaration of 'rows' hides class member
+  (compiling source file '../../../../src/osgPlugins/txp/TileMapper.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(233,11):
+      see declaration of 'trpgHeader::rows'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(215,35): warning C4458: declaration of 'cols' hides class member
+  (compiling source file '../../../../src/osgPlugins/txp/TileMapper.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(234,11):
+      see declaration of 'trpgHeader::cols'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(594,20): warning C4091: 'typedef ': ignored on left of 'trpgLightAttr::PerformerAttr' when no variable is declared
+  (compiling source file '../../../../src/osgPlugins/txp/TileMapper.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(611,20): warning C4091: 'typedef ': ignored on left of 'trpgLightAttr::AnimationAttr' when no variable is declared
+  (compiling source file '../../../../src/osgPlugins/txp/TileMapper.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(622,20): warning C4091: 'typedef ': ignored on left of 'trpgLightAttr::CalligraphicAttr' when no variable is declared
+  (compiling source file '../../../../src/osgPlugins/txp/TileMapper.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1963,25): warning C4458: declaration of 'row' hides class member
+  (compiling source file '../../../../src/osgPlugins/txp/TileMapper.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1980,9):
+      see declaration of 'trpgTileHeader::row'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1963,34): warning C4458: declaration of 'col' hides class member
+  (compiling source file '../../../../src/osgPlugins/txp/TileMapper.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1981,9):
+      see declaration of 'trpgTileHeader::col'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1968,26): warning C4458: declaration of 'row' hides class member
+  (compiling source file '../../../../src/osgPlugins/txp/TileMapper.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1980,9):
+      see declaration of 'trpgTileHeader::row'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1968,36): warning C4458: declaration of 'col' hides class member
+  (compiling source file '../../../../src/osgPlugins/txp/TileMapper.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1981,9):
+      see declaration of 'trpgTileHeader::col'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_read.h(165,36): warning C4458: declaration of 'texTable' hides class member
+  (compiling source file '../../../../src/osgPlugins/txp/TileMapper.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_read.h(173,25):
+      see declaration of 'trpgrImageHelper::texTable'
+  
+  trpage_basic.cpp
+  trpage_compat.cpp
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(210,24): warning C4458: declaration of 'rows' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_compat.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(233,11):
+      see declaration of 'trpgHeader::rows'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(210,33): warning C4458: declaration of 'cols' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_compat.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(234,11):
+      see declaration of 'trpgHeader::cols'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(215,25): warning C4458: declaration of 'rows' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_compat.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(233,11):
+      see declaration of 'trpgHeader::rows'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(215,35): warning C4458: declaration of 'cols' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_compat.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(234,11):
+      see declaration of 'trpgHeader::cols'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(594,20): warning C4091: 'typedef ': ignored on left of 'trpgLightAttr::PerformerAttr' when no variable is declared
+  (compiling source file '../../../src/osgPlugins/txp/trpage_compat.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(611,20): warning C4091: 'typedef ': ignored on left of 'trpgLightAttr::AnimationAttr' when no variable is declared
+  (compiling source file '../../../src/osgPlugins/txp/trpage_compat.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(622,20): warning C4091: 'typedef ': ignored on left of 'trpgLightAttr::CalligraphicAttr' when no variable is declared
+  (compiling source file '../../../src/osgPlugins/txp/trpage_compat.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1963,25): warning C4458: declaration of 'row' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_compat.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1980,9):
+      see declaration of 'trpgTileHeader::row'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1963,34): warning C4458: declaration of 'col' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_compat.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1981,9):
+      see declaration of 'trpgTileHeader::col'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1968,26): warning C4458: declaration of 'row' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_compat.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1980,9):
+      see declaration of 'trpgTileHeader::row'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1968,36): warning C4458: declaration of 'col' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_compat.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1981,9):
+      see declaration of 'trpgTileHeader::col'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_read.h(165,36): warning C4458: declaration of 'texTable' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_compat.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_read.h(173,25):
+      see declaration of 'trpgrImageHelper::texTable'
+  
+  trpage_geom.cpp
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(210,24): warning C4458: declaration of 'rows' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_geom.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(233,11):
+      see declaration of 'trpgHeader::rows'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(210,33): warning C4458: declaration of 'cols' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_geom.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(234,11):
+      see declaration of 'trpgHeader::cols'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(215,25): warning C4458: declaration of 'rows' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_geom.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(233,11):
+      see declaration of 'trpgHeader::rows'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(215,35): warning C4458: declaration of 'cols' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_geom.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(234,11):
+      see declaration of 'trpgHeader::cols'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(594,20): warning C4091: 'typedef ': ignored on left of 'trpgLightAttr::PerformerAttr' when no variable is declared
+  (compiling source file '../../../src/osgPlugins/txp/trpage_geom.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(611,20): warning C4091: 'typedef ': ignored on left of 'trpgLightAttr::AnimationAttr' when no variable is declared
+  (compiling source file '../../../src/osgPlugins/txp/trpage_geom.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(622,20): warning C4091: 'typedef ': ignored on left of 'trpgLightAttr::CalligraphicAttr' when no variable is declared
+  (compiling source file '../../../src/osgPlugins/txp/trpage_geom.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1963,25): warning C4458: declaration of 'row' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_geom.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1980,9):
+      see declaration of 'trpgTileHeader::row'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1963,34): warning C4458: declaration of 'col' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_geom.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1981,9):
+      see declaration of 'trpgTileHeader::col'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1968,26): warning C4458: declaration of 'row' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_geom.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1980,9):
+      see declaration of 'trpgTileHeader::row'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1968,36): warning C4458: declaration of 'col' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_geom.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1981,9):
+      see declaration of 'trpgTileHeader::col'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_read.h(165,36): warning C4458: declaration of 'texTable' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_geom.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_read.h(173,25):
+      see declaration of 'trpgrImageHelper::texTable'
+  
+  trpage_header.cpp
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(210,24): warning C4458: declaration of 'rows' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_header.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(233,11):
+      see declaration of 'trpgHeader::rows'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(210,33): warning C4458: declaration of 'cols' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_header.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(234,11):
+      see declaration of 'trpgHeader::cols'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(215,25): warning C4458: declaration of 'rows' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_header.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(233,11):
+      see declaration of 'trpgHeader::rows'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(215,35): warning C4458: declaration of 'cols' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_header.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(234,11):
+      see declaration of 'trpgHeader::cols'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(594,20): warning C4091: 'typedef ': ignored on left of 'trpgLightAttr::PerformerAttr' when no variable is declared
+  (compiling source file '../../../src/osgPlugins/txp/trpage_header.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(611,20): warning C4091: 'typedef ': ignored on left of 'trpgLightAttr::AnimationAttr' when no variable is declared
+  (compiling source file '../../../src/osgPlugins/txp/trpage_header.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(622,20): warning C4091: 'typedef ': ignored on left of 'trpgLightAttr::CalligraphicAttr' when no variable is declared
+  (compiling source file '../../../src/osgPlugins/txp/trpage_header.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1963,25): warning C4458: declaration of 'row' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_header.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1980,9):
+      see declaration of 'trpgTileHeader::row'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1963,34): warning C4458: declaration of 'col' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_header.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1981,9):
+      see declaration of 'trpgTileHeader::col'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1968,26): warning C4458: declaration of 'row' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_header.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1980,9):
+      see declaration of 'trpgTileHeader::row'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1968,36): warning C4458: declaration of 'col' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_header.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1981,9):
+      see declaration of 'trpgTileHeader::col'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_read.h(165,36): warning C4458: declaration of 'texTable' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_header.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_read.h(173,25):
+      see declaration of 'trpgrImageHelper::texTable'
+  
+  trpage_label.cpp
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(210,24): warning C4458: declaration of 'rows' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_label.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(233,11):
+      see declaration of 'trpgHeader::rows'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(210,33): warning C4458: declaration of 'cols' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_label.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(234,11):
+      see declaration of 'trpgHeader::cols'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(215,25): warning C4458: declaration of 'rows' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_label.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(233,11):
+      see declaration of 'trpgHeader::rows'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(215,35): warning C4458: declaration of 'cols' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_label.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(234,11):
+      see declaration of 'trpgHeader::cols'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(594,20): warning C4091: 'typedef ': ignored on left of 'trpgLightAttr::PerformerAttr' when no variable is declared
+  (compiling source file '../../../src/osgPlugins/txp/trpage_label.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(611,20): warning C4091: 'typedef ': ignored on left of 'trpgLightAttr::AnimationAttr' when no variable is declared
+  (compiling source file '../../../src/osgPlugins/txp/trpage_label.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(622,20): warning C4091: 'typedef ': ignored on left of 'trpgLightAttr::CalligraphicAttr' when no variable is declared
+  (compiling source file '../../../src/osgPlugins/txp/trpage_label.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1963,25): warning C4458: declaration of 'row' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_label.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1980,9):
+      see declaration of 'trpgTileHeader::row'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1963,34): warning C4458: declaration of 'col' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_label.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1981,9):
+      see declaration of 'trpgTileHeader::col'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1968,26): warning C4458: declaration of 'row' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_label.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1980,9):
+      see declaration of 'trpgTileHeader::row'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1968,36): warning C4458: declaration of 'col' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_label.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1981,9):
+      see declaration of 'trpgTileHeader::col'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_read.h(165,36): warning C4458: declaration of 'texTable' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_label.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_read.h(173,25):
+      see declaration of 'trpgrImageHelper::texTable'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_label.cpp(250,9): warning C4458: declaration of 'handle' hides class member
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_io.h(580,12):
+      see declaration of 'trpgCheckable::handle'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_label.cpp(495,9): warning C4458: declaration of 'handle' hides class member
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_io.h(580,12):
+      see declaration of 'trpgCheckable::handle'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_label.cpp(751,9): warning C4458: declaration of 'handle' hides class member
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_io.h(580,12):
+      see declaration of 'trpgCheckable::handle'
+  
+  trpage_light.cpp
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(210,24): warning C4458: declaration of 'rows' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_light.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(233,11):
+      see declaration of 'trpgHeader::rows'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(210,33): warning C4458: declaration of 'cols' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_light.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(234,11):
+      see declaration of 'trpgHeader::cols'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(215,25): warning C4458: declaration of 'rows' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_light.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(233,11):
+      see declaration of 'trpgHeader::rows'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(215,35): warning C4458: declaration of 'cols' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_light.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(234,11):
+      see declaration of 'trpgHeader::cols'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(594,20): warning C4091: 'typedef ': ignored on left of 'trpgLightAttr::PerformerAttr' when no variable is declared
+  (compiling source file '../../../src/osgPlugins/txp/trpage_light.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(611,20): warning C4091: 'typedef ': ignored on left of 'trpgLightAttr::AnimationAttr' when no variable is declared
+  (compiling source file '../../../src/osgPlugins/txp/trpage_light.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(622,20): warning C4091: 'typedef ': ignored on left of 'trpgLightAttr::CalligraphicAttr' when no variable is declared
+  (compiling source file '../../../src/osgPlugins/txp/trpage_light.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1963,25): warning C4458: declaration of 'row' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_light.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1980,9):
+      see declaration of 'trpgTileHeader::row'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1963,34): warning C4458: declaration of 'col' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_light.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1981,9):
+      see declaration of 'trpgTileHeader::col'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1968,26): warning C4458: declaration of 'row' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_light.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1980,9):
+      see declaration of 'trpgTileHeader::row'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1968,36): warning C4458: declaration of 'col' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_light.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1981,9):
+      see declaration of 'trpgTileHeader::col'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_read.h(165,36): warning C4458: declaration of 'texTable' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_light.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_read.h(173,25):
+      see declaration of 'trpgrImageHelper::texTable'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_light.cpp(963,6): warning C4458: declaration of 'handle' hides class member
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_io.h(580,12):
+      see declaration of 'trpgCheckable::handle'
+  
+  trpage_main.cpp
+  trpage_managers.cpp
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(210,24): warning C4458: declaration of 'rows' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_managers.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(233,11):
+      see declaration of 'trpgHeader::rows'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(210,33): warning C4458: declaration of 'cols' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_managers.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(234,11):
+      see declaration of 'trpgHeader::cols'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(215,25): warning C4458: declaration of 'rows' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_managers.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(233,11):
+      see declaration of 'trpgHeader::rows'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(215,35): warning C4458: declaration of 'cols' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_managers.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(234,11):
+      see declaration of 'trpgHeader::cols'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(594,20): warning C4091: 'typedef ': ignored on left of 'trpgLightAttr::PerformerAttr' when no variable is declared
+  (compiling source file '../../../src/osgPlugins/txp/trpage_managers.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(611,20): warning C4091: 'typedef ': ignored on left of 'trpgLightAttr::AnimationAttr' when no variable is declared
+  (compiling source file '../../../src/osgPlugins/txp/trpage_managers.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(622,20): warning C4091: 'typedef ': ignored on left of 'trpgLightAttr::CalligraphicAttr' when no variable is declared
+  (compiling source file '../../../src/osgPlugins/txp/trpage_managers.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1963,25): warning C4458: declaration of 'row' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_managers.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1980,9):
+      see declaration of 'trpgTileHeader::row'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1963,34): warning C4458: declaration of 'col' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_managers.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1981,9):
+      see declaration of 'trpgTileHeader::col'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1968,26): warning C4458: declaration of 'row' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_managers.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1980,9):
+      see declaration of 'trpgTileHeader::row'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1968,36): warning C4458: declaration of 'col' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_managers.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1981,9):
+      see declaration of 'trpgTileHeader::col'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_read.h(165,36): warning C4458: declaration of 'texTable' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_managers.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_read.h(173,25):
+      see declaration of 'trpgrImageHelper::texTable'
+  
+  trpage_material.cpp
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(210,24): warning C4458: declaration of 'rows' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_material.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(233,11):
+      see declaration of 'trpgHeader::rows'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(210,33): warning C4458: declaration of 'cols' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_material.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(234,11):
+      see declaration of 'trpgHeader::cols'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(215,25): warning C4458: declaration of 'rows' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_material.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(233,11):
+      see declaration of 'trpgHeader::rows'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(215,35): warning C4458: declaration of 'cols' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_material.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(234,11):
+      see declaration of 'trpgHeader::cols'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(594,20): warning C4091: 'typedef ': ignored on left of 'trpgLightAttr::PerformerAttr' when no variable is declared
+  (compiling source file '../../../src/osgPlugins/txp/trpage_material.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(611,20): warning C4091: 'typedef ': ignored on left of 'trpgLightAttr::AnimationAttr' when no variable is declared
+  (compiling source file '../../../src/osgPlugins/txp/trpage_material.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(622,20): warning C4091: 'typedef ': ignored on left of 'trpgLightAttr::CalligraphicAttr' when no variable is declared
+  (compiling source file '../../../src/osgPlugins/txp/trpage_material.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1963,25): warning C4458: declaration of 'row' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_material.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1980,9):
+      see declaration of 'trpgTileHeader::row'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1963,34): warning C4458: declaration of 'col' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_material.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1981,9):
+      see declaration of 'trpgTileHeader::col'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1968,26): warning C4458: declaration of 'row' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_material.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1980,9):
+      see declaration of 'trpgTileHeader::row'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1968,36): warning C4458: declaration of 'col' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_material.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1981,9):
+      see declaration of 'trpgTileHeader::col'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_read.h(165,36): warning C4458: declaration of 'texTable' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_material.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_read.h(173,25):
+      see declaration of 'trpgrImageHelper::texTable'
+  
+  trpage_model.cpp
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(210,24): warning C4458: declaration of 'rows' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_model.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(233,11):
+      see declaration of 'trpgHeader::rows'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(210,33): warning C4458: declaration of 'cols' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_model.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(234,11):
+      see declaration of 'trpgHeader::cols'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(215,25): warning C4458: declaration of 'rows' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_model.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(233,11):
+      see declaration of 'trpgHeader::rows'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(215,35): warning C4458: declaration of 'cols' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_model.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(234,11):
+      see declaration of 'trpgHeader::cols'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(594,20): warning C4091: 'typedef ': ignored on left of 'trpgLightAttr::PerformerAttr' when no variable is declared
+  (compiling source file '../../../src/osgPlugins/txp/trpage_model.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(611,20): warning C4091: 'typedef ': ignored on left of 'trpgLightAttr::AnimationAttr' when no variable is declared
+  (compiling source file '../../../src/osgPlugins/txp/trpage_model.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(622,20): warning C4091: 'typedef ': ignored on left of 'trpgLightAttr::CalligraphicAttr' when no variable is declared
+  (compiling source file '../../../src/osgPlugins/txp/trpage_model.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1963,25): warning C4458: declaration of 'row' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_model.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1980,9):
+      see declaration of 'trpgTileHeader::row'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1963,34): warning C4458: declaration of 'col' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_model.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1981,9):
+      see declaration of 'trpgTileHeader::col'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1968,26): warning C4458: declaration of 'row' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_model.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1980,9):
+      see declaration of 'trpgTileHeader::row'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1968,36): warning C4458: declaration of 'col' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_model.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1981,9):
+      see declaration of 'trpgTileHeader::col'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_read.h(165,36): warning C4458: declaration of 'texTable' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_model.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_read.h(173,25):
+      see declaration of 'trpgrImageHelper::texTable'
+  
+  trpage_nodes.cpp
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(210,24): warning C4458: declaration of 'rows' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_nodes.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(233,11):
+      see declaration of 'trpgHeader::rows'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(210,33): warning C4458: declaration of 'cols' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_nodes.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(234,11):
+      see declaration of 'trpgHeader::cols'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(215,25): warning C4458: declaration of 'rows' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_nodes.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(233,11):
+      see declaration of 'trpgHeader::rows'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(215,35): warning C4458: declaration of 'cols' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_nodes.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(234,11):
+      see declaration of 'trpgHeader::cols'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(594,20): warning C4091: 'typedef ': ignored on left of 'trpgLightAttr::PerformerAttr' when no variable is declared
+  (compiling source file '../../../src/osgPlugins/txp/trpage_nodes.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(611,20): warning C4091: 'typedef ': ignored on left of 'trpgLightAttr::AnimationAttr' when no variable is declared
+  (compiling source file '../../../src/osgPlugins/txp/trpage_nodes.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(622,20): warning C4091: 'typedef ': ignored on left of 'trpgLightAttr::CalligraphicAttr' when no variable is declared
+  (compiling source file '../../../src/osgPlugins/txp/trpage_nodes.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1963,25): warning C4458: declaration of 'row' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_nodes.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1980,9):
+      see declaration of 'trpgTileHeader::row'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1963,34): warning C4458: declaration of 'col' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_nodes.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1981,9):
+      see declaration of 'trpgTileHeader::col'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1968,26): warning C4458: declaration of 'row' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_nodes.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1980,9):
+      see declaration of 'trpgTileHeader::row'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1968,36): warning C4458: declaration of 'col' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_nodes.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1981,9):
+      see declaration of 'trpgTileHeader::col'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_read.h(165,36): warning C4458: declaration of 'texTable' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_nodes.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_read.h(173,25):
+      see declaration of 'trpgrImageHelper::texTable'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_nodes.cpp(727,34): warning C4458: declaration of 'id' hides class member
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(2376,9):
+      see declaration of 'trpgGroup::id'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_nodes.cpp(731,35): warning C4458: declaration of 'id' hides class member
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(2376,9):
+      see declaration of 'trpgGroup::id'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_nodes.cpp(740,34): warning C4458: declaration of 'id' hides class member
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(2376,9):
+      see declaration of 'trpgGroup::id'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_nodes.cpp(744,35): warning C4458: declaration of 'id' hides class member
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(2376,9):
+      see declaration of 'trpgGroup::id'
+  
+  trpage_parse.cpp
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(210,24): warning C4458: declaration of 'rows' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_parse.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(233,11):
+      see declaration of 'trpgHeader::rows'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(210,33): warning C4458: declaration of 'cols' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_parse.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(234,11):
+      see declaration of 'trpgHeader::cols'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(215,25): warning C4458: declaration of 'rows' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_parse.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(233,11):
+      see declaration of 'trpgHeader::rows'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(215,35): warning C4458: declaration of 'cols' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_parse.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(234,11):
+      see declaration of 'trpgHeader::cols'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(594,20): warning C4091: 'typedef ': ignored on left of 'trpgLightAttr::PerformerAttr' when no variable is declared
+  (compiling source file '../../../src/osgPlugins/txp/trpage_parse.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(611,20): warning C4091: 'typedef ': ignored on left of 'trpgLightAttr::AnimationAttr' when no variable is declared
+  (compiling source file '../../../src/osgPlugins/txp/trpage_parse.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(622,20): warning C4091: 'typedef ': ignored on left of 'trpgLightAttr::CalligraphicAttr' when no variable is declared
+  (compiling source file '../../../src/osgPlugins/txp/trpage_parse.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1963,25): warning C4458: declaration of 'row' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_parse.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1980,9):
+      see declaration of 'trpgTileHeader::row'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1963,34): warning C4458: declaration of 'col' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_parse.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1981,9):
+      see declaration of 'trpgTileHeader::col'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1968,26): warning C4458: declaration of 'row' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_parse.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1980,9):
+      see declaration of 'trpgTileHeader::row'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1968,36): warning C4458: declaration of 'col' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_parse.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1981,9):
+      see declaration of 'trpgTileHeader::col'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_read.h(165,36): warning C4458: declaration of 'texTable' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_parse.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_read.h(173,25):
+      see declaration of 'trpgrImageHelper::texTable'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_parse.cpp(207,13): warning C4456: declaration of 'ret' hides previous local declaration
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_parse.cpp(169,10):
+      see declaration of 'ret'
+  
+  trpage_pparse.cpp
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(210,24): warning C4458: declaration of 'rows' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_pparse.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(233,11):
+      see declaration of 'trpgHeader::rows'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(210,33): warning C4458: declaration of 'cols' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_pparse.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(234,11):
+      see declaration of 'trpgHeader::cols'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(215,25): warning C4458: declaration of 'rows' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_pparse.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(233,11):
+      see declaration of 'trpgHeader::rows'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(215,35): warning C4458: declaration of 'cols' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_pparse.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(234,11):
+      see declaration of 'trpgHeader::cols'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(594,20): warning C4091: 'typedef ': ignored on left of 'trpgLightAttr::PerformerAttr' when no variable is declared
+  (compiling source file '../../../src/osgPlugins/txp/trpage_pparse.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(611,20): warning C4091: 'typedef ': ignored on left of 'trpgLightAttr::AnimationAttr' when no variable is declared
+  (compiling source file '../../../src/osgPlugins/txp/trpage_pparse.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(622,20): warning C4091: 'typedef ': ignored on left of 'trpgLightAttr::CalligraphicAttr' when no variable is declared
+  (compiling source file '../../../src/osgPlugins/txp/trpage_pparse.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1963,25): warning C4458: declaration of 'row' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_pparse.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1980,9):
+      see declaration of 'trpgTileHeader::row'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1963,34): warning C4458: declaration of 'col' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_pparse.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1981,9):
+      see declaration of 'trpgTileHeader::col'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1968,26): warning C4458: declaration of 'row' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_pparse.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1980,9):
+      see declaration of 'trpgTileHeader::row'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1968,36): warning C4458: declaration of 'col' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_pparse.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1981,9):
+      see declaration of 'trpgTileHeader::col'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_read.h(165,36): warning C4458: declaration of 'texTable' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_pparse.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_read.h(173,25):
+      see declaration of 'trpgrImageHelper::texTable'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_pparse.cpp(241,23): warning C4458: declaration of 'imageHelp' hides class member
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_print.h(138,23):
+      see declaration of 'trpgPrintGraphParser::imageHelp'
+  
+  trpage_print.cpp
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(210,24): warning C4458: declaration of 'rows' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_print.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(233,11):
+      see declaration of 'trpgHeader::rows'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(210,33): warning C4458: declaration of 'cols' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_print.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(234,11):
+      see declaration of 'trpgHeader::cols'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(215,25): warning C4458: declaration of 'rows' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_print.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(233,11):
+      see declaration of 'trpgHeader::rows'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(215,35): warning C4458: declaration of 'cols' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_print.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(234,11):
+      see declaration of 'trpgHeader::cols'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(594,20): warning C4091: 'typedef ': ignored on left of 'trpgLightAttr::PerformerAttr' when no variable is declared
+  (compiling source file '../../../src/osgPlugins/txp/trpage_print.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(611,20): warning C4091: 'typedef ': ignored on left of 'trpgLightAttr::AnimationAttr' when no variable is declared
+  (compiling source file '../../../src/osgPlugins/txp/trpage_print.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(622,20): warning C4091: 'typedef ': ignored on left of 'trpgLightAttr::CalligraphicAttr' when no variable is declared
+  (compiling source file '../../../src/osgPlugins/txp/trpage_print.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1963,25): warning C4458: declaration of 'row' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_print.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1980,9):
+      see declaration of 'trpgTileHeader::row'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1963,34): warning C4458: declaration of 'col' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_print.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1981,9):
+      see declaration of 'trpgTileHeader::col'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1968,26): warning C4458: declaration of 'row' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_print.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1980,9):
+      see declaration of 'trpgTileHeader::row'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1968,36): warning C4458: declaration of 'col' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_print.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1981,9):
+      see declaration of 'trpgTileHeader::col'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_read.h(165,36): warning C4458: declaration of 'texTable' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_print.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_read.h(173,25):
+      see declaration of 'trpgrImageHelper::texTable'
+  
+  trpage_print_parse.cpp
+  trpage_range.cpp
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(210,24): warning C4458: declaration of 'rows' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_range.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(233,11):
+      see declaration of 'trpgHeader::rows'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(210,33): warning C4458: declaration of 'cols' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_range.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(234,11):
+      see declaration of 'trpgHeader::cols'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(215,25): warning C4458: declaration of 'rows' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_range.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(233,11):
+      see declaration of 'trpgHeader::rows'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(215,35): warning C4458: declaration of 'cols' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_range.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(234,11):
+      see declaration of 'trpgHeader::cols'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(594,20): warning C4091: 'typedef ': ignored on left of 'trpgLightAttr::PerformerAttr' when no variable is declared
+  (compiling source file '../../../src/osgPlugins/txp/trpage_range.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(611,20): warning C4091: 'typedef ': ignored on left of 'trpgLightAttr::AnimationAttr' when no variable is declared
+  (compiling source file '../../../src/osgPlugins/txp/trpage_range.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(622,20): warning C4091: 'typedef ': ignored on left of 'trpgLightAttr::CalligraphicAttr' when no variable is declared
+  (compiling source file '../../../src/osgPlugins/txp/trpage_range.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1963,25): warning C4458: declaration of 'row' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_range.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1980,9):
+      see declaration of 'trpgTileHeader::row'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1963,34): warning C4458: declaration of 'col' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_range.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1981,9):
+      see declaration of 'trpgTileHeader::col'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1968,26): warning C4458: declaration of 'row' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_range.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1980,9):
+      see declaration of 'trpgTileHeader::row'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1968,36): warning C4458: declaration of 'col' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_range.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1981,9):
+      see declaration of 'trpgTileHeader::col'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_read.h(165,36): warning C4458: declaration of 'texTable' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_range.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_read.h(173,25):
+      see declaration of 'trpgrImageHelper::texTable'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_range.cpp(264,6): warning C4458: declaration of 'handle' hides class member
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_io.h(580,12):
+      see declaration of 'trpgCheckable::handle'
+  
+  trpage_rarchive.cpp
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(210,24): warning C4458: declaration of 'rows' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_rarchive.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(233,11):
+      see declaration of 'trpgHeader::rows'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(210,33): warning C4458: declaration of 'cols' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_rarchive.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(234,11):
+      see declaration of 'trpgHeader::cols'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(215,25): warning C4458: declaration of 'rows' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_rarchive.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(233,11):
+      see declaration of 'trpgHeader::rows'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(215,35): warning C4458: declaration of 'cols' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_rarchive.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(234,11):
+      see declaration of 'trpgHeader::cols'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(594,20): warning C4091: 'typedef ': ignored on left of 'trpgLightAttr::PerformerAttr' when no variable is declared
+  (compiling source file '../../../src/osgPlugins/txp/trpage_rarchive.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(611,20): warning C4091: 'typedef ': ignored on left of 'trpgLightAttr::AnimationAttr' when no variable is declared
+  (compiling source file '../../../src/osgPlugins/txp/trpage_rarchive.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(622,20): warning C4091: 'typedef ': ignored on left of 'trpgLightAttr::CalligraphicAttr' when no variable is declared
+  (compiling source file '../../../src/osgPlugins/txp/trpage_rarchive.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1963,25): warning C4458: declaration of 'row' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_rarchive.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1980,9):
+      see declaration of 'trpgTileHeader::row'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1963,34): warning C4458: declaration of 'col' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_rarchive.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1981,9):
+      see declaration of 'trpgTileHeader::col'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1968,26): warning C4458: declaration of 'row' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_rarchive.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1980,9):
+      see declaration of 'trpgTileHeader::row'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1968,36): warning C4458: declaration of 'col' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_rarchive.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1981,9):
+      see declaration of 'trpgTileHeader::col'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_read.h(165,36): warning C4458: declaration of 'texTable' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_rarchive.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_read.h(173,25):
+      see declaration of 'trpgrImageHelper::texTable'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_rarchive.cpp(103,64): warning C4458: declaration of 'ness' hides class member
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_read.h(228,16):
+      see declaration of 'trpgr_Archive::ness'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_rarchive.cpp(103,75): warning C4458: declaration of 'dir' hides class member
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_read.h(232,10):
+      see declaration of 'trpgr_Archive::dir'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_rarchive.cpp(103,128): warning C4458: declaration of 'texTable' hides class member
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_read.h(235,18):
+      see declaration of 'trpgr_Archive::texTable'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_rarchive.cpp(384,11): warning C4458: declaration of 'fp' hides class member
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_read.h(229,11):
+      see declaration of 'trpgr_Archive::fp'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_rarchive.cpp(516,75): warning C4458: declaration of 'separateGeoTyp' hides class member
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_read.h(177,10):
+      see declaration of 'trpgrImageHelper::separateGeoTyp'
+  
+  trpage_readbuf.cpp
+  Generating Code...
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_material.cpp(1091,1): warning C4702: unreachable code
+  Compiling...
+  trpage_scene.cpp
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(210,24): warning C4458: declaration of 'rows' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_scene.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(233,11):
+      see declaration of 'trpgHeader::rows'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(210,33): warning C4458: declaration of 'cols' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_scene.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(234,11):
+      see declaration of 'trpgHeader::cols'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(215,25): warning C4458: declaration of 'rows' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_scene.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(233,11):
+      see declaration of 'trpgHeader::rows'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(215,35): warning C4458: declaration of 'cols' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_scene.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(234,11):
+      see declaration of 'trpgHeader::cols'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(594,20): warning C4091: 'typedef ': ignored on left of 'trpgLightAttr::PerformerAttr' when no variable is declared
+  (compiling source file '../../../src/osgPlugins/txp/trpage_scene.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(611,20): warning C4091: 'typedef ': ignored on left of 'trpgLightAttr::AnimationAttr' when no variable is declared
+  (compiling source file '../../../src/osgPlugins/txp/trpage_scene.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(622,20): warning C4091: 'typedef ': ignored on left of 'trpgLightAttr::CalligraphicAttr' when no variable is declared
+  (compiling source file '../../../src/osgPlugins/txp/trpage_scene.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1963,25): warning C4458: declaration of 'row' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_scene.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1980,9):
+      see declaration of 'trpgTileHeader::row'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1963,34): warning C4458: declaration of 'col' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_scene.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1981,9):
+      see declaration of 'trpgTileHeader::col'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1968,26): warning C4458: declaration of 'row' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_scene.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1980,9):
+      see declaration of 'trpgTileHeader::row'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1968,36): warning C4458: declaration of 'col' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_scene.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1981,9):
+      see declaration of 'trpgTileHeader::col'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_read.h(165,36): warning C4458: declaration of 'texTable' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_scene.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_read.h(173,25):
+      see declaration of 'trpgrImageHelper::texTable'
+  
+  trpage_swap.cpp
+  trpage_tile.cpp
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(210,24): warning C4458: declaration of 'rows' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_tile.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(233,11):
+      see declaration of 'trpgHeader::rows'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(210,33): warning C4458: declaration of 'cols' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_tile.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(234,11):
+      see declaration of 'trpgHeader::cols'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(215,25): warning C4458: declaration of 'rows' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_tile.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(233,11):
+      see declaration of 'trpgHeader::rows'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(215,35): warning C4458: declaration of 'cols' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_tile.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(234,11):
+      see declaration of 'trpgHeader::cols'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(594,20): warning C4091: 'typedef ': ignored on left of 'trpgLightAttr::PerformerAttr' when no variable is declared
+  (compiling source file '../../../src/osgPlugins/txp/trpage_tile.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(611,20): warning C4091: 'typedef ': ignored on left of 'trpgLightAttr::AnimationAttr' when no variable is declared
+  (compiling source file '../../../src/osgPlugins/txp/trpage_tile.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(622,20): warning C4091: 'typedef ': ignored on left of 'trpgLightAttr::CalligraphicAttr' when no variable is declared
+  (compiling source file '../../../src/osgPlugins/txp/trpage_tile.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1963,25): warning C4458: declaration of 'row' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_tile.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1980,9):
+      see declaration of 'trpgTileHeader::row'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1963,34): warning C4458: declaration of 'col' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_tile.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1981,9):
+      see declaration of 'trpgTileHeader::col'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1968,26): warning C4458: declaration of 'row' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_tile.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1980,9):
+      see declaration of 'trpgTileHeader::row'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1968,36): warning C4458: declaration of 'col' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_tile.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1981,9):
+      see declaration of 'trpgTileHeader::col'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_read.h(165,36): warning C4458: declaration of 'texTable' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_tile.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_read.h(173,25):
+      see declaration of 'trpgrImageHelper::texTable'
+  
+  trpage_util.cpp
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(210,24): warning C4458: declaration of 'rows' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_util.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(233,11):
+      see declaration of 'trpgHeader::rows'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(210,33): warning C4458: declaration of 'cols' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_util.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(234,11):
+      see declaration of 'trpgHeader::cols'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(215,25): warning C4458: declaration of 'rows' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_util.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(233,11):
+      see declaration of 'trpgHeader::rows'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(215,35): warning C4458: declaration of 'cols' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_util.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(234,11):
+      see declaration of 'trpgHeader::cols'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(594,20): warning C4091: 'typedef ': ignored on left of 'trpgLightAttr::PerformerAttr' when no variable is declared
+  (compiling source file '../../../src/osgPlugins/txp/trpage_util.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(611,20): warning C4091: 'typedef ': ignored on left of 'trpgLightAttr::AnimationAttr' when no variable is declared
+  (compiling source file '../../../src/osgPlugins/txp/trpage_util.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(622,20): warning C4091: 'typedef ': ignored on left of 'trpgLightAttr::CalligraphicAttr' when no variable is declared
+  (compiling source file '../../../src/osgPlugins/txp/trpage_util.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1963,25): warning C4458: declaration of 'row' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_util.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1980,9):
+      see declaration of 'trpgTileHeader::row'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1963,34): warning C4458: declaration of 'col' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_util.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1981,9):
+      see declaration of 'trpgTileHeader::col'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1968,26): warning C4458: declaration of 'row' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_util.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1980,9):
+      see declaration of 'trpgTileHeader::row'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1968,36): warning C4458: declaration of 'col' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_util.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1981,9):
+      see declaration of 'trpgTileHeader::col'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_read.h(165,36): warning C4458: declaration of 'texTable' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_util.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_read.h(173,25):
+      see declaration of 'trpgrImageHelper::texTable'
+  
+  trpage_warchive.cpp
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(210,24): warning C4458: declaration of 'rows' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_warchive.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(233,11):
+      see declaration of 'trpgHeader::rows'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(210,33): warning C4458: declaration of 'cols' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_warchive.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(234,11):
+      see declaration of 'trpgHeader::cols'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(215,25): warning C4458: declaration of 'rows' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_warchive.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(233,11):
+      see declaration of 'trpgHeader::rows'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(215,35): warning C4458: declaration of 'cols' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_warchive.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(234,11):
+      see declaration of 'trpgHeader::cols'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(594,20): warning C4091: 'typedef ': ignored on left of 'trpgLightAttr::PerformerAttr' when no variable is declared
+  (compiling source file '../../../src/osgPlugins/txp/trpage_warchive.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(611,20): warning C4091: 'typedef ': ignored on left of 'trpgLightAttr::AnimationAttr' when no variable is declared
+  (compiling source file '../../../src/osgPlugins/txp/trpage_warchive.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(622,20): warning C4091: 'typedef ': ignored on left of 'trpgLightAttr::CalligraphicAttr' when no variable is declared
+  (compiling source file '../../../src/osgPlugins/txp/trpage_warchive.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1963,25): warning C4458: declaration of 'row' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_warchive.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1980,9):
+      see declaration of 'trpgTileHeader::row'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1963,34): warning C4458: declaration of 'col' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_warchive.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1981,9):
+      see declaration of 'trpgTileHeader::col'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1968,26): warning C4458: declaration of 'row' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_warchive.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1980,9):
+      see declaration of 'trpgTileHeader::row'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1968,36): warning C4458: declaration of 'col' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_warchive.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1981,9):
+      see declaration of 'trpgTileHeader::col'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_read.h(165,36): warning C4458: declaration of 'texTable' hides class member
+  (compiling source file '../../../src/osgPlugins/txp/trpage_warchive.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_read.h(173,25):
+      see declaration of 'trpgrImageHelper::texTable'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_warchive.cpp(529,23): warning C4458: declaration of 'numLod' hides class member
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_write.h(337,16):
+      see declaration of 'trpgwArchive::numLod'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_warchive.cpp(742,63): warning C4458: declaration of 'ness' hides class member
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_write.h(317,13):
+      see declaration of 'trpgwArchive::ness'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_warchive.cpp(742,74): warning C4458: declaration of 'dir' hides class member
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_write.h(320,7):
+      see declaration of 'trpgwArchive::dir'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_warchive.cpp(1375,86): warning C4458: declaration of 'separateGeoTypical' hides class member
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_write.h(225,7):
+      see declaration of 'trpgwImageHelper::separateGeoTypical'
+  
+  trpage_writebuf.cpp
+  TXPArchive.cpp
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\Image(301,42): warning C4100: 'nv': unreferenced parameter
+  (compiling source file '../../../src/osgPlugins/txp/TXPArchive.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(55,28): warning C4589: Constructor of abstract class 'osg::Operation' ignores initializer for virtual base class 'osg::Referenced'
+  (compiling source file '../../../src/osgPlugins/txp/TXPArchive.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(55,28):
+      virtual base classes are only initialized by the most-derived type
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(81,23): warning C4589: Constructor of abstract class 'osg::Operation' ignores initializer for virtual base class 'osg::Referenced'
+  (compiling source file '../../../src/osgPlugins/txp/TXPArchive.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(81,23):
+      virtual base classes are only initialized by the most-derived type
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(85,23): warning C4589: Constructor of abstract class 'osg::Operation' ignores initializer for virtual base class 'osg::Referenced'
+  (compiling source file '../../../src/osgPlugins/txp/TXPArchive.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(85,23):
+      virtual base classes are only initialized by the most-derived type
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(210,24): warning C4458: declaration of 'rows' hides class member
+  (compiling source file '../../../../src/osgPlugins/txp/TXPArchive.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(233,11):
+      see declaration of 'trpgHeader::rows'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(210,33): warning C4458: declaration of 'cols' hides class member
+  (compiling source file '../../../../src/osgPlugins/txp/TXPArchive.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(234,11):
+      see declaration of 'trpgHeader::cols'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(215,25): warning C4458: declaration of 'rows' hides class member
+  (compiling source file '../../../../src/osgPlugins/txp/TXPArchive.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(233,11):
+      see declaration of 'trpgHeader::rows'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(215,35): warning C4458: declaration of 'cols' hides class member
+  (compiling source file '../../../../src/osgPlugins/txp/TXPArchive.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(234,11):
+      see declaration of 'trpgHeader::cols'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(594,20): warning C4091: 'typedef ': ignored on left of 'trpgLightAttr::PerformerAttr' when no variable is declared
+  (compiling source file '../../../../src/osgPlugins/txp/TXPArchive.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(611,20): warning C4091: 'typedef ': ignored on left of 'trpgLightAttr::AnimationAttr' when no variable is declared
+  (compiling source file '../../../../src/osgPlugins/txp/TXPArchive.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(622,20): warning C4091: 'typedef ': ignored on left of 'trpgLightAttr::CalligraphicAttr' when no variable is declared
+  (compiling source file '../../../../src/osgPlugins/txp/TXPArchive.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1963,25): warning C4458: declaration of 'row' hides class member
+  (compiling source file '../../../../src/osgPlugins/txp/TXPArchive.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1980,9):
+      see declaration of 'trpgTileHeader::row'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1963,34): warning C4458: declaration of 'col' hides class member
+  (compiling source file '../../../../src/osgPlugins/txp/TXPArchive.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1981,9):
+      see declaration of 'trpgTileHeader::col'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1968,26): warning C4458: declaration of 'row' hides class member
+  (compiling source file '../../../../src/osgPlugins/txp/TXPArchive.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1980,9):
+      see declaration of 'trpgTileHeader::row'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1968,36): warning C4458: declaration of 'col' hides class member
+  (compiling source file '../../../../src/osgPlugins/txp/TXPArchive.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1981,9):
+      see declaration of 'trpgTileHeader::col'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_read.h(165,36): warning C4458: declaration of 'texTable' hides class member
+  (compiling source file '../../../../src/osgPlugins/txp/TXPArchive.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_read.h(173,25):
+      see declaration of 'trpgrImageHelper::texTable'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\TXPArchive.cpp(125,23): warning C4458: declaration of 'header' hides class member
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_read.h(233,16):
+      see declaration of 'trpgr_Archive::header'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\TXPArchive.cpp(592,31): warning C4458: declaration of 'textStyleTable' hides class member
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_read.h(240,24):
+      see declaration of 'trpgr_Archive::textStyleTable'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\TXPArchive.cpp(672,115): warning C4458: declaration of 'handle' hides class member
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_io.h(580,12):
+      see declaration of 'trpgCheckable::handle'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\TXPArchive.cpp(810,31): warning C4456: declaration of 'tileID' hides previous local declaration
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\TXPArchive.cpp(796,31):
+      see declaration of 'tileID'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\TXPArchive.cpp(881,26): warning C4457: declaration of 'loc' hides function parameter
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\TXPArchive.cpp(827,29):
+      see declaration of 'loc'
+  
+  TXPIO.cpp
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\Image(301,42): warning C4100: 'nv': unreferenced parameter
+  (compiling source file '../../../../src/osgPlugins/txp/TXPIO.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(55,28): warning C4589: Constructor of abstract class 'osg::Operation' ignores initializer for virtual base class 'osg::Referenced'
+  (compiling source file '../../../../src/osgPlugins/txp/TXPIO.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(55,28):
+      virtual base classes are only initialized by the most-derived type
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(81,23): warning C4589: Constructor of abstract class 'osg::Operation' ignores initializer for virtual base class 'osg::Referenced'
+  (compiling source file '../../../../src/osgPlugins/txp/TXPIO.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(81,23):
+      virtual base classes are only initialized by the most-derived type
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(85,23): warning C4589: Constructor of abstract class 'osg::Operation' ignores initializer for virtual base class 'osg::Referenced'
+  (compiling source file '../../../../src/osgPlugins/txp/TXPIO.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(85,23):
+      virtual base classes are only initialized by the most-derived type
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(210,24): warning C4458: declaration of 'rows' hides class member
+  (compiling source file '../../../../src/osgPlugins/txp/TXPIO.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(233,11):
+      see declaration of 'trpgHeader::rows'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(210,33): warning C4458: declaration of 'cols' hides class member
+  (compiling source file '../../../../src/osgPlugins/txp/TXPIO.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(234,11):
+      see declaration of 'trpgHeader::cols'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(215,25): warning C4458: declaration of 'rows' hides class member
+  (compiling source file '../../../../src/osgPlugins/txp/TXPIO.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(233,11):
+      see declaration of 'trpgHeader::rows'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(215,35): warning C4458: declaration of 'cols' hides class member
+  (compiling source file '../../../../src/osgPlugins/txp/TXPIO.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(234,11):
+      see declaration of 'trpgHeader::cols'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(594,20): warning C4091: 'typedef ': ignored on left of 'trpgLightAttr::PerformerAttr' when no variable is declared
+  (compiling source file '../../../../src/osgPlugins/txp/TXPIO.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(611,20): warning C4091: 'typedef ': ignored on left of 'trpgLightAttr::AnimationAttr' when no variable is declared
+  (compiling source file '../../../../src/osgPlugins/txp/TXPIO.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(622,20): warning C4091: 'typedef ': ignored on left of 'trpgLightAttr::CalligraphicAttr' when no variable is declared
+  (compiling source file '../../../../src/osgPlugins/txp/TXPIO.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1963,25): warning C4458: declaration of 'row' hides class member
+  (compiling source file '../../../../src/osgPlugins/txp/TXPIO.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1980,9):
+      see declaration of 'trpgTileHeader::row'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1963,34): warning C4458: declaration of 'col' hides class member
+  (compiling source file '../../../../src/osgPlugins/txp/TXPIO.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1981,9):
+      see declaration of 'trpgTileHeader::col'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1968,26): warning C4458: declaration of 'row' hides class member
+  (compiling source file '../../../../src/osgPlugins/txp/TXPIO.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1980,9):
+      see declaration of 'trpgTileHeader::row'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1968,36): warning C4458: declaration of 'col' hides class member
+  (compiling source file '../../../../src/osgPlugins/txp/TXPIO.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1981,9):
+      see declaration of 'trpgTileHeader::col'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_read.h(165,36): warning C4458: declaration of 'texTable' hides class member
+  (compiling source file '../../../../src/osgPlugins/txp/TXPIO.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_read.h(173,25):
+      see declaration of 'trpgrImageHelper::texTable'
+  
+  TXPNode.cpp
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\Image(301,42): warning C4100: 'nv': unreferenced parameter
+  (compiling source file '../../../../src/osgPlugins/txp/TXPNode.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(55,28): warning C4589: Constructor of abstract class 'osg::Operation' ignores initializer for virtual base class 'osg::Referenced'
+  (compiling source file '../../../../src/osgPlugins/txp/TXPNode.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(55,28):
+      virtual base classes are only initialized by the most-derived type
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(81,23): warning C4589: Constructor of abstract class 'osg::Operation' ignores initializer for virtual base class 'osg::Referenced'
+  (compiling source file '../../../../src/osgPlugins/txp/TXPNode.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(81,23):
+      virtual base classes are only initialized by the most-derived type
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(85,23): warning C4589: Constructor of abstract class 'osg::Operation' ignores initializer for virtual base class 'osg::Referenced'
+  (compiling source file '../../../../src/osgPlugins/txp/TXPNode.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(85,23):
+      virtual base classes are only initialized by the most-derived type
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(210,24): warning C4458: declaration of 'rows' hides class member
+  (compiling source file '../../../../src/osgPlugins/txp/TXPNode.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(233,11):
+      see declaration of 'trpgHeader::rows'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(210,33): warning C4458: declaration of 'cols' hides class member
+  (compiling source file '../../../../src/osgPlugins/txp/TXPNode.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(234,11):
+      see declaration of 'trpgHeader::cols'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(215,25): warning C4458: declaration of 'rows' hides class member
+  (compiling source file '../../../../src/osgPlugins/txp/TXPNode.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(233,11):
+      see declaration of 'trpgHeader::rows'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(215,35): warning C4458: declaration of 'cols' hides class member
+  (compiling source file '../../../../src/osgPlugins/txp/TXPNode.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(234,11):
+      see declaration of 'trpgHeader::cols'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(594,20): warning C4091: 'typedef ': ignored on left of 'trpgLightAttr::PerformerAttr' when no variable is declared
+  (compiling source file '../../../../src/osgPlugins/txp/TXPNode.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(611,20): warning C4091: 'typedef ': ignored on left of 'trpgLightAttr::AnimationAttr' when no variable is declared
+  (compiling source file '../../../../src/osgPlugins/txp/TXPNode.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(622,20): warning C4091: 'typedef ': ignored on left of 'trpgLightAttr::CalligraphicAttr' when no variable is declared
+  (compiling source file '../../../../src/osgPlugins/txp/TXPNode.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1963,25): warning C4458: declaration of 'row' hides class member
+  (compiling source file '../../../../src/osgPlugins/txp/TXPNode.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1980,9):
+      see declaration of 'trpgTileHeader::row'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1963,34): warning C4458: declaration of 'col' hides class member
+  (compiling source file '../../../../src/osgPlugins/txp/TXPNode.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1981,9):
+      see declaration of 'trpgTileHeader::col'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1968,26): warning C4458: declaration of 'row' hides class member
+  (compiling source file '../../../../src/osgPlugins/txp/TXPNode.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1980,9):
+      see declaration of 'trpgTileHeader::row'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1968,36): warning C4458: declaration of 'col' hides class member
+  (compiling source file '../../../../src/osgPlugins/txp/TXPNode.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1981,9):
+      see declaration of 'trpgTileHeader::col'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_read.h(165,36): warning C4458: declaration of 'texTable' hides class member
+  (compiling source file '../../../../src/osgPlugins/txp/TXPNode.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_read.h(173,25):
+      see declaration of 'trpgrImageHelper::texTable'
+  
+  TXPPagedLOD.cpp
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(210,24): warning C4458: declaration of 'rows' hides class member
+  (compiling source file '../../../../src/osgPlugins/txp/TXPPagedLOD.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(233,11):
+      see declaration of 'trpgHeader::rows'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(210,33): warning C4458: declaration of 'cols' hides class member
+  (compiling source file '../../../../src/osgPlugins/txp/TXPPagedLOD.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(234,11):
+      see declaration of 'trpgHeader::cols'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(215,25): warning C4458: declaration of 'rows' hides class member
+  (compiling source file '../../../../src/osgPlugins/txp/TXPPagedLOD.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(233,11):
+      see declaration of 'trpgHeader::rows'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(215,35): warning C4458: declaration of 'cols' hides class member
+  (compiling source file '../../../../src/osgPlugins/txp/TXPPagedLOD.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(234,11):
+      see declaration of 'trpgHeader::cols'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(594,20): warning C4091: 'typedef ': ignored on left of 'trpgLightAttr::PerformerAttr' when no variable is declared
+  (compiling source file '../../../../src/osgPlugins/txp/TXPPagedLOD.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(611,20): warning C4091: 'typedef ': ignored on left of 'trpgLightAttr::AnimationAttr' when no variable is declared
+  (compiling source file '../../../../src/osgPlugins/txp/TXPPagedLOD.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(622,20): warning C4091: 'typedef ': ignored on left of 'trpgLightAttr::CalligraphicAttr' when no variable is declared
+  (compiling source file '../../../../src/osgPlugins/txp/TXPPagedLOD.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1963,25): warning C4458: declaration of 'row' hides class member
+  (compiling source file '../../../../src/osgPlugins/txp/TXPPagedLOD.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1980,9):
+      see declaration of 'trpgTileHeader::row'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1963,34): warning C4458: declaration of 'col' hides class member
+  (compiling source file '../../../../src/osgPlugins/txp/TXPPagedLOD.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1981,9):
+      see declaration of 'trpgTileHeader::col'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1968,26): warning C4458: declaration of 'row' hides class member
+  (compiling source file '../../../../src/osgPlugins/txp/TXPPagedLOD.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1980,9):
+      see declaration of 'trpgTileHeader::row'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1968,36): warning C4458: declaration of 'col' hides class member
+  (compiling source file '../../../../src/osgPlugins/txp/TXPPagedLOD.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1981,9):
+      see declaration of 'trpgTileHeader::col'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_read.h(165,36): warning C4458: declaration of 'texTable' hides class member
+  (compiling source file '../../../../src/osgPlugins/txp/TXPPagedLOD.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_read.h(173,25):
+      see declaration of 'trpgrImageHelper::texTable'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\TXPPagedLOD.cpp(26,17): warning C4189: 'tileMapper': local variable is initialized but not referenced
+  TXPPageManager.cpp
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(210,24): warning C4458: declaration of 'rows' hides class member
+  (compiling source file '../../../../src/osgPlugins/txp/TXPPageManager.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(233,11):
+      see declaration of 'trpgHeader::rows'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(210,33): warning C4458: declaration of 'cols' hides class member
+  (compiling source file '../../../../src/osgPlugins/txp/TXPPageManager.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(234,11):
+      see declaration of 'trpgHeader::cols'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(215,25): warning C4458: declaration of 'rows' hides class member
+  (compiling source file '../../../../src/osgPlugins/txp/TXPPageManager.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(233,11):
+      see declaration of 'trpgHeader::rows'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(215,35): warning C4458: declaration of 'cols' hides class member
+  (compiling source file '../../../../src/osgPlugins/txp/TXPPageManager.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(234,11):
+      see declaration of 'trpgHeader::cols'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(594,20): warning C4091: 'typedef ': ignored on left of 'trpgLightAttr::PerformerAttr' when no variable is declared
+  (compiling source file '../../../../src/osgPlugins/txp/TXPPageManager.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(611,20): warning C4091: 'typedef ': ignored on left of 'trpgLightAttr::AnimationAttr' when no variable is declared
+  (compiling source file '../../../../src/osgPlugins/txp/TXPPageManager.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(622,20): warning C4091: 'typedef ': ignored on left of 'trpgLightAttr::CalligraphicAttr' when no variable is declared
+  (compiling source file '../../../../src/osgPlugins/txp/TXPPageManager.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1963,25): warning C4458: declaration of 'row' hides class member
+  (compiling source file '../../../../src/osgPlugins/txp/TXPPageManager.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1980,9):
+      see declaration of 'trpgTileHeader::row'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1963,34): warning C4458: declaration of 'col' hides class member
+  (compiling source file '../../../../src/osgPlugins/txp/TXPPageManager.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1981,9):
+      see declaration of 'trpgTileHeader::col'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1968,26): warning C4458: declaration of 'row' hides class member
+  (compiling source file '../../../../src/osgPlugins/txp/TXPPageManager.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1980,9):
+      see declaration of 'trpgTileHeader::row'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1968,36): warning C4458: declaration of 'col' hides class member
+  (compiling source file '../../../../src/osgPlugins/txp/TXPPageManager.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1981,9):
+      see declaration of 'trpgTileHeader::col'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_read.h(165,36): warning C4458: declaration of 'texTable' hides class member
+  (compiling source file '../../../../src/osgPlugins/txp/TXPPageManager.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_read.h(173,25):
+      see declaration of 'trpgrImageHelper::texTable'
+  
+  TXPParser.cpp
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\Image(301,42): warning C4100: 'nv': unreferenced parameter
+  (compiling source file '../../../../src/osgPlugins/txp/TXPParser.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(55,28): warning C4589: Constructor of abstract class 'osg::Operation' ignores initializer for virtual base class 'osg::Referenced'
+  (compiling source file '../../../../src/osgPlugins/txp/TXPParser.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(55,28):
+      virtual base classes are only initialized by the most-derived type
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(81,23): warning C4589: Constructor of abstract class 'osg::Operation' ignores initializer for virtual base class 'osg::Referenced'
+  (compiling source file '../../../../src/osgPlugins/txp/TXPParser.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(81,23):
+      virtual base classes are only initialized by the most-derived type
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(85,23): warning C4589: Constructor of abstract class 'osg::Operation' ignores initializer for virtual base class 'osg::Referenced'
+  (compiling source file '../../../../src/osgPlugins/txp/TXPParser.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(85,23):
+      virtual base classes are only initialized by the most-derived type
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(210,24): warning C4458: declaration of 'rows' hides class member
+  (compiling source file '../../../../src/osgPlugins/txp/TXPParser.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(233,11):
+      see declaration of 'trpgHeader::rows'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(210,33): warning C4458: declaration of 'cols' hides class member
+  (compiling source file '../../../../src/osgPlugins/txp/TXPParser.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(234,11):
+      see declaration of 'trpgHeader::cols'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(215,25): warning C4458: declaration of 'rows' hides class member
+  (compiling source file '../../../../src/osgPlugins/txp/TXPParser.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(233,11):
+      see declaration of 'trpgHeader::rows'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(215,35): warning C4458: declaration of 'cols' hides class member
+  (compiling source file '../../../../src/osgPlugins/txp/TXPParser.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(234,11):
+      see declaration of 'trpgHeader::cols'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(594,20): warning C4091: 'typedef ': ignored on left of 'trpgLightAttr::PerformerAttr' when no variable is declared
+  (compiling source file '../../../../src/osgPlugins/txp/TXPParser.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(611,20): warning C4091: 'typedef ': ignored on left of 'trpgLightAttr::AnimationAttr' when no variable is declared
+  (compiling source file '../../../../src/osgPlugins/txp/TXPParser.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(622,20): warning C4091: 'typedef ': ignored on left of 'trpgLightAttr::CalligraphicAttr' when no variable is declared
+  (compiling source file '../../../../src/osgPlugins/txp/TXPParser.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1963,25): warning C4458: declaration of 'row' hides class member
+  (compiling source file '../../../../src/osgPlugins/txp/TXPParser.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1980,9):
+      see declaration of 'trpgTileHeader::row'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1963,34): warning C4458: declaration of 'col' hides class member
+  (compiling source file '../../../../src/osgPlugins/txp/TXPParser.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1981,9):
+      see declaration of 'trpgTileHeader::col'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1968,26): warning C4458: declaration of 'row' hides class member
+  (compiling source file '../../../../src/osgPlugins/txp/TXPParser.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1980,9):
+      see declaration of 'trpgTileHeader::row'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1968,36): warning C4458: declaration of 'col' hides class member
+  (compiling source file '../../../../src/osgPlugins/txp/TXPParser.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1981,9):
+      see declaration of 'trpgTileHeader::col'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_read.h(165,36): warning C4458: declaration of 'texTable' hides class member
+  (compiling source file '../../../../src/osgPlugins/txp/TXPParser.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_read.h(173,25):
+      see declaration of 'trpgrImageHelper::texTable'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\TXPParser.cpp(313,35): warning C4458: declaration of 'parents' hides class member
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_read.h(270,25):
+      see declaration of 'trpgSceneParser::parents'
+  
+  TXPSeamLOD.cpp
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(210,24): warning C4458: declaration of 'rows' hides class member
+  (compiling source file '../../../../src/osgPlugins/txp/TXPSeamLOD.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(233,11):
+      see declaration of 'trpgHeader::rows'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(210,33): warning C4458: declaration of 'cols' hides class member
+  (compiling source file '../../../../src/osgPlugins/txp/TXPSeamLOD.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(234,11):
+      see declaration of 'trpgHeader::cols'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(215,25): warning C4458: declaration of 'rows' hides class member
+  (compiling source file '../../../../src/osgPlugins/txp/TXPSeamLOD.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(233,11):
+      see declaration of 'trpgHeader::rows'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(215,35): warning C4458: declaration of 'cols' hides class member
+  (compiling source file '../../../../src/osgPlugins/txp/TXPSeamLOD.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(234,11):
+      see declaration of 'trpgHeader::cols'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(594,20): warning C4091: 'typedef ': ignored on left of 'trpgLightAttr::PerformerAttr' when no variable is declared
+  (compiling source file '../../../../src/osgPlugins/txp/TXPSeamLOD.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(611,20): warning C4091: 'typedef ': ignored on left of 'trpgLightAttr::AnimationAttr' when no variable is declared
+  (compiling source file '../../../../src/osgPlugins/txp/TXPSeamLOD.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(622,20): warning C4091: 'typedef ': ignored on left of 'trpgLightAttr::CalligraphicAttr' when no variable is declared
+  (compiling source file '../../../../src/osgPlugins/txp/TXPSeamLOD.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1963,25): warning C4458: declaration of 'row' hides class member
+  (compiling source file '../../../../src/osgPlugins/txp/TXPSeamLOD.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1980,9):
+      see declaration of 'trpgTileHeader::row'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1963,34): warning C4458: declaration of 'col' hides class member
+  (compiling source file '../../../../src/osgPlugins/txp/TXPSeamLOD.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1981,9):
+      see declaration of 'trpgTileHeader::col'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1968,26): warning C4458: declaration of 'row' hides class member
+  (compiling source file '../../../../src/osgPlugins/txp/TXPSeamLOD.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1980,9):
+      see declaration of 'trpgTileHeader::row'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1968,36): warning C4458: declaration of 'col' hides class member
+  (compiling source file '../../../../src/osgPlugins/txp/TXPSeamLOD.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_geom.h(1981,9):
+      see declaration of 'trpgTileHeader::col'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_read.h(165,36): warning C4458: declaration of 'texTable' hides class member
+  (compiling source file '../../../../src/osgPlugins/txp/TXPSeamLOD.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\trpage_read.h(173,25):
+      see declaration of 'trpgrImageHelper::texTable'
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\Image(301,42): warning C4100: 'nv': unreferenced parameter
+  (compiling source file '../../../../src/osgPlugins/txp/TXPSeamLOD.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(55,28): warning C4589: Constructor of abstract class 'osg::Operation' ignores initializer for virtual base class 'osg::Referenced'
+  (compiling source file '../../../../src/osgPlugins/txp/TXPSeamLOD.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(55,28):
+      virtual base classes are only initialized by the most-derived type
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(81,23): warning C4589: Constructor of abstract class 'osg::Operation' ignores initializer for virtual base class 'osg::Referenced'
+  (compiling source file '../../../../src/osgPlugins/txp/TXPSeamLOD.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(81,23):
+      virtual base classes are only initialized by the most-derived type
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(85,23): warning C4589: Constructor of abstract class 'osg::Operation' ignores initializer for virtual base class 'osg::Referenced'
+  (compiling source file '../../../../src/osgPlugins/txp/TXPSeamLOD.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(85,23):
+      virtual base classes are only initialized by the most-derived type
+  
+  Generating Code...
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\TXPParser.cpp(967,1): warning C4702: unreachable code
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\TXPParser.cpp(969,1): warning C4702: unreachable code
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\TXPParser.cpp(971,1): warning C4702: unreachable code
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\TXPParser.cpp(972,1): warning C4702: unreachable code
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\txp\TXPParser.h(136,1): warning C4702: unreachable code
+  osgdb_txp.vcxproj -> C:\src\osg2.6.1\OpenSceneGraph\build\lib\Release\osgdb_txp.dll

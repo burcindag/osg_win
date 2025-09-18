@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\3ds\ReaderWriter3DS.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\3ds\atmosphere.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\3ds\background.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\3ds\camera.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\3ds\chunk.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\3ds\ease.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\3ds\file.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\3ds\lib3ds_float.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\3ds\light.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\3ds\material.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\3ds\matrix.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\3ds\mesh.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\3ds\node.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\3ds\quat.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\3ds\readwrite.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\3ds\shadow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\3ds\tcb.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\3ds\tracks.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\3ds\vector.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\3ds\viewport.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\3ds\atmosphere.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\3ds\background.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\3ds\camera.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\3ds\chunk.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\3ds\chunktable.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\3ds\config.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\3ds\ease.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\3ds\file.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\3ds\lib3ds_float.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\3ds\light.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\3ds\material.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\3ds\matrix.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\3ds\mesh.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\3ds\node.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\3ds\quat.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\3ds\readwrite.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\3ds\shadow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\3ds\tcb.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\3ds\tracks.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\3ds\types.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\3ds\vector.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\3ds\viewport.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\3ds\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{153317EA-AC9E-3DA2-8389-BDBDCAFE6BAA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{F7F73EB7-E351-383F-8A59-27F655577B0D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

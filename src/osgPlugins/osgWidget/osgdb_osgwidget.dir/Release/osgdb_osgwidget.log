@@ -1,0 +1,333 @@
+﻿  Building Custom Rule C:/src/osg2.6.1/OpenSceneGraph/src/osgPlugins/osgWidget/CMakeLists.txt
+  Box.cpp
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\Image(301,42): warning C4100: 'nv': unreferenced parameter
+  (compiling source file '../../../../src/osgPlugins/osgWidget/Box.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(55,28): warning C4589: Constructor of abstract class 'osg::Operation' ignores initializer for virtual base class 'osg::Referenced'
+  (compiling source file '../../../../src/osgPlugins/osgWidget/Box.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(55,28):
+      virtual base classes are only initialized by the most-derived type
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(81,23): warning C4589: Constructor of abstract class 'osg::Operation' ignores initializer for virtual base class 'osg::Referenced'
+  (compiling source file '../../../../src/osgPlugins/osgWidget/Box.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(81,23):
+      virtual base classes are only initialized by the most-derived type
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(85,23): warning C4589: Constructor of abstract class 'osg::Operation' ignores initializer for virtual base class 'osg::Referenced'
+  (compiling source file '../../../../src/osgPlugins/osgWidget/Box.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(85,23):
+      virtual base classes are only initialized by the most-derived type
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osgUtil\UpdateVisitor(97,48): warning C4456: declaration of 'callback' hides previous local declaration
+  (compiling source file '../../../../src/osgPlugins/osgWidget/Box.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\include\osgUtil\UpdateVisitor(91,32):
+      see declaration of 'callback'
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osgWidget\Widget(80,9): warning C4245: 'argument': conversion from 'osg::CopyOp::Options' to 'osg::CopyOp::CopyFlags', signed/unsigned mismatch
+  (compiling source file '../../../../src/osgPlugins/osgWidget/Box.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osgWidget\Window(66,13): warning C4245: 'argument': conversion from 'osg::CopyOp::Options' to 'osg::CopyOp::CopyFlags', signed/unsigned mismatch
+  (compiling source file '../../../../src/osgPlugins/osgWidget/Box.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osgWidget\Window(126,9): warning C4245: 'argument': conversion from 'osg::CopyOp::Options' to 'osg::CopyOp::CopyFlags', signed/unsigned mismatch
+  (compiling source file '../../../../src/osgPlugins/osgWidget/Box.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osgWidget\Box(33,9): warning C4245: 'argument': conversion from 'osg::CopyOp::Options' to 'osg::CopyOp::CopyFlags', signed/unsigned mismatch
+  (compiling source file '../../../../src/osgPlugins/osgWidget/Box.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\osgWidget\Box.cpp(10,61): warning C4100: 'fr': unreferenced parameter
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\osgWidget\Box.cpp(10,42): warning C4100: 'obj': unreferenced parameter
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\osgWidget\Box.cpp(49,24): warning C4189: 'model': local variable is initialized but not referenced
+  EmbeddedWindow.cpp
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\Image(301,42): warning C4100: 'nv': unreferenced parameter
+  (compiling source file '../../../../src/osgPlugins/osgWidget/EmbeddedWindow.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(55,28): warning C4589: Constructor of abstract class 'osg::Operation' ignores initializer for virtual base class 'osg::Referenced'
+  (compiling source file '../../../../src/osgPlugins/osgWidget/EmbeddedWindow.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(55,28):
+      virtual base classes are only initialized by the most-derived type
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(81,23): warning C4589: Constructor of abstract class 'osg::Operation' ignores initializer for virtual base class 'osg::Referenced'
+  (compiling source file '../../../../src/osgPlugins/osgWidget/EmbeddedWindow.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(81,23):
+      virtual base classes are only initialized by the most-derived type
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(85,23): warning C4589: Constructor of abstract class 'osg::Operation' ignores initializer for virtual base class 'osg::Referenced'
+  (compiling source file '../../../../src/osgPlugins/osgWidget/EmbeddedWindow.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(85,23):
+      virtual base classes are only initialized by the most-derived type
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osgUtil\UpdateVisitor(97,48): warning C4456: declaration of 'callback' hides previous local declaration
+  (compiling source file '../../../../src/osgPlugins/osgWidget/EmbeddedWindow.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\include\osgUtil\UpdateVisitor(91,32):
+      see declaration of 'callback'
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osgWidget\Widget(80,9): warning C4245: 'argument': conversion from 'osg::CopyOp::Options' to 'osg::CopyOp::CopyFlags', signed/unsigned mismatch
+  (compiling source file '../../../../src/osgPlugins/osgWidget/EmbeddedWindow.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osgWidget\Window(66,13): warning C4245: 'argument': conversion from 'osg::CopyOp::Options' to 'osg::CopyOp::CopyFlags', signed/unsigned mismatch
+  (compiling source file '../../../../src/osgPlugins/osgWidget/EmbeddedWindow.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osgWidget\Window(126,9): warning C4245: 'argument': conversion from 'osg::CopyOp::Options' to 'osg::CopyOp::CopyFlags', signed/unsigned mismatch
+  (compiling source file '../../../../src/osgPlugins/osgWidget/EmbeddedWindow.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\osgWidget\EmbeddedWindow.cpp(10,72): warning C4100: 'fr': unreferenced parameter
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\osgWidget\EmbeddedWindow.cpp(10,53): warning C4100: 'obj': unreferenced parameter
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\osgWidget\EmbeddedWindow.cpp(17,43): warning C4189: 'model': local variable is initialized but not referenced
+  Frame.cpp
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\Image(301,42): warning C4100: 'nv': unreferenced parameter
+  (compiling source file '../../../../src/osgPlugins/osgWidget/Frame.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(55,28): warning C4589: Constructor of abstract class 'osg::Operation' ignores initializer for virtual base class 'osg::Referenced'
+  (compiling source file '../../../../src/osgPlugins/osgWidget/Frame.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(55,28):
+      virtual base classes are only initialized by the most-derived type
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(81,23): warning C4589: Constructor of abstract class 'osg::Operation' ignores initializer for virtual base class 'osg::Referenced'
+  (compiling source file '../../../../src/osgPlugins/osgWidget/Frame.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(81,23):
+      virtual base classes are only initialized by the most-derived type
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(85,23): warning C4589: Constructor of abstract class 'osg::Operation' ignores initializer for virtual base class 'osg::Referenced'
+  (compiling source file '../../../../src/osgPlugins/osgWidget/Frame.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(85,23):
+      virtual base classes are only initialized by the most-derived type
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osgUtil\UpdateVisitor(97,48): warning C4456: declaration of 'callback' hides previous local declaration
+  (compiling source file '../../../../src/osgPlugins/osgWidget/Frame.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\include\osgUtil\UpdateVisitor(91,32):
+      see declaration of 'callback'
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osgWidget\Widget(80,9): warning C4245: 'argument': conversion from 'osg::CopyOp::Options' to 'osg::CopyOp::CopyFlags', signed/unsigned mismatch
+  (compiling source file '../../../../src/osgPlugins/osgWidget/Frame.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osgWidget\Window(66,13): warning C4245: 'argument': conversion from 'osg::CopyOp::Options' to 'osg::CopyOp::CopyFlags', signed/unsigned mismatch
+  (compiling source file '../../../../src/osgPlugins/osgWidget/Frame.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osgWidget\Window(126,9): warning C4245: 'argument': conversion from 'osg::CopyOp::Options' to 'osg::CopyOp::CopyFlags', signed/unsigned mismatch
+  (compiling source file '../../../../src/osgPlugins/osgWidget/Frame.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osgWidget\Table(31,9): warning C4245: 'argument': conversion from 'osg::CopyOp::Options' to 'osg::CopyOp::CopyFlags', signed/unsigned mismatch
+  (compiling source file '../../../../src/osgPlugins/osgWidget/Frame.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osgWidget\Frame(51,13): warning C4245: 'argument': conversion from 'osg::CopyOp::Options' to 'osg::CopyOp::CopyFlags', signed/unsigned mismatch
+  (compiling source file '../../../../src/osgPlugins/osgWidget/Frame.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osgWidget\Frame(79,13): warning C4245: 'argument': conversion from 'osg::CopyOp::Options' to 'osg::CopyOp::CopyFlags', signed/unsigned mismatch
+  (compiling source file '../../../../src/osgPlugins/osgWidget/Frame.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osgWidget\Frame(106,9): warning C4245: 'argument': conversion from 'osg::CopyOp::Options' to 'osg::CopyOp::CopyFlags', signed/unsigned mismatch
+  (compiling source file '../../../../src/osgPlugins/osgWidget/Frame.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\osgWidget\Frame.cpp(10,63): warning C4100: 'fr': unreferenced parameter
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\osgWidget\Frame.cpp(10,44): warning C4100: 'obj': unreferenced parameter
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\osgWidget\Frame.cpp(17,26): warning C4189: 'model': local variable is initialized but not referenced
+  Input.cpp
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\Image(301,42): warning C4100: 'nv': unreferenced parameter
+  (compiling source file '../../../../src/osgPlugins/osgWidget/Input.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(55,28): warning C4589: Constructor of abstract class 'osg::Operation' ignores initializer for virtual base class 'osg::Referenced'
+  (compiling source file '../../../../src/osgPlugins/osgWidget/Input.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(55,28):
+      virtual base classes are only initialized by the most-derived type
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(81,23): warning C4589: Constructor of abstract class 'osg::Operation' ignores initializer for virtual base class 'osg::Referenced'
+  (compiling source file '../../../../src/osgPlugins/osgWidget/Input.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(81,23):
+      virtual base classes are only initialized by the most-derived type
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(85,23): warning C4589: Constructor of abstract class 'osg::Operation' ignores initializer for virtual base class 'osg::Referenced'
+  (compiling source file '../../../../src/osgPlugins/osgWidget/Input.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(85,23):
+      virtual base classes are only initialized by the most-derived type
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osgWidget\Widget(80,9): warning C4245: 'argument': conversion from 'osg::CopyOp::Options' to 'osg::CopyOp::CopyFlags', signed/unsigned mismatch
+  (compiling source file '../../../../src/osgPlugins/osgWidget/Input.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osgUtil\UpdateVisitor(97,48): warning C4456: declaration of 'callback' hides previous local declaration
+  (compiling source file '../../../../src/osgPlugins/osgWidget/Input.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\include\osgUtil\UpdateVisitor(91,32):
+      see declaration of 'callback'
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osgWidget\Window(66,13): warning C4245: 'argument': conversion from 'osg::CopyOp::Options' to 'osg::CopyOp::CopyFlags', signed/unsigned mismatch
+  (compiling source file '../../../../src/osgPlugins/osgWidget/Input.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osgWidget\Window(126,9): warning C4245: 'argument': conversion from 'osg::CopyOp::Options' to 'osg::CopyOp::CopyFlags', signed/unsigned mismatch
+  (compiling source file '../../../../src/osgPlugins/osgWidget/Input.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osgWidget\Label(31,9): warning C4245: 'argument': conversion from 'osg::CopyOp::Options' to 'osg::CopyOp::CopyFlags', signed/unsigned mismatch
+  (compiling source file '../../../../src/osgPlugins/osgWidget/Input.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\osgWidget\Input.cpp(10,63): warning C4100: 'fr': unreferenced parameter
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\osgWidget\Input.cpp(10,44): warning C4100: 'obj': unreferenced parameter
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\osgWidget\Input.cpp(17,26): warning C4189: 'model': local variable is initialized but not referenced
+  Label.cpp
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\Image(301,42): warning C4100: 'nv': unreferenced parameter
+  (compiling source file '../../../../src/osgPlugins/osgWidget/Label.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(55,28): warning C4589: Constructor of abstract class 'osg::Operation' ignores initializer for virtual base class 'osg::Referenced'
+  (compiling source file '../../../../src/osgPlugins/osgWidget/Label.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(55,28):
+      virtual base classes are only initialized by the most-derived type
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(81,23): warning C4589: Constructor of abstract class 'osg::Operation' ignores initializer for virtual base class 'osg::Referenced'
+  (compiling source file '../../../../src/osgPlugins/osgWidget/Label.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(81,23):
+      virtual base classes are only initialized by the most-derived type
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(85,23): warning C4589: Constructor of abstract class 'osg::Operation' ignores initializer for virtual base class 'osg::Referenced'
+  (compiling source file '../../../../src/osgPlugins/osgWidget/Label.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(85,23):
+      virtual base classes are only initialized by the most-derived type
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osgWidget\Widget(80,9): warning C4245: 'argument': conversion from 'osg::CopyOp::Options' to 'osg::CopyOp::CopyFlags', signed/unsigned mismatch
+  (compiling source file '../../../../src/osgPlugins/osgWidget/Label.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osgUtil\UpdateVisitor(97,48): warning C4456: declaration of 'callback' hides previous local declaration
+  (compiling source file '../../../../src/osgPlugins/osgWidget/Label.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\include\osgUtil\UpdateVisitor(91,32):
+      see declaration of 'callback'
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osgWidget\Window(66,13): warning C4245: 'argument': conversion from 'osg::CopyOp::Options' to 'osg::CopyOp::CopyFlags', signed/unsigned mismatch
+  (compiling source file '../../../../src/osgPlugins/osgWidget/Label.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osgWidget\Window(126,9): warning C4245: 'argument': conversion from 'osg::CopyOp::Options' to 'osg::CopyOp::CopyFlags', signed/unsigned mismatch
+  (compiling source file '../../../../src/osgPlugins/osgWidget/Label.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osgWidget\Label(31,9): warning C4245: 'argument': conversion from 'osg::CopyOp::Options' to 'osg::CopyOp::CopyFlags', signed/unsigned mismatch
+  (compiling source file '../../../../src/osgPlugins/osgWidget/Label.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\osgWidget\Label.cpp(10,63): warning C4100: 'fr': unreferenced parameter
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\osgWidget\Label.cpp(10,44): warning C4100: 'obj': unreferenced parameter
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\osgWidget\Label.cpp(17,26): warning C4189: 'model': local variable is initialized but not referenced
+  Table.cpp
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\Image(301,42): warning C4100: 'nv': unreferenced parameter
+  (compiling source file '../../../../src/osgPlugins/osgWidget/Table.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(55,28): warning C4589: Constructor of abstract class 'osg::Operation' ignores initializer for virtual base class 'osg::Referenced'
+  (compiling source file '../../../../src/osgPlugins/osgWidget/Table.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(55,28):
+      virtual base classes are only initialized by the most-derived type
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(81,23): warning C4589: Constructor of abstract class 'osg::Operation' ignores initializer for virtual base class 'osg::Referenced'
+  (compiling source file '../../../../src/osgPlugins/osgWidget/Table.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(81,23):
+      virtual base classes are only initialized by the most-derived type
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(85,23): warning C4589: Constructor of abstract class 'osg::Operation' ignores initializer for virtual base class 'osg::Referenced'
+  (compiling source file '../../../../src/osgPlugins/osgWidget/Table.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(85,23):
+      virtual base classes are only initialized by the most-derived type
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osgUtil\UpdateVisitor(97,48): warning C4456: declaration of 'callback' hides previous local declaration
+  (compiling source file '../../../../src/osgPlugins/osgWidget/Table.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\include\osgUtil\UpdateVisitor(91,32):
+      see declaration of 'callback'
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osgWidget\Widget(80,9): warning C4245: 'argument': conversion from 'osg::CopyOp::Options' to 'osg::CopyOp::CopyFlags', signed/unsigned mismatch
+  (compiling source file '../../../../src/osgPlugins/osgWidget/Table.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osgWidget\Window(66,13): warning C4245: 'argument': conversion from 'osg::CopyOp::Options' to 'osg::CopyOp::CopyFlags', signed/unsigned mismatch
+  (compiling source file '../../../../src/osgPlugins/osgWidget/Table.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osgWidget\Window(126,9): warning C4245: 'argument': conversion from 'osg::CopyOp::Options' to 'osg::CopyOp::CopyFlags', signed/unsigned mismatch
+  (compiling source file '../../../../src/osgPlugins/osgWidget/Table.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osgWidget\Table(31,9): warning C4245: 'argument': conversion from 'osg::CopyOp::Options' to 'osg::CopyOp::CopyFlags', signed/unsigned mismatch
+  (compiling source file '../../../../src/osgPlugins/osgWidget/Table.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\osgWidget\Table.cpp(10,63): warning C4100: 'fr': unreferenced parameter
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\osgWidget\Table.cpp(10,44): warning C4100: 'obj': unreferenced parameter
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\osgWidget\Table.cpp(17,26): warning C4189: 'model': local variable is initialized but not referenced
+  Widget.cpp
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\Image(301,42): warning C4100: 'nv': unreferenced parameter
+  (compiling source file '../../../../src/osgPlugins/osgWidget/Widget.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(55,28): warning C4589: Constructor of abstract class 'osg::Operation' ignores initializer for virtual base class 'osg::Referenced'
+  (compiling source file '../../../../src/osgPlugins/osgWidget/Widget.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(55,28):
+      virtual base classes are only initialized by the most-derived type
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(81,23): warning C4589: Constructor of abstract class 'osg::Operation' ignores initializer for virtual base class 'osg::Referenced'
+  (compiling source file '../../../../src/osgPlugins/osgWidget/Widget.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(81,23):
+      virtual base classes are only initialized by the most-derived type
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(85,23): warning C4589: Constructor of abstract class 'osg::Operation' ignores initializer for virtual base class 'osg::Referenced'
+  (compiling source file '../../../../src/osgPlugins/osgWidget/Widget.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(85,23):
+      virtual base classes are only initialized by the most-derived type
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osgUtil\UpdateVisitor(97,48): warning C4456: declaration of 'callback' hides previous local declaration
+  (compiling source file '../../../../src/osgPlugins/osgWidget/Widget.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\include\osgUtil\UpdateVisitor(91,32):
+      see declaration of 'callback'
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osgWidget\Widget(80,9): warning C4245: 'argument': conversion from 'osg::CopyOp::Options' to 'osg::CopyOp::CopyFlags', signed/unsigned mismatch
+  (compiling source file '../../../../src/osgPlugins/osgWidget/Widget.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\osgWidget\Widget.cpp(11,64): warning C4100: 'fr': unreferenced parameter
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\osgWidget\Widget.cpp(11,45): warning C4100: 'obj': unreferenced parameter
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\osgWidget\Widget.cpp(18,27): warning C4189: 'model': local variable is initialized but not referenced
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\osgWidget\Widget.cpp(25,70): warning C4100: 'fr': unreferenced parameter
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\osgWidget\Widget.cpp(25,51): warning C4100: 'obj': unreferenced parameter
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\osgWidget\Widget.cpp(32,33): warning C4189: 'model': local variable is initialized but not referenced
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\osgWidget\Widget.cpp(39,68): warning C4100: 'fr': unreferenced parameter
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\osgWidget\Widget.cpp(39,49): warning C4100: 'obj': unreferenced parameter
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\osgWidget\Widget.cpp(46,31): warning C4189: 'model': local variable is initialized but not referenced
+  WindowManager.cpp
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\Image(301,42): warning C4100: 'nv': unreferenced parameter
+  (compiling source file '../../../../src/osgPlugins/osgWidget/WindowManager.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(55,28): warning C4589: Constructor of abstract class 'osg::Operation' ignores initializer for virtual base class 'osg::Referenced'
+  (compiling source file '../../../../src/osgPlugins/osgWidget/WindowManager.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(55,28):
+      virtual base classes are only initialized by the most-derived type
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(81,23): warning C4589: Constructor of abstract class 'osg::Operation' ignores initializer for virtual base class 'osg::Referenced'
+  (compiling source file '../../../../src/osgPlugins/osgWidget/WindowManager.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(81,23):
+      virtual base classes are only initialized by the most-derived type
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(85,23): warning C4589: Constructor of abstract class 'osg::Operation' ignores initializer for virtual base class 'osg::Referenced'
+  (compiling source file '../../../../src/osgPlugins/osgWidget/WindowManager.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(85,23):
+      virtual base classes are only initialized by the most-derived type
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osgUtil\UpdateVisitor(97,48): warning C4456: declaration of 'callback' hides previous local declaration
+  (compiling source file '../../../../src/osgPlugins/osgWidget/WindowManager.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\include\osgUtil\UpdateVisitor(91,32):
+      see declaration of 'callback'
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osgWidget\Widget(80,9): warning C4245: 'argument': conversion from 'osg::CopyOp::Options' to 'osg::CopyOp::CopyFlags', signed/unsigned mismatch
+  (compiling source file '../../../../src/osgPlugins/osgWidget/WindowManager.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osgWidget\Window(66,13): warning C4245: 'argument': conversion from 'osg::CopyOp::Options' to 'osg::CopyOp::CopyFlags', signed/unsigned mismatch
+  (compiling source file '../../../../src/osgPlugins/osgWidget/WindowManager.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osgWidget\Window(126,9): warning C4245: 'argument': conversion from 'osg::CopyOp::Options' to 'osg::CopyOp::CopyFlags', signed/unsigned mismatch
+  (compiling source file '../../../../src/osgPlugins/osgWidget/WindowManager.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osgWidget\Box(33,9): warning C4245: 'argument': conversion from 'osg::CopyOp::Options' to 'osg::CopyOp::CopyFlags', signed/unsigned mismatch
+  (compiling source file '../../../../src/osgPlugins/osgWidget/WindowManager.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osgWidget\Table(31,9): warning C4245: 'argument': conversion from 'osg::CopyOp::Options' to 'osg::CopyOp::CopyFlags', signed/unsigned mismatch
+  (compiling source file '../../../../src/osgPlugins/osgWidget/WindowManager.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osgWidget\Frame(51,13): warning C4245: 'argument': conversion from 'osg::CopyOp::Options' to 'osg::CopyOp::CopyFlags', signed/unsigned mismatch
+  (compiling source file '../../../../src/osgPlugins/osgWidget/WindowManager.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osgWidget\Frame(79,13): warning C4245: 'argument': conversion from 'osg::CopyOp::Options' to 'osg::CopyOp::CopyFlags', signed/unsigned mismatch
+  (compiling source file '../../../../src/osgPlugins/osgWidget/WindowManager.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osgWidget\Frame(106,9): warning C4245: 'argument': conversion from 'osg::CopyOp::Options' to 'osg::CopyOp::CopyFlags', signed/unsigned mismatch
+  (compiling source file '../../../../src/osgPlugins/osgWidget/WindowManager.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osgWidget\Label(31,9): warning C4245: 'argument': conversion from 'osg::CopyOp::Options' to 'osg::CopyOp::CopyFlags', signed/unsigned mismatch
+  (compiling source file '../../../../src/osgPlugins/osgWidget/WindowManager.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\osgWidget\WindowManager.cpp(10,71): warning C4100: 'fr': unreferenced parameter
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\osgWidget\WindowManager.cpp(10,52): warning C4100: 'obj': unreferenced parameter
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\osgWidget\WindowManager.cpp(17,34): warning C4189: 'model': local variable is initialized but not referenced
+  Generating Code...
+  osgdb_osgwidget.vcxproj -> C:\src\osg2.6.1\OpenSceneGraph\build\lib\Release\osgdb_osgwidget.dll

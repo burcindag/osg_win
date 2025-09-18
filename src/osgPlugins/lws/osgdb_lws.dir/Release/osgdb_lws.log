@@ -1,0 +1,45 @@
+﻿  Building Custom Rule C:/src/osg2.6.1/OpenSceneGraph/src/osgPlugins/lws/CMakeLists.txt
+  ReaderWriterLWS.cpp
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\Image(301,42): warning C4100: 'nv': unreferenced parameter
+  (compiling source file '../../../../src/osgPlugins/lws/ReaderWriterLWS.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(55,28): warning C4589: Constructor of abstract class 'osg::Operation' ignores initializer for virtual base class 'osg::Referenced'
+  (compiling source file '../../../../src/osgPlugins/lws/ReaderWriterLWS.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(55,28):
+      virtual base classes are only initialized by the most-derived type
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(81,23): warning C4589: Constructor of abstract class 'osg::Operation' ignores initializer for virtual base class 'osg::Referenced'
+  (compiling source file '../../../../src/osgPlugins/lws/ReaderWriterLWS.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(81,23):
+      virtual base classes are only initialized by the most-derived type
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(85,23): warning C4589: Constructor of abstract class 'osg::Operation' ignores initializer for virtual base class 'osg::Referenced'
+  (compiling source file '../../../../src/osgPlugins/lws/ReaderWriterLWS.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(85,23):
+      virtual base classes are only initialized by the most-derived type
+  
+  SceneLoader.cpp
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\Image(301,42): warning C4100: 'nv': unreferenced parameter
+  (compiling source file '../../../../src/osgPlugins/lws/SceneLoader.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(55,28): warning C4589: Constructor of abstract class 'osg::Operation' ignores initializer for virtual base class 'osg::Referenced'
+  (compiling source file '../../../../src/osgPlugins/lws/SceneLoader.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(55,28):
+      virtual base classes are only initialized by the most-derived type
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(81,23): warning C4589: Constructor of abstract class 'osg::Operation' ignores initializer for virtual base class 'osg::Referenced'
+  (compiling source file '../../../../src/osgPlugins/lws/SceneLoader.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(81,23):
+      virtual base classes are only initialized by the most-derived type
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(85,23): warning C4589: Constructor of abstract class 'osg::Operation' ignores initializer for virtual base class 'osg::Referenced'
+  (compiling source file '../../../../src/osgPlugins/lws/SceneLoader.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(85,23):
+      virtual base classes are only initialized by the most-derived type
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\lws\SceneLoader.cpp(174,59): warning C4456: declaration of 'j' hides previous local declaration
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\lws\SceneLoader.cpp(153,9):
+      see declaration of 'j'
+  
+  Generating Code...
+  osgdb_lws.vcxproj -> C:\src\osg2.6.1\OpenSceneGraph\build\lib\Release\osgdb_lws.dll

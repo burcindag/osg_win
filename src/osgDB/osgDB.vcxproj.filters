@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgDB\Archive.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgDB\AuthenticationMap.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgDB\DatabasePager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgDB\DotOsgWrapper.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgDB\DynamicLibrary.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgDB\Field.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgDB\FieldReader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgDB\FieldReaderIterator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgDB\FileNameUtils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgDB\FileUtils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgDB\ImageOptions.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgDB\ImagePager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgDB\Input.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgDB\Output.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgDB\PluginQuery.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgDB\ReaderWriter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgDB\ReadFile.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgDB\Registry.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgDB\SharedStateManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgDB\Version.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgDB\WriteFile.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgDB\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osgDB\Archive">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osgDB\AuthenticationMap">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osgDB\DatabasePager">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osgDB\DotOsgWrapper">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osgDB\DynamicLibrary">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osgDB\Export">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osgDB\Field">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osgDB\FieldReader">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osgDB\FieldReaderIterator">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osgDB\FileNameUtils">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osgDB\FileUtils">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osgDB\ImageOptions">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osgDB\ImagePager">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osgDB\Input">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osgDB\Output">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osgDB\ParameterOutput">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osgDB\PluginQuery">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osgDB\ReaderWriter">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osgDB\ReadFile">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osgDB\Registry">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osgDB\SharedStateManager">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osgDB\Version">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osgDB\WriteFile">
+      <Filter>Header Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{153317EA-AC9E-3DA2-8389-BDBDCAFE6BAA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{F7F73EB7-E351-383F-8A59-27F655577B0D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

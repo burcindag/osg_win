@@ -1,0 +1,29 @@
+﻿  Building Custom Rule C:/src/osg2.6.1/OpenSceneGraph/src/osgPlugins/logo/CMakeLists.txt
+  ReaderWriterLOGO.cpp
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\Image(301,42): warning C4100: 'nv': unreferenced parameter
+  (compiling source file '../../../../src/osgPlugins/logo/ReaderWriterLOGO.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(55,28): warning C4589: Constructor of abstract class 'osg::Operation' ignores initializer for virtual base class 'osg::Referenced'
+  (compiling source file '../../../../src/osgPlugins/logo/ReaderWriterLOGO.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(55,28):
+      virtual base classes are only initialized by the most-derived type
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(81,23): warning C4589: Constructor of abstract class 'osg::Operation' ignores initializer for virtual base class 'osg::Referenced'
+  (compiling source file '../../../../src/osgPlugins/logo/ReaderWriterLOGO.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(81,23):
+      virtual base classes are only initialized by the most-derived type
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(85,23): warning C4589: Constructor of abstract class 'osg::Operation' ignores initializer for virtual base class 'osg::Referenced'
+  (compiling source file '../../../../src/osgPlugins/logo/ReaderWriterLOGO.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(85,23):
+      virtual base classes are only initialized by the most-derived type
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\logo\ReaderWriterLOGO.cpp(40,24): warning C4458: declaration of 'logos' hides class member
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\logo\ReaderWriterLOGO.cpp(189,36):
+      see declaration of 'Logos::logos'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\logo\ReaderWriterLOGO.cpp(122,21): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\logo\ReaderWriterLOGO.cpp(122,37): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\logo\ReaderWriterLOGO.cpp(127,21): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\logo\ReaderWriterLOGO.cpp(128,21): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+  osgdb_logo.vcxproj -> C:\src\osg2.6.1\OpenSceneGraph\build\lib\Release\osgdb_logo.dll

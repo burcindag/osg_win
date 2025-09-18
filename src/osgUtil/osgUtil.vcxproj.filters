@@ -1,0 +1,242 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgUtil\CubeMapGenerator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgUtil\CullVisitor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgUtil\DelaunayTriangulator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgUtil\DisplayRequirementsVisitor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgUtil\DrawElementTypeSimplifier.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgUtil\EdgeCollector.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgUtil\GLObjectsVisitor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgUtil\HalfWayMapGenerator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgUtil\HighlightMapGenerator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgUtil\IntersectionVisitor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgUtil\IntersectVisitor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgUtil\LineSegmentIntersector.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgUtil\Optimizer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgUtil\PlaneIntersector.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgUtil\PolytopeIntersector.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgUtil\PositionalStateContainer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgUtil\RenderBin.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgUtil\RenderLeaf.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgUtil\RenderStage.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgUtil\ReversePrimitiveFunctor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgUtil\SceneView.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgUtil\Simplifier.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgUtil\SmoothingVisitor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgUtil\SceneGraphBuilder.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgUtil\StateGraph.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgUtil\Statistics.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgUtil\TangentSpaceGenerator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgUtil\Tessellator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgUtil\TransformAttributeFunctor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgUtil\TransformCallback.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgUtil\TriStrip_tri_stripper.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgUtil\TriStripVisitor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgUtil\UpdateVisitor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgUtil\Version.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgUtil\TriStrip_graph_array.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgUtil\TriStrip_heap_array.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgUtil\TriStrip_tri_stripper.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgUtil\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osgUtil\ConvertVec">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osgUtil\CubeMapGenerator">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osgUtil\CullVisitor">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osgUtil\DelaunayTriangulator">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osgUtil\DisplayRequirementsVisitor">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osgUtil\DrawElementTypeSimplifier">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osgUtil\EdgeCollector">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osgUtil\Export">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osgUtil\GLObjectsVisitor">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osgUtil\HalfWayMapGenerator">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osgUtil\HighlightMapGenerator">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osgUtil\IntersectionVisitor">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osgUtil\IntersectVisitor">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osgUtil\LineSegmentIntersector">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osgUtil\OperationArrayFunctor">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osgUtil\Optimizer">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osgUtil\PlaneIntersector">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osgUtil\PolytopeIntersector">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osgUtil\PositionalStateContainer">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osgUtil\ReflectionMapGenerator">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osgUtil\RenderBin">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osgUtil\RenderLeaf">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osgUtil\RenderStage">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osgUtil\ReversePrimitiveFunctor">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osgUtil\SceneView">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osgUtil\SceneGraphBuilder">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osgUtil\Simplifier">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osgUtil\SmoothingVisitor">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osgUtil\StateGraph">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osgUtil\Statistics">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osgUtil\TangentSpaceGenerator">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osgUtil\Tessellator">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osgUtil\TransformAttributeFunctor">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osgUtil\TransformCallback">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osgUtil\TriStripVisitor">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osgUtil\UpdateVisitor">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osgUtil\Version">
+      <Filter>Header Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{153317EA-AC9E-3DA2-8389-BDBDCAFE6BAA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{F7F73EB7-E351-383F-8A59-27F655577B0D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

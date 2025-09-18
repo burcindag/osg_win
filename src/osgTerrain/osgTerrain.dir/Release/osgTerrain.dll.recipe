@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\src\osg2.6.1\OpenSceneGraph\build\x64\Release\ZERO_CHECK</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\src\osg2.6.1\OpenSceneGraph\build\bin\Release\OpenThreads.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\src\osg2.6.1\OpenSceneGraph\build\bin\Release\osg.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\src\osg2.6.1\OpenSceneGraph\build\bin\Release\osgDB.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\src\osg2.6.1\OpenSceneGraph\build\bin\Release\osgUtil.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\src\osg2.6.1\OpenSceneGraph\build\bin\Release\osgTerrain.dll</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles />
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

@@ -1,0 +1,21 @@
+﻿  Building Custom Rule C:/src/osg2.6.1/OpenSceneGraph/src/osgPlugins/rot/CMakeLists.txt
+  ReaderWriterROT.cpp
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\Image(301,42): warning C4100: 'nv': unreferenced parameter
+  (compiling source file '../../../../src/osgPlugins/rot/ReaderWriterROT.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(55,28): warning C4589: Constructor of abstract class 'osg::Operation' ignores initializer for virtual base class 'osg::Referenced'
+  (compiling source file '../../../../src/osgPlugins/rot/ReaderWriterROT.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(55,28):
+      virtual base classes are only initialized by the most-derived type
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(81,23): warning C4589: Constructor of abstract class 'osg::Operation' ignores initializer for virtual base class 'osg::Referenced'
+  (compiling source file '../../../../src/osgPlugins/rot/ReaderWriterROT.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(81,23):
+      virtual base classes are only initialized by the most-derived type
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(85,23): warning C4589: Constructor of abstract class 'osg::Operation' ignores initializer for virtual base class 'osg::Referenced'
+  (compiling source file '../../../../src/osgPlugins/rot/ReaderWriterROT.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(85,23):
+      virtual base classes are only initialized by the most-derived type
+  
+  osgdb_rot.vcxproj -> C:\src\osg2.6.1\OpenSceneGraph\build\lib\Release\osgdb_rot.dll

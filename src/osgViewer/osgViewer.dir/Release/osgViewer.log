@@ -1,0 +1,5 @@
+﻿osgDB.lib(osgDB.dll) : warning LNK4006: "public: __cdecl std::basic_ofstream<char,struct std::char_traits<char> >::basic_ofstream<char,struct std::char_traits<char> >(class std::basic_ofstream<char,struct std::char_traits<char> > &&)" (??0?$basic_ofstream@DU?$char_traits@D@std@@@std@@QEAA@$$QEAV01@@Z) already defined in HelpHandler.obj; second definition ignored
+osgDB.lib(osgDB.dll) : warning LNK4006: "public: void __cdecl std::basic_ofstream<char,struct std::char_traits<char> >::`vbase destructor'(void)" (??_D?$basic_ofstream@DU?$char_traits@D@std@@@std@@QEAAXXZ) already defined in HelpHandler.obj; second definition ignored
+     Creating library C:/src/osg2.6.1/OpenSceneGraph/build/lib/Release/osgViewer.lib and object C:/src/osg2.6.1/OpenSceneGraph/build/lib/Release/osgViewer.exp
+C:\src\osg2.6.1\OpenSceneGraph\build\bin\Release\osgViewer.dll : warning LNK4088: image being generated due to /FORCE option; image may not run
+  osgViewer.vcxproj -> C:\src\osg2.6.1\OpenSceneGraph\build\bin\Release\osgViewer.dll

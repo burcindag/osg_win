@@ -1,0 +1,115 @@
+﻿  Building Custom Rule C:/src/osg2.6.1/OpenSceneGraph/src/osgPlugins/cfg/CMakeLists.txt
+  CameraConfig.cpp
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\Image(301,42): warning C4100: 'nv': unreferenced parameter
+  (compiling source file '../../../../src/osgPlugins/cfg/CameraConfig.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(55,28): warning C4589: Constructor of abstract class 'osg::Operation' ignores initializer for virtual base class 'osg::Referenced'
+  (compiling source file '../../../../src/osgPlugins/cfg/CameraConfig.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(55,28):
+      virtual base classes are only initialized by the most-derived type
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(81,23): warning C4589: Constructor of abstract class 'osg::Operation' ignores initializer for virtual base class 'osg::Referenced'
+  (compiling source file '../../../../src/osgPlugins/cfg/CameraConfig.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(81,23):
+      virtual base classes are only initialized by the most-derived type
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(85,23): warning C4589: Constructor of abstract class 'osg::Operation' ignores initializer for virtual base class 'osg::Referenced'
+  (compiling source file '../../../../src/osgPlugins/cfg/CameraConfig.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(85,23):
+      virtual base classes are only initialized by the most-derived type
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osgUtil\UpdateVisitor(97,48): warning C4456: declaration of 'callback' hides previous local declaration
+  (compiling source file '../../../../src/osgPlugins/cfg/CameraConfig.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\include\osgUtil\UpdateVisitor(91,32):
+      see declaration of 'callback'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\cfg\CameraConfig.cpp(309,14): warning C4457: declaration of 'name' hides function parameter
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\cfg\CameraConfig.cpp(299,43):
+      see declaration of 'name'
+  
+  Camera.cpp
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\cfg\Camera.cpp(280,29): warning C4458: declaration of '_matrix' hides class member
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\cfg\Camera.h(164,41):
+      see declaration of 'osgProducer::Camera::Lens::_matrix'
+  
+  ConfigLexer.cpp
+C:\src\osg2.6.1\OpenSceneGraph\build\src\osgPlugins\cfg\ConfigLexer.cpp(876,26): warning C4244: 'initializing': conversion from 'const int' to 'YY_CHAR', possible loss of data
+  (compiling source file '../../../../src/osgPlugins/cfg/ConfigLexer.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\build\src\osgPlugins\cfg\ConfigLexer.cpp(886,40): warning C4244: '=': conversion from 'const int' to 'YY_CHAR', possible loss of data
+  (compiling source file '../../../../src/osgPlugins/cfg/ConfigLexer.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\build\src\osgPlugins\ConfigLexer.l(44,44): warning C4244: '=': conversion from 'int' to 'char', possible loss of data
+  (compiling source file '../../../../src/osgPlugins/cfg/ConfigLexer.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\build\src\osgPlugins\ConfigLexer.l(65,41): warning C4244: '=': conversion from 'int' to 'char', possible loss of data
+  (compiling source file '../../../../src/osgPlugins/cfg/ConfigLexer.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\build\src\osgPlugins\cfg\ConfigLexer.cpp(1722,25): warning C4244: 'initializing': conversion from 'int' to 'YY_CHAR', possible loss of data
+  (compiling source file '../../../../src/osgPlugins/cfg/ConfigLexer.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\build\src\osgPlugins\cfg\ConfigLexer.cpp(1732,39): warning C4244: '=': conversion from 'const int' to 'YY_CHAR', possible loss of data
+  (compiling source file '../../../../src/osgPlugins/cfg/ConfigLexer.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\build\src\osgPlugins\cfg\ConfigLexer.cpp(1762,38): warning C4244: '=': conversion from 'const int' to 'YY_CHAR', possible loss of data
+  (compiling source file '../../../../src/osgPlugins/cfg/ConfigLexer.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\build\src\osgPlugins\cfg\ConfigLexer.cpp(1826,15): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  (compiling source file '../../../../src/osgPlugins/cfg/ConfigLexer.cpp')
+  
+  ConfigParser.cpp
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\Image(301,42): warning C4100: 'nv': unreferenced parameter
+  (compiling source file '../../../../src/osgPlugins/cfg/ConfigParser.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(55,28): warning C4589: Constructor of abstract class 'osg::Operation' ignores initializer for virtual base class 'osg::Referenced'
+  (compiling source file '../../../../src/osgPlugins/cfg/ConfigParser.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(55,28):
+      virtual base classes are only initialized by the most-derived type
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(81,23): warning C4589: Constructor of abstract class 'osg::Operation' ignores initializer for virtual base class 'osg::Referenced'
+  (compiling source file '../../../../src/osgPlugins/cfg/ConfigParser.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(81,23):
+      virtual base classes are only initialized by the most-derived type
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(85,23): warning C4589: Constructor of abstract class 'osg::Operation' ignores initializer for virtual base class 'osg::Referenced'
+  (compiling source file '../../../../src/osgPlugins/cfg/ConfigParser.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(85,23):
+      virtual base classes are only initialized by the most-derived type
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osgUtil\UpdateVisitor(97,48): warning C4456: declaration of 'callback' hides previous local declaration
+  (compiling source file '../../../../src/osgPlugins/cfg/ConfigParser.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\include\osgUtil\UpdateVisitor(91,32):
+      see declaration of 'callback'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\cfg\ConfigParser.cpp(1108,17): warning C4100: 'yytype': unreferenced parameter
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\cfg\ConfigParser.cpp(2116,1): warning C4102: 'yyerrlab1': unreferenced label
+  ReaderWriterCFG.cpp
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(55,28): warning C4589: Constructor of abstract class 'osg::Operation' ignores initializer for virtual base class 'osg::Referenced'
+  (compiling source file '../../../../src/osgPlugins/cfg/ReaderWriterCFG.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(55,28):
+      virtual base classes are only initialized by the most-derived type
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(81,23): warning C4589: Constructor of abstract class 'osg::Operation' ignores initializer for virtual base class 'osg::Referenced'
+  (compiling source file '../../../../src/osgPlugins/cfg/ReaderWriterCFG.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(81,23):
+      virtual base classes are only initialized by the most-derived type
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(85,23): warning C4589: Constructor of abstract class 'osg::Operation' ignores initializer for virtual base class 'osg::Referenced'
+  (compiling source file '../../../../src/osgPlugins/cfg/ReaderWriterCFG.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(85,23):
+      virtual base classes are only initialized by the most-derived type
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\Image(301,42): warning C4100: 'nv': unreferenced parameter
+  (compiling source file '../../../../src/osgPlugins/cfg/ReaderWriterCFG.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osgUtil\UpdateVisitor(97,48): warning C4456: declaration of 'callback' hides previous local declaration
+  (compiling source file '../../../../src/osgPlugins/cfg/ReaderWriterCFG.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\include\osgUtil\UpdateVisitor(91,32):
+      see declaration of 'callback'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\cfg\ReaderWriterCFG.cpp(92,91): warning C4100: 'option': unreferenced parameter
+  RenderSurface.cpp
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\cfg\RenderSurface.cpp(281,101): warning C4100: 'resize': unreferenced parameter
+  VisualChooser.cpp
+  Generating Code...
+  osgdb_cfg.vcxproj -> C:\src\osg2.6.1\OpenSceneGraph\build\lib\Release\osgdb_cfg.dll

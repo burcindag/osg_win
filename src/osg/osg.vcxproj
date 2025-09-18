@@ -1,0 +1,827 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PreferredToolArchitecture>x64</PreferredToolArchitecture>
+  </PropertyGroup>
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="MinSizeRel|x64">
+      <Configuration>MinSizeRel</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="RelWithDebInfo|x64">
+      <Configuration>RelWithDebInfo</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{5249FC75-6BDF-33E8-90F5-66ED13082D94}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+    <WindowsTargetPlatformVersion>10.0.26100.0</WindowsTargetPlatformVersion>
+    <Platform>x64</Platform>
+    <ProjectName>osg</ProjectName>
+    <VCProjectUpgraderObjectName>NoUpgrade</VCProjectUpgraderObjectName>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v143</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v143</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v143</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v143</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup>
+    <_ProjectFileVersion>10.0.20506.1</_ProjectFileVersion>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\src\osg2.6.1\OpenSceneGraph\build\bin\Debug\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">osg.dir\Debug\</IntDir>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">osgd</TargetName>
+    <TargetExt Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">.dll</TargetExt>
+    <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</LinkIncremental>
+    <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</GenerateManifest>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\src\osg2.6.1\OpenSceneGraph\build\bin\Release\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">osg.dir\Release\</IntDir>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='Release|x64'">osg</TargetName>
+    <TargetExt Condition="'$(Configuration)|$(Platform)'=='Release|x64'">.dll</TargetExt>
+    <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</LinkIncremental>
+    <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</GenerateManifest>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">C:\src\osg2.6.1\OpenSceneGraph\build\bin\MinSizeRel\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">osg.dir\MinSizeRel\</IntDir>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">osg</TargetName>
+    <TargetExt Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">.dll</TargetExt>
+    <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">false</LinkIncremental>
+    <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">true</GenerateManifest>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">C:\src\osg2.6.1\OpenSceneGraph\build\bin\RelWithDebInfo\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">osg.dir\RelWithDebInfo\</IntDir>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">osg</TargetName>
+    <TargetExt Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">.dll</TargetExt>
+    <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">true</LinkIncremental>
+    <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">true</GenerateManifest>
+  </PropertyGroup>
+  <PropertyGroup />
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>C:\src\osg2.6.1\OpenSceneGraph\include;C:\src\osg2.6.1\OpenSceneGraph\build\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AssemblerListingLocation>$(IntDir)</AssemblerListingLocation>
+      <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <ForceConformanceInForLoopScope></ForceConformanceInForLoopScope>
+      <InlineFunctionExpansion>Disabled</InlineFunctionExpansion>
+      <MinimalRebuild></MinimalRebuild>
+      <Optimization>Disabled</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RemoveUnreferencedCodeData></RemoveUnreferencedCodeData>
+      <RuntimeLibrary>MultiThreadedDebugDLL</RuntimeLibrary>
+      <SupportJustMyCode></SupportJustMyCode>
+      <TreatWChar_tAsBuiltInType></TreatWChar_tAsBuiltInType>
+      <UseFullPaths>false</UseFullPaths>
+      <WarningLevel>Level4</WarningLevel>
+      <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_WINDOWS;OSG_DEBUG_POSTFIX=d;_SCL_SECURE_NO_WARNINGS;_CRT_SECURE_NO_DEPRECATE;OSG_LIBRARY;CMAKE_INTDIR="Debug";osg_EXPORTS</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+      <ScanSourceForModuleDependencies>false</ScanSourceForModuleDependencies>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_DEBUG;_WINDOWS;OSG_DEBUG_POSTFIX=d;_SCL_SECURE_NO_WARNINGS;_CRT_SECURE_NO_DEPRECATE;OSG_LIBRARY;CMAKE_INTDIR=\"Debug\";osg_EXPORTS</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>C:\src\osg2.6.1\OpenSceneGraph\include;C:\src\osg2.6.1\OpenSceneGraph\build\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>C:\src\osg2.6.1\OpenSceneGraph\include;C:\src\osg2.6.1\OpenSceneGraph\build\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <Link>
+      <AdditionalDependencies>OpenThreadsd.lib;opengl32.lib;glu32.lib;kernel32.lib;user32.lib;gdi32.lib;winspool.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;comdlg32.lib;advapi32.lib</AdditionalDependencies>
+      <AdditionalLibraryDirectories>%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalOptions>%(AdditionalOptions) /machine:x64</AdditionalOptions>
+      <DataExecutionPrevention></DataExecutionPrevention>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <ImageHasSafeExceptionHandlers></ImageHasSafeExceptionHandlers>
+      <ImportLibrary>C:/src/osg2.6.1/OpenSceneGraph/build/lib/Debug/osgd.lib</ImportLibrary>
+      <LinkErrorReporting></LinkErrorReporting>
+      <ProgramDataBaseFile>C:/src/osg2.6.1/OpenSceneGraph/build/bin/Debug/osgd.pdb</ProgramDataBaseFile>
+      <RandomizedBaseAddress></RandomizedBaseAddress>
+      <SubSystem></SubSystem>
+      <Version>2.6</Version>
+    </Link>
+    <ProjectReference>
+      <LinkLibraryDependencies>false</LinkLibraryDependencies>
+    </ProjectReference>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>C:\src\osg2.6.1\OpenSceneGraph\include;C:\src\osg2.6.1\OpenSceneGraph\build\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AssemblerListingLocation>$(IntDir)</AssemblerListingLocation>
+      <BasicRuntimeChecks>Default</BasicRuntimeChecks>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <ForceConformanceInForLoopScope></ForceConformanceInForLoopScope>
+      <InlineFunctionExpansion>AnySuitable</InlineFunctionExpansion>
+      <MinimalRebuild></MinimalRebuild>
+      <Optimization>MaxSpeed</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RemoveUnreferencedCodeData></RemoveUnreferencedCodeData>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <SupportJustMyCode></SupportJustMyCode>
+      <TreatWChar_tAsBuiltInType></TreatWChar_tAsBuiltInType>
+      <UseFullPaths>false</UseFullPaths>
+      <WarningLevel>Level4</WarningLevel>
+      <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_WINDOWS;NDEBUG;OSG_DEBUG_POSTFIX=d;_SCL_SECURE_NO_WARNINGS;_CRT_SECURE_NO_DEPRECATE;OSG_LIBRARY;CMAKE_INTDIR="Release";osg_EXPORTS</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+      <DebugInformationFormat>
+      </DebugInformationFormat>
+      <ScanSourceForModuleDependencies>false</ScanSourceForModuleDependencies>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_WINDOWS;NDEBUG;OSG_DEBUG_POSTFIX=d;_SCL_SECURE_NO_WARNINGS;_CRT_SECURE_NO_DEPRECATE;OSG_LIBRARY;CMAKE_INTDIR=\"Release\";osg_EXPORTS</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>C:\src\osg2.6.1\OpenSceneGraph\include;C:\src\osg2.6.1\OpenSceneGraph\build\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>C:\src\osg2.6.1\OpenSceneGraph\include;C:\src\osg2.6.1\OpenSceneGraph\build\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <Link>
+      <AdditionalDependencies>..\..\lib\Release\OpenThreads.lib;opengl32.lib;glu32.lib;kernel32.lib;user32.lib;gdi32.lib;winspool.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;comdlg32.lib;advapi32.lib</AdditionalDependencies>
+      <AdditionalLibraryDirectories>%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalOptions>%(AdditionalOptions) /machine:x64</AdditionalOptions>
+      <DataExecutionPrevention></DataExecutionPrevention>
+      <GenerateDebugInformation>false</GenerateDebugInformation>
+      <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <ImageHasSafeExceptionHandlers></ImageHasSafeExceptionHandlers>
+      <ImportLibrary>C:/src/osg2.6.1/OpenSceneGraph/build/lib/Release/osg.lib</ImportLibrary>
+      <LinkErrorReporting></LinkErrorReporting>
+      <ProgramDataBaseFile>C:/src/osg2.6.1/OpenSceneGraph/build/bin/Release/osg.pdb</ProgramDataBaseFile>
+      <RandomizedBaseAddress></RandomizedBaseAddress>
+      <SubSystem></SubSystem>
+      <Version>2.6</Version>
+    </Link>
+    <ProjectReference>
+      <LinkLibraryDependencies>false</LinkLibraryDependencies>
+    </ProjectReference>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>C:\src\osg2.6.1\OpenSceneGraph\include;C:\src\osg2.6.1\OpenSceneGraph\build\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AssemblerListingLocation>$(IntDir)</AssemblerListingLocation>
+      <BasicRuntimeChecks>Default</BasicRuntimeChecks>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <ForceConformanceInForLoopScope></ForceConformanceInForLoopScope>
+      <InlineFunctionExpansion>OnlyExplicitInline</InlineFunctionExpansion>
+      <MinimalRebuild></MinimalRebuild>
+      <Optimization>MinSpace</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RemoveUnreferencedCodeData></RemoveUnreferencedCodeData>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <SupportJustMyCode></SupportJustMyCode>
+      <TreatWChar_tAsBuiltInType></TreatWChar_tAsBuiltInType>
+      <UseFullPaths>false</UseFullPaths>
+      <WarningLevel>Level4</WarningLevel>
+      <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_WINDOWS;NDEBUG;OSG_DEBUG_POSTFIX=d;_SCL_SECURE_NO_WARNINGS;_CRT_SECURE_NO_DEPRECATE;OSG_LIBRARY;CMAKE_INTDIR="MinSizeRel";osg_EXPORTS</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+      <DebugInformationFormat>
+      </DebugInformationFormat>
+      <ScanSourceForModuleDependencies>false</ScanSourceForModuleDependencies>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_WINDOWS;NDEBUG;OSG_DEBUG_POSTFIX=d;_SCL_SECURE_NO_WARNINGS;_CRT_SECURE_NO_DEPRECATE;OSG_LIBRARY;CMAKE_INTDIR=\"MinSizeRel\";osg_EXPORTS</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>C:\src\osg2.6.1\OpenSceneGraph\include;C:\src\osg2.6.1\OpenSceneGraph\build\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>C:\src\osg2.6.1\OpenSceneGraph\include;C:\src\osg2.6.1\OpenSceneGraph\build\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <Link>
+      <AdditionalDependencies>..\..\lib\MinSizeRel\OpenThreads.lib;opengl32.lib;glu32.lib;kernel32.lib;user32.lib;gdi32.lib;winspool.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;comdlg32.lib;advapi32.lib</AdditionalDependencies>
+      <AdditionalLibraryDirectories>%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalOptions>%(AdditionalOptions) /machine:x64</AdditionalOptions>
+      <DataExecutionPrevention></DataExecutionPrevention>
+      <GenerateDebugInformation>false</GenerateDebugInformation>
+      <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <ImageHasSafeExceptionHandlers></ImageHasSafeExceptionHandlers>
+      <ImportLibrary>C:/src/osg2.6.1/OpenSceneGraph/build/lib/MinSizeRel/osg.lib</ImportLibrary>
+      <LinkErrorReporting></LinkErrorReporting>
+      <ProgramDataBaseFile>C:/src/osg2.6.1/OpenSceneGraph/build/bin/MinSizeRel/osg.pdb</ProgramDataBaseFile>
+      <RandomizedBaseAddress></RandomizedBaseAddress>
+      <SubSystem></SubSystem>
+      <Version>2.6</Version>
+    </Link>
+    <ProjectReference>
+      <LinkLibraryDependencies>false</LinkLibraryDependencies>
+    </ProjectReference>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>C:\src\osg2.6.1\OpenSceneGraph\include;C:\src\osg2.6.1\OpenSceneGraph\build\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AssemblerListingLocation>$(IntDir)</AssemblerListingLocation>
+      <BasicRuntimeChecks>Default</BasicRuntimeChecks>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <ForceConformanceInForLoopScope></ForceConformanceInForLoopScope>
+      <InlineFunctionExpansion>OnlyExplicitInline</InlineFunctionExpansion>
+      <MinimalRebuild></MinimalRebuild>
+      <Optimization>MaxSpeed</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RemoveUnreferencedCodeData></RemoveUnreferencedCodeData>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <SupportJustMyCode></SupportJustMyCode>
+      <TreatWChar_tAsBuiltInType></TreatWChar_tAsBuiltInType>
+      <UseFullPaths>false</UseFullPaths>
+      <WarningLevel>Level4</WarningLevel>
+      <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_WINDOWS;NDEBUG;OSG_DEBUG_POSTFIX=d;_SCL_SECURE_NO_WARNINGS;_CRT_SECURE_NO_DEPRECATE;OSG_LIBRARY;CMAKE_INTDIR="RelWithDebInfo";osg_EXPORTS</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+      <ScanSourceForModuleDependencies>false</ScanSourceForModuleDependencies>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_WINDOWS;NDEBUG;OSG_DEBUG_POSTFIX=d;_SCL_SECURE_NO_WARNINGS;_CRT_SECURE_NO_DEPRECATE;OSG_LIBRARY;CMAKE_INTDIR=\"RelWithDebInfo\";osg_EXPORTS</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>C:\src\osg2.6.1\OpenSceneGraph\include;C:\src\osg2.6.1\OpenSceneGraph\build\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>C:\src\osg2.6.1\OpenSceneGraph\include;C:\src\osg2.6.1\OpenSceneGraph\build\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <Link>
+      <AdditionalDependencies>..\..\lib\RelWithDebInfo\OpenThreads.lib;opengl32.lib;glu32.lib;kernel32.lib;user32.lib;gdi32.lib;winspool.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;comdlg32.lib;advapi32.lib</AdditionalDependencies>
+      <AdditionalLibraryDirectories>%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalOptions>%(AdditionalOptions) /machine:x64</AdditionalOptions>
+      <DataExecutionPrevention></DataExecutionPrevention>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <ImageHasSafeExceptionHandlers></ImageHasSafeExceptionHandlers>
+      <ImportLibrary>C:/src/osg2.6.1/OpenSceneGraph/build/lib/RelWithDebInfo/osg.lib</ImportLibrary>
+      <LinkErrorReporting></LinkErrorReporting>
+      <ProgramDataBaseFile>C:/src/osg2.6.1/OpenSceneGraph/build/bin/RelWithDebInfo/osg.pdb</ProgramDataBaseFile>
+      <RandomizedBaseAddress></RandomizedBaseAddress>
+      <SubSystem></SubSystem>
+      <Version>2.6</Version>
+    </Link>
+    <ProjectReference>
+      <LinkLibraryDependencies>false</LinkLibraryDependencies>
+    </ProjectReference>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\CMakeLists.txt">
+      <UseUtf8Encoding>Always</UseUtf8Encoding>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Building Custom Rule C:/src/osg2.6.1/OpenSceneGraph/src/osg/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/src/osg2.6.1/OpenSceneGraph -BC:/src/osg2.6.1/OpenSceneGraph/build --check-stamp-file C:/src/osg2.6.1/OpenSceneGraph/build/src/osg/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\src\osg2.6.1\OpenSceneGraph\CMakeModules\ModuleInstall.cmake;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\src\osg2.6.1\OpenSceneGraph\build\src\osg\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Building Custom Rule C:/src/osg2.6.1/OpenSceneGraph/src/osg/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Release|x64'">setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/src/osg2.6.1/OpenSceneGraph -BC:/src/osg2.6.1/OpenSceneGraph/build --check-stamp-file C:/src/osg2.6.1/OpenSceneGraph/build/src/osg/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\src\osg2.6.1\OpenSceneGraph\CMakeModules\ModuleInstall.cmake;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\src\osg2.6.1\OpenSceneGraph\build\src\osg\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">Building Custom Rule C:/src/osg2.6.1/OpenSceneGraph/src/osg/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/src/osg2.6.1/OpenSceneGraph -BC:/src/osg2.6.1/OpenSceneGraph/build --check-stamp-file C:/src/osg2.6.1/OpenSceneGraph/build/src/osg/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">C:\src\osg2.6.1\OpenSceneGraph\CMakeModules\ModuleInstall.cmake;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">C:\src\osg2.6.1\OpenSceneGraph\build\src\osg\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">Building Custom Rule C:/src/osg2.6.1/OpenSceneGraph/src/osg/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/src/osg2.6.1/OpenSceneGraph -BC:/src/osg2.6.1/OpenSceneGraph/build --check-stamp-file C:/src/osg2.6.1/OpenSceneGraph/build/src/osg/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">C:\src\osg2.6.1\OpenSceneGraph\CMakeModules\ModuleInstall.cmake;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">C:\src\osg2.6.1\OpenSceneGraph\build\src\osg\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">false</LinkObjects>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\AlphaFunc">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\AnimationPath">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\ApplicationUsage">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\ArgumentParser">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\Array">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\AutoTransform">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\Billboard">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\BlendColor">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\BlendEquation">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\BlendFunc">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\BoundingBox">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\BoundingSphere">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\BoundsChecking">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\buffered_value">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\BufferObject">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\Camera">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\CameraNode">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\CameraView">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\ClampColor">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\ClearNode">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\ClipNode">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\ClipPlane">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\ClusterCullingCallback">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\CollectOccludersVisitor">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\ColorMask">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\ColorMatrix">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\ComputeBoundsVisitor">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\ConvexPlanarOccluder">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\ConvexPlanarPolygon">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\CoordinateSystemNode">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\CopyOp">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\CullFace">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\CullingSet">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\CullSettings">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\CullStack">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\DeleteHandler">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\Depth">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\DisplaySettings">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\Drawable">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\DrawPixels">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\Endian">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\Export">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\fast_back_stack">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\Fog">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\FragmentProgram">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\FrameBufferObject">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\FrameStamp">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\FrontFace">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\Geode">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\Geometry">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\GL">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\GL2Extensions">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\GLExtensions">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\GLObjects">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\GLU">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\GraphicsContext">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\GraphicsThread">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\Group">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\Hint">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\Image">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\ImageSequence">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\ImageStream">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\io_utils">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\KdTree">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\Light">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\LightModel">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\LightSource">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\LineSegment">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\LineStipple">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\LineWidth">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\LOD">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\LogicOp">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\Material">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\Math">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\Matrix">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\Matrixd">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\Matrixf">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\MatrixTransform">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\MixinVector">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\Multisample">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\Node">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\NodeCallback">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\NodeTrackerCallback">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\NodeVisitor">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\Notify">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\Object">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\observer_ptr">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\OccluderNode">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\OcclusionQueryNode">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\PagedLOD">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\Plane">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\Point">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\PointSprite">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\PolygonMode">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\PolygonOffset">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\PolygonStipple">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\Polytope">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\PositionAttitudeTransform">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\PrimitiveSet">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\Program">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\Projection">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\ProxyNode">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\Quat">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\Referenced">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\ref_ptr">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\RenderInfo">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\Scissor">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\Sequence">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\ShadeModel">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\Shader">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\ShadowVolumeOccluder">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\Shape">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\ShapeDrawable">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\State">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\StateAttribute">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\StateSet">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\Stats">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\Stencil">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\StencilTwoSided">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\Switch">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\TemplatePrimitiveFunctor">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\TexEnv">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\TexEnvCombine">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\TexEnvFilter">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\TexGen">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\TexGenNode">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\TexMat">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\Texture">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\Texture1D">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\Texture2D">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\Texture2DArray">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\Texture3D">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\TextureCubeMap">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\TextureRectangle">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\Timer">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\TransferFunction">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\Transform">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\TriangleFunctor">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\TriangleIndexFunctor">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\Uniform">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\Vec2">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\Vec2b">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\Vec2d">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\Vec2f">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\Vec2s">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\Vec3">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\Vec3b">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\Vec3d">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\Vec3f">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\Vec3s">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\Vec4">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\Vec4b">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\Vec4d">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\Vec4f">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\Vec4s">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\Vec4ub">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\Version">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\VertexProgram">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\View">
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osg\Viewport">
+    </None>
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\AlphaFunc.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\AnimationPath.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\ApplicationUsage.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\ArgumentParser.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\Array.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\AutoTransform.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\Billboard.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\BlendColor.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\BlendEquation.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\BlendFunc.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\BoundingBox.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\BoundingSphere.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\BufferObject.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\Camera.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\CameraView.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\ClampColor.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\ClearNode.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\ClipNode.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\ClipPlane.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\ClusterCullingCallback.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\CollectOccludersVisitor.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\ColorMask.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\ColorMatrix.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\ComputeBoundsVisitor.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\ConvexPlanarOccluder.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\ConvexPlanarPolygon.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\CoordinateSystemNode.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\CopyOp.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\CullFace.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\CullSettings.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\CullStack.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\CullingSet.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\DeleteHandler.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\Depth.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\DisplaySettings.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\DrawPixels.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\Drawable.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\Fog.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\FragmentProgram.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\FrameBufferObject.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\FrameStamp.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\FrontFace.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\GL2Extensions.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\GLExtensions.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\GLObjects.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\Geode.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\Geometry.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\GraphicsContext.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\GraphicsThread.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\Group.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\Hint.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\Image.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\ImageSequence.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\ImageStream.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\KdTree.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\LOD.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\Light.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\LightModel.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\LightSource.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\LineSegment.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\LineStipple.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\LineWidth.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\LogicOp.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\Material.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\MatrixDecomposition.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\MatrixTransform.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\Matrixd.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\Matrixf.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\Multisample.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\Node.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\NodeCallback.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\NodeTrackerCallback.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\NodeVisitor.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\Notify.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\Object.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\OccluderNode.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\OcclusionQueryNode.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\OperationThread.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\PagedLOD.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\Point.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\PointSprite.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\PolygonMode.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\PolygonOffset.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\PolygonStipple.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\PositionAttitudeTransform.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\PrimitiveSet.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\Program.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\Projection.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\ProxyNode.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\Quat.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\Referenced.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\Scissor.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\Sequence.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\ShadeModel.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\Shader.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\ShadowVolumeOccluder.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\Shape.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\ShapeDrawable.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\State.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\StateAttribute.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\StateSet.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\Stats.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\Stencil.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\StencilTwoSided.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\Switch.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\TexEnv.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\TexEnvCombine.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\TexEnvFilter.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\TexGen.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\TexGenNode.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\TexMat.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\Texture.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\Texture1D.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\Texture2D.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\Texture2DArray.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\Texture3D.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\TextureCubeMap.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\TextureRectangle.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\TransferFunction.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\Timer.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\Transform.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\Uniform.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\Version.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\VertexProgram.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\View.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\Viewport.cpp" />
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\dxtctool.cpp" />
+    <ClInclude Include="C:\src\osg2.6.1\OpenSceneGraph\src\osg\dxtctool.h" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="C:\src\osg2.6.1\OpenSceneGraph\build\ZERO_CHECK.vcxproj">
+      <Project>{47374672-47C2-3AD9-A725-17FCAB695393}</Project>
+      <Name>ZERO_CHECK</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="C:\src\osg2.6.1\OpenSceneGraph\build\src\OpenThreads\win32\OpenThreads.vcxproj">
+      <Project>{10592B96-AB69-36A4-841A-4177B2A1FDA6}</Project>
+      <Name>OpenThreads</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

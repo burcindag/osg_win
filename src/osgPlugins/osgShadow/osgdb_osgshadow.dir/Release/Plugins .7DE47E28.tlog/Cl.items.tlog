@@ -1,0 +1,6 @@
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\osgShadow\ReaderWriterOsgShadow.cpp;C:\src\osg2.6.1\OpenSceneGraph\build\src\osgPlugins\osgShadow\osgdb_osgshadow.dir\Release\ReaderWriterOsgShadow.obj
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\osgShadow\ShadowedScene.cpp;C:\src\osg2.6.1\OpenSceneGraph\build\src\osgPlugins\osgShadow\osgdb_osgshadow.dir\Release\ShadowedScene.obj
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\osgShadow\ShadowMap.cpp;C:\src\osg2.6.1\OpenSceneGraph\build\src\osgPlugins\osgShadow\osgdb_osgshadow.dir\Release\ShadowMap.obj
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\osgShadow\ShadowTechnique.cpp;C:\src\osg2.6.1\OpenSceneGraph\build\src\osgPlugins\osgShadow\osgdb_osgshadow.dir\Release\ShadowTechnique.obj
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\osgShadow\ShadowTexture.cpp;C:\src\osg2.6.1\OpenSceneGraph\build\src\osgPlugins\osgShadow\osgdb_osgshadow.dir\Release\ShadowTexture.obj
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\osgShadow\ShadowVolume.cpp;C:\src\osg2.6.1\OpenSceneGraph\build\src\osgPlugins\osgShadow\osgdb_osgshadow.dir\Release\ShadowVolume.obj

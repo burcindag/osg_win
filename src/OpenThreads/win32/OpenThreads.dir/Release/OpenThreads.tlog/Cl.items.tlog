@@ -1,0 +1,6 @@
+C:\src\osg2.6.1\OpenSceneGraph\src\OpenThreads\common\Atomic.cpp;C:\src\osg2.6.1\OpenSceneGraph\build\src\OpenThreads\win32\OpenThreads.dir\Release\Atomic.obj
+C:\src\osg2.6.1\OpenSceneGraph\src\OpenThreads\common\Version.cpp;C:\src\osg2.6.1\OpenSceneGraph\build\src\OpenThreads\win32\OpenThreads.dir\Release\Version.obj
+C:\src\osg2.6.1\OpenSceneGraph\src\OpenThreads\win32\WIN32Condition.cpp;C:\src\osg2.6.1\OpenSceneGraph\build\src\OpenThreads\win32\OpenThreads.dir\Release\WIN32Condition.obj
+C:\src\osg2.6.1\OpenSceneGraph\src\OpenThreads\win32\Win32Mutex.cpp;C:\src\osg2.6.1\OpenSceneGraph\build\src\OpenThreads\win32\OpenThreads.dir\Release\Win32Mutex.obj
+C:\src\osg2.6.1\OpenSceneGraph\src\OpenThreads\win32\Win32Thread.cpp;C:\src\osg2.6.1\OpenSceneGraph\build\src\OpenThreads\win32\OpenThreads.dir\Release\Win32Thread.obj
+C:\src\osg2.6.1\OpenSceneGraph\src\OpenThreads\win32\Win32ThreadBarrier.cpp;C:\src\osg2.6.1\OpenSceneGraph\build\src\OpenThreads\win32\OpenThreads.dir\Release\Win32ThreadBarrier.obj

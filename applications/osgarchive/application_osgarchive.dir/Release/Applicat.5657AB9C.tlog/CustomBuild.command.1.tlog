@@ -1,0 +1,10 @@
+^C:\SRC\OSG2.6.1\OPENSCENEGRAPH\APPLICATIONS\OSGARCHIVE\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/src/osg2.6.1/OpenSceneGraph -BC:/src/osg2.6.1/OpenSceneGraph/build --check-stamp-file C:/src/osg2.6.1/OpenSceneGraph/build/applications/osgarchive/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

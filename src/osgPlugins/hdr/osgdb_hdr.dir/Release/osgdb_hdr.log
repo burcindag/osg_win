@@ -1,0 +1,40 @@
+﻿  Building Custom Rule C:/src/osg2.6.1/OpenSceneGraph/src/osgPlugins/hdr/CMakeLists.txt
+  ReaderWriterHDR.cpp
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\Image(301,42): warning C4100: 'nv': unreferenced parameter
+  (compiling source file '../../../../src/osgPlugins/hdr/ReaderWriterHDR.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(55,28): warning C4589: Constructor of abstract class 'osg::Operation' ignores initializer for virtual base class 'osg::Referenced'
+  (compiling source file '../../../../src/osgPlugins/hdr/ReaderWriterHDR.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(55,28):
+      virtual base classes are only initialized by the most-derived type
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(81,23): warning C4589: Constructor of abstract class 'osg::Operation' ignores initializer for virtual base class 'osg::Referenced'
+  (compiling source file '../../../../src/osgPlugins/hdr/ReaderWriterHDR.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(81,23):
+      virtual base classes are only initialized by the most-derived type
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(85,23): warning C4589: Constructor of abstract class 'osg::Operation' ignores initializer for virtual base class 'osg::Referenced'
+  (compiling source file '../../../../src/osgPlugins/hdr/ReaderWriterHDR.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(85,23):
+      virtual base classes are only initialized by the most-derived type
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\hdr\ReaderWriterHDR.cpp(254,77): warning C4245: 'argument': conversion from 'osg::CopyOp::Options' to 'osg::CopyOp::CopyFlags', signed/unsigned mismatch
+  hdrloader.cpp
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\hdr\hdrloader.cpp(92,18): warning C4244: '=': conversion from 'int' to 'char', possible loss of data
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\hdr\hdrloader.cpp(101,18): warning C4244: '=': conversion from 'int' to 'char', possible loss of data
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\hdr\hdrloader.cpp(190,28): warning C4244: '=': conversion from 'int' to 'unsigned char', possible loss of data
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\hdr\hdrloader.cpp(191,28): warning C4244: '=': conversion from 'int' to 'unsigned char', possible loss of data
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\hdr\hdrloader.cpp(196,27): warning C4244: '=': conversion from 'int' to 'unsigned char', possible loss of data
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\hdr\hdrloader.cpp(203,32): warning C4244: 'initializing': conversion from 'int' to 'unsigned char', possible loss of data
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\hdr\hdrloader.cpp(206,35): warning C4244: 'initializing': conversion from 'int' to 'unsigned char', possible loss of data
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\hdr\hdrloader.cpp(212,46): warning C4244: '=': conversion from 'int' to 'unsigned char', possible loss of data
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\hdr\hdrloader.cpp(226,32): warning C4244: '=': conversion from 'int' to 'unsigned char', possible loss of data
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\hdr\hdrloader.cpp(227,32): warning C4244: '=': conversion from 'int' to 'unsigned char', possible loss of data
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\hdr\hdrloader.cpp(228,32): warning C4244: '=': conversion from 'int' to 'unsigned char', possible loss of data
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\hdr\hdrloader.cpp(229,32): warning C4244: '=': conversion from 'int' to 'unsigned char', possible loss of data
+  hdrwriter.cpp
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\Image(301,42): warning C4100: 'nv': unreferenced parameter
+  (compiling source file '../../../../src/osgPlugins/hdr/hdrwriter.cpp')
+  
+  Generating Code...
+  osgdb_hdr.vcxproj -> C:\src\osg2.6.1\OpenSceneGraph\build\lib\Release\osgdb_hdr.dll

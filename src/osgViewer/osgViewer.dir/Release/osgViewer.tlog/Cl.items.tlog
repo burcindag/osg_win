@@ -1,0 +1,13 @@
+C:\src\osg2.6.1\OpenSceneGraph\src\osgViewer\CompositeViewer.cpp;C:\src\osg2.6.1\OpenSceneGraph\build\src\osgViewer\osgViewer.dir\Release\CompositeViewer.obj
+C:\src\osg2.6.1\OpenSceneGraph\src\osgViewer\HelpHandler.cpp;C:\src\osg2.6.1\OpenSceneGraph\build\src\osgViewer\osgViewer.dir\Release\HelpHandler.obj
+C:\src\osg2.6.1\OpenSceneGraph\src\osgViewer\Renderer.cpp;C:\src\osg2.6.1\OpenSceneGraph\build\src\osgViewer\osgViewer.dir\Release\Renderer.obj
+C:\src\osg2.6.1\OpenSceneGraph\src\osgViewer\Scene.cpp;C:\src\osg2.6.1\OpenSceneGraph\build\src\osgViewer\osgViewer.dir\Release\Scene.obj
+C:\src\osg2.6.1\OpenSceneGraph\src\osgViewer\ScreenCaptureHandler.cpp;C:\src\osg2.6.1\OpenSceneGraph\build\src\osgViewer\osgViewer.dir\Release\ScreenCaptureHandler.obj
+C:\src\osg2.6.1\OpenSceneGraph\src\osgViewer\StatsHandler.cpp;C:\src\osg2.6.1\OpenSceneGraph\build\src\osgViewer\osgViewer.dir\Release\StatsHandler.obj
+C:\src\osg2.6.1\OpenSceneGraph\src\osgViewer\Version.cpp;C:\src\osg2.6.1\OpenSceneGraph\build\src\osgViewer\osgViewer.dir\Release\Version.obj
+C:\src\osg2.6.1\OpenSceneGraph\src\osgViewer\View.cpp;C:\src\osg2.6.1\OpenSceneGraph\build\src\osgViewer\osgViewer.dir\Release\View.obj
+C:\src\osg2.6.1\OpenSceneGraph\src\osgViewer\Viewer.cpp;C:\src\osg2.6.1\OpenSceneGraph\build\src\osgViewer\osgViewer.dir\Release\Viewer.obj
+C:\src\osg2.6.1\OpenSceneGraph\src\osgViewer\ViewerBase.cpp;C:\src\osg2.6.1\OpenSceneGraph\build\src\osgViewer\osgViewer.dir\Release\ViewerBase.obj
+C:\src\osg2.6.1\OpenSceneGraph\src\osgViewer\ViewerEventHandlers.cpp;C:\src\osg2.6.1\OpenSceneGraph\build\src\osgViewer\osgViewer.dir\Release\ViewerEventHandlers.obj
+C:\src\osg2.6.1\OpenSceneGraph\src\osgViewer\GraphicsWindowWin32.cpp;C:\src\osg2.6.1\OpenSceneGraph\build\src\osgViewer\osgViewer.dir\Release\GraphicsWindowWin32.obj
+C:\src\osg2.6.1\OpenSceneGraph\src\osgViewer\PixelBufferWin32.cpp;C:\src\osg2.6.1\OpenSceneGraph\build\src\osgViewer\osgViewer.dir\Release\PixelBufferWin32.obj

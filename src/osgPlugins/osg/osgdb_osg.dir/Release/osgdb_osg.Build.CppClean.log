@@ -1,0 +1,92 @@
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\osg\osgdb_osg.dir\release\drawable.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\osg\osgdb_osg.dir\release\depth.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\osg\osgdb_osg.dir\release\cullface.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\osg\osgdb_osg.dir\release\coordinatesystemnode.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\osg\osgdb_osg.dir\release\convexplanaroccluder.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\osg\osgdb_osg.dir\release\colormatrix.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\osg\osgdb_osg.dir\release\colormask.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\osg\osgdb_osg.dir\release\clustercullingcallback.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\osg\osgdb_osg.dir\release\clipplane.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\osg\osgdb_osg.dir\release\clipnode.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\osg\osgdb_osg.dir\release\clearnode.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\osg\osgdb_osg.dir\release\cameraview.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\osg\osgdb_osg.dir\release\camera.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\osg\osgdb_osg.dir\release\blendequation.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\osg\osgdb_osg.dir\release\blendfunc.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\osg\osgdb_osg.dir\release\blendcolor.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\osg\osgdb_osg.dir\release\billboard.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\osg\osgdb_osg.dir\release\autotransform.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\osg\osgdb_osg.dir\release\animationpath.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\osg\osgdb_osg.dir\release\alphafunc.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\osg\osgdb_osg.dir\release\nodecallback.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\osg\osgdb_osg.dir\release\node.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\osg\osgdb_osg.dir\release\matrixtransform.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\osg\osgdb_osg.dir\release\matrix.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\osg\osgdb_osg.dir\release\material.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\osg\osgdb_osg.dir\release\linewidth.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\osg\osgdb_osg.dir\release\linestipple.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\osg\osgdb_osg.dir\release\lightsource.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\osg\osgdb_osg.dir\release\lightmodel.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\osg\osgdb_osg.dir\release\light.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\osg\osgdb_osg.dir\release\lod.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\osg\osgdb_osg.dir\release\imagesequence.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\osg\osgdb_osg.dir\release\image.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\osg\osgdb_osg.dir\release\group.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\osg\osgdb_osg.dir\release\geometry.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\osg\osgdb_osg.dir\release\geode.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\osg\osgdb_osg.dir\release\frontface.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\osg\osgdb_osg.dir\release\fragmentprogram.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\osg\osgdb_osg.dir\release\fog.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\osg\osgdb_osg.dir\release\ellipsoidmodel.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\osg\osgdb_osg.dir\release\stateset.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\osg\osgdb_osg.dir\release\shapedrawable.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\osg\osgdb_osg.dir\release\shape.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\osg\osgdb_osg.dir\release\shader.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\osg\osgdb_osg.dir\release\shademodel.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\osg\osgdb_osg.dir\release\sequence.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\osg\osgdb_osg.dir\release\scissor.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\osg\osgdb_osg.dir\release\readerwriterosg.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\osg\osgdb_osg.dir\release\proxynode.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\osg\osgdb_osg.dir\release\projection.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\osg\osgdb_osg.dir\release\program.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\osg\osgdb_osg.dir\release\positionattitudetransform.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\osg\osgdb_osg.dir\release\polygonoffset.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\osg\osgdb_osg.dir\release\polygonmode.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\osg\osgdb_osg.dir\release\pointsprite.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\osg\osgdb_osg.dir\release\point.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\osg\osgdb_osg.dir\release\pagedlod.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\osg\osgdb_osg.dir\release\occlusionquerynode.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\osg\osgdb_osg.dir\release\occludernode.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\osg\osgdb_osg.dir\release\object.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\osg\osgdb_osg.dir\release\viewport.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\osg\osgdb_osg.dir\release\vertexprogram.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\osg\osgdb_osg.dir\release\uniform.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\osg\osgdb_osg.dir\release\transform.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\osg\osgdb_osg.dir\release\texturerectangle.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\osg\osgdb_osg.dir\release\texturecubemap.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\osg\osgdb_osg.dir\release\texture3d.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\osg\osgdb_osg.dir\release\texture2d.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\osg\osgdb_osg.dir\release\texture1d.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\osg\osgdb_osg.dir\release\texture.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\osg\osgdb_osg.dir\release\texmat.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\osg\osgdb_osg.dir\release\texgennode.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\osg\osgdb_osg.dir\release\texgen.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\osg\osgdb_osg.dir\release\texenvfilter.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\osg\osgdb_osg.dir\release\texenvcombine.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\osg\osgdb_osg.dir\release\texenv.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\osg\osgdb_osg.dir\release\tessellationhints.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\osg\osgdb_osg.dir\release\switch.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\osg\osgdb_osg.dir\release\stencil.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\osg\cmakefiles\generate.stamp
+c:\src\osg2.6.1\openscenegraph\build\lib\release\osgdb_osg.dll
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\osg\osgdb_osg.dir\release\plugins osg.tlog\cl.command.1.tlog
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\osg\osgdb_osg.dir\release\plugins osg.tlog\cl.items.tlog
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\osg\osgdb_osg.dir\release\plugins osg.tlog\cl.read.1.tlog
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\osg\osgdb_osg.dir\release\plugins osg.tlog\cl.write.1.tlog
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\osg\osgdb_osg.dir\release\plugins osg.tlog\custombuild.command.1.tlog
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\osg\osgdb_osg.dir\release\plugins osg.tlog\custombuild.read.1.tlog
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\osg\osgdb_osg.dir\release\plugins osg.tlog\custombuild.write.1.tlog
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\osg\osgdb_osg.dir\release\plugins osg.tlog\link.command.1.tlog
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\osg\osgdb_osg.dir\release\plugins osg.tlog\link.read.1.tlog
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\osg\osgdb_osg.dir\release\plugins osg.tlog\link.secondary.1.tlog
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\osg\osgdb_osg.dir\release\plugins osg.tlog\link.write.1.tlog

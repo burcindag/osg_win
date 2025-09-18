@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgViewer\CompositeViewer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgViewer\HelpHandler.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgViewer\Renderer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgViewer\Scene.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgViewer\ScreenCaptureHandler.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgViewer\StatsHandler.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgViewer\Version.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgViewer\View.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgViewer\Viewer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgViewer\ViewerBase.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgViewer\ViewerEventHandlers.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgViewer\GraphicsWindowWin32.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgViewer\PixelBufferWin32.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\src\osg2.6.1\OpenSceneGraph\src\osgViewer\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osgViewer\CompositeViewer">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osgViewer\Export">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osgViewer\GraphicsWindow">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osgViewer\Renderer">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osgViewer\Scene">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osgViewer\Version">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osgViewer\View">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osgViewer\Viewer">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osgViewer\ViewerBase">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osgViewer\ViewerEventHandlers">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osgViewer\api\Win32\GraphicsWindowWin32">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\src\osg2.6.1\OpenSceneGraph\include\osgViewer\api\Win32\PixelBufferWin32">
+      <Filter>Header Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{153317EA-AC9E-3DA2-8389-BDBDCAFE6BAA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{F7F73EB7-E351-383F-8A59-27F655577B0D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

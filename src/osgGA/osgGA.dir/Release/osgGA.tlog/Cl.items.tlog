@@ -1,0 +1,15 @@
+C:\src\osg2.6.1\OpenSceneGraph\src\osgGA\AnimationPathManipulator.cpp;C:\src\osg2.6.1\OpenSceneGraph\build\src\osgGA\osgGA.dir\Release\AnimationPathManipulator.obj
+C:\src\osg2.6.1\OpenSceneGraph\src\osgGA\DriveManipulator.cpp;C:\src\osg2.6.1\OpenSceneGraph\build\src\osgGA\osgGA.dir\Release\DriveManipulator.obj
+C:\src\osg2.6.1\OpenSceneGraph\src\osgGA\EventQueue.cpp;C:\src\osg2.6.1\OpenSceneGraph\build\src\osgGA\osgGA.dir\Release\EventQueue.obj
+C:\src\osg2.6.1\OpenSceneGraph\src\osgGA\EventVisitor.cpp;C:\src\osg2.6.1\OpenSceneGraph\build\src\osgGA\osgGA.dir\Release\EventVisitor.obj
+C:\src\osg2.6.1\OpenSceneGraph\src\osgGA\FlightManipulator.cpp;C:\src\osg2.6.1\OpenSceneGraph\build\src\osgGA\osgGA.dir\Release\FlightManipulator.obj
+C:\src\osg2.6.1\OpenSceneGraph\src\osgGA\GUIEventAdapter.cpp;C:\src\osg2.6.1\OpenSceneGraph\build\src\osgGA\osgGA.dir\Release\GUIEventAdapter.obj
+C:\src\osg2.6.1\OpenSceneGraph\src\osgGA\GUIEventHandler.cpp;C:\src\osg2.6.1\OpenSceneGraph\build\src\osgGA\osgGA.dir\Release\GUIEventHandler.obj
+C:\src\osg2.6.1\OpenSceneGraph\src\osgGA\KeySwitchMatrixManipulator.cpp;C:\src\osg2.6.1\OpenSceneGraph\build\src\osgGA\osgGA.dir\Release\KeySwitchMatrixManipulator.obj
+C:\src\osg2.6.1\OpenSceneGraph\src\osgGA\MatrixManipulator.cpp;C:\src\osg2.6.1\OpenSceneGraph\build\src\osgGA\osgGA.dir\Release\MatrixManipulator.obj
+C:\src\osg2.6.1\OpenSceneGraph\src\osgGA\NodeTrackerManipulator.cpp;C:\src\osg2.6.1\OpenSceneGraph\build\src\osgGA\osgGA.dir\Release\NodeTrackerManipulator.obj
+C:\src\osg2.6.1\OpenSceneGraph\src\osgGA\StateSetManipulator.cpp;C:\src\osg2.6.1\OpenSceneGraph\build\src\osgGA\osgGA.dir\Release\StateSetManipulator.obj
+C:\src\osg2.6.1\OpenSceneGraph\src\osgGA\TerrainManipulator.cpp;C:\src\osg2.6.1\OpenSceneGraph\build\src\osgGA\osgGA.dir\Release\TerrainManipulator.obj
+C:\src\osg2.6.1\OpenSceneGraph\src\osgGA\TrackballManipulator.cpp;C:\src\osg2.6.1\OpenSceneGraph\build\src\osgGA\osgGA.dir\Release\TrackballManipulator.obj
+C:\src\osg2.6.1\OpenSceneGraph\src\osgGA\UFOManipulator.cpp;C:\src\osg2.6.1\OpenSceneGraph\build\src\osgGA\osgGA.dir\Release\UFOManipulator.obj
+C:\src\osg2.6.1\OpenSceneGraph\src\osgGA\Version.cpp;C:\src\osg2.6.1\OpenSceneGraph\build\src\osgGA\osgGA.dir\Release\Version.obj

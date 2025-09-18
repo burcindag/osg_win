@@ -1,0 +1,108 @@
+﻿  Building Custom Rule C:/src/osg2.6.1/OpenSceneGraph/src/osgPlugins/osgViewer/CMakeLists.txt
+  View.cpp
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\Image(301,42): warning C4100: 'nv': unreferenced parameter
+  (compiling source file '../../../../src/osgPlugins/osgViewer/View.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(55,28): warning C4589: Constructor of abstract class 'osg::Operation' ignores initializer for virtual base class 'osg::Referenced'
+  (compiling source file '../../../../src/osgPlugins/osgViewer/View.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(55,28):
+      virtual base classes are only initialized by the most-derived type
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(81,23): warning C4589: Constructor of abstract class 'osg::Operation' ignores initializer for virtual base class 'osg::Referenced'
+  (compiling source file '../../../../src/osgPlugins/osgViewer/View.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(81,23):
+      virtual base classes are only initialized by the most-derived type
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(85,23): warning C4589: Constructor of abstract class 'osg::Operation' ignores initializer for virtual base class 'osg::Referenced'
+  (compiling source file '../../../../src/osgPlugins/osgViewer/View.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(85,23):
+      virtual base classes are only initialized by the most-derived type
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osgUtil\UpdateVisitor(97,48): warning C4456: declaration of 'callback' hides previous local declaration
+  (compiling source file '../../../../src/osgPlugins/osgViewer/View.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\include\osgUtil\UpdateVisitor(91,32):
+      see declaration of 'callback'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\osgViewer\View.cpp(60,13): warning C4505: 'writeMatrix': unreferenced function with internal linkage has been removed
+  Viewer.cpp
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\Image(301,42): warning C4100: 'nv': unreferenced parameter
+  (compiling source file '../../../../src/osgPlugins/osgViewer/Viewer.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(55,28): warning C4589: Constructor of abstract class 'osg::Operation' ignores initializer for virtual base class 'osg::Referenced'
+  (compiling source file '../../../../src/osgPlugins/osgViewer/Viewer.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(55,28):
+      virtual base classes are only initialized by the most-derived type
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(81,23): warning C4589: Constructor of abstract class 'osg::Operation' ignores initializer for virtual base class 'osg::Referenced'
+  (compiling source file '../../../../src/osgPlugins/osgViewer/Viewer.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(81,23):
+      virtual base classes are only initialized by the most-derived type
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(85,23): warning C4589: Constructor of abstract class 'osg::Operation' ignores initializer for virtual base class 'osg::Referenced'
+  (compiling source file '../../../../src/osgPlugins/osgViewer/Viewer.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(85,23):
+      virtual base classes are only initialized by the most-derived type
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osgUtil\UpdateVisitor(97,48): warning C4456: declaration of 'callback' hides previous local declaration
+  (compiling source file '../../../../src/osgPlugins/osgViewer/Viewer.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\include\osgUtil\UpdateVisitor(91,32):
+      see declaration of 'callback'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\osgViewer\Viewer.cpp(23,59): warning C4100: 'fr': unreferenced parameter
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\osgViewer\Viewer.cpp(25,24): warning C4189: 'viewer': local variable is initialized but not referenced
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\osgViewer\Viewer.cpp(31,67): warning C4100: 'fw': unreferenced parameter
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\osgViewer\Viewer.cpp(33,30): warning C4189: 'viewer': local variable is initialized but not referenced
+  CompositeViewer.cpp
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\Image(301,42): warning C4100: 'nv': unreferenced parameter
+  (compiling source file '../../../../src/osgPlugins/osgViewer/CompositeViewer.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(55,28): warning C4589: Constructor of abstract class 'osg::Operation' ignores initializer for virtual base class 'osg::Referenced'
+  (compiling source file '../../../../src/osgPlugins/osgViewer/CompositeViewer.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(55,28):
+      virtual base classes are only initialized by the most-derived type
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(81,23): warning C4589: Constructor of abstract class 'osg::Operation' ignores initializer for virtual base class 'osg::Referenced'
+  (compiling source file '../../../../src/osgPlugins/osgViewer/CompositeViewer.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(81,23):
+      virtual base classes are only initialized by the most-derived type
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(85,23): warning C4589: Constructor of abstract class 'osg::Operation' ignores initializer for virtual base class 'osg::Referenced'
+  (compiling source file '../../../../src/osgPlugins/osgViewer/CompositeViewer.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(85,23):
+      virtual base classes are only initialized by the most-derived type
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osgUtil\UpdateVisitor(97,48): warning C4456: declaration of 'callback' hides previous local declaration
+  (compiling source file '../../../../src/osgPlugins/osgViewer/CompositeViewer.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\include\osgUtil\UpdateVisitor(91,32):
+      see declaration of 'callback'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\osgViewer\CompositeViewer.cpp(23,68): warning C4100: 'fr': unreferenced parameter
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\osgViewer\CompositeViewer.cpp(25,33): warning C4189: 'compositeViewer': local variable is initialized but not referenced
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\osgViewer\CompositeViewer.cpp(33,76): warning C4100: 'fw': unreferenced parameter
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\osgViewer\CompositeViewer.cpp(35,39): warning C4189: 'compositeViewer': local variable is initialized but not referenced
+  ReaderWriterOsgViewer.cpp
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\Image(301,42): warning C4100: 'nv': unreferenced parameter
+  (compiling source file '../../../../src/osgPlugins/osgViewer/ReaderWriterOsgViewer.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(55,28): warning C4589: Constructor of abstract class 'osg::Operation' ignores initializer for virtual base class 'osg::Referenced'
+  (compiling source file '../../../../src/osgPlugins/osgViewer/ReaderWriterOsgViewer.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(55,28):
+      virtual base classes are only initialized by the most-derived type
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(81,23): warning C4589: Constructor of abstract class 'osg::Operation' ignores initializer for virtual base class 'osg::Referenced'
+  (compiling source file '../../../../src/osgPlugins/osgViewer/ReaderWriterOsgViewer.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(81,23):
+      virtual base classes are only initialized by the most-derived type
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(85,23): warning C4589: Constructor of abstract class 'osg::Operation' ignores initializer for virtual base class 'osg::Referenced'
+  (compiling source file '../../../../src/osgPlugins/osgViewer/ReaderWriterOsgViewer.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(85,23):
+      virtual base classes are only initialized by the most-derived type
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osgUtil\UpdateVisitor(97,48): warning C4456: declaration of 'callback' hides previous local declaration
+  (compiling source file '../../../../src/osgPlugins/osgViewer/ReaderWriterOsgViewer.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\include\osgUtil\UpdateVisitor(91,32):
+      see declaration of 'callback'
+  
+  Generating Code...
+  osgdb_osgviewer.vcxproj -> C:\src\osg2.6.1\OpenSceneGraph\build\lib\Release\osgdb_osgviewer.dll

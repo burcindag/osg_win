@@ -1,0 +1,119 @@
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\convexplanaroccluder.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\conesector.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\compositelayer.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\colormask.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\clustercullingcallback.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\clipplane.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\clipnode.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\cameraview.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\camera.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\blinksequence.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\blendfunc.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\blendequation.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\blendcolor.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\billboard.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\azimsector.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\azimelevationsector.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\autotransform.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\animationpath.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\animationpathcallback.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\alphafunc.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\frontface.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\fragmentprogram.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\fog.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\exception.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\ellipsoidmodel.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\elevationsector.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\drawelementsushort.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\drawelementsuint.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\drawelementsubyte.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\drawarrays.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\drawarraylengths.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\drawable.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\doftransform.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\directionalsector.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\depth.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\dataoutputstream.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\datainputstream.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\cullface.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\coordinatesystemnode.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\convexplanarpolygon.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\matrixtransform.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\material.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\lod.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\locator.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\linewidth.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\linestipple.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\lightsource.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\lightpointnode.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\lightpoint.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\lightmodel.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\light.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\layer.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\impostor.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\imagelayer.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\imagesequence.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\image.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\heightfieldlayer.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\group.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\geometry.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\geode.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\shademodel.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\sequence.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\scissor.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\readerwriterive.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\proxynode.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\program.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\primitiveset.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\positionattitudetransform.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\polygonoffset.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\polygonmode.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\pointsprite.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\point.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\pagedlod.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\occlusionquerynode.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\occludernode.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\object.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\node.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\multitexturecontrol.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\multiswitch.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\multisample.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\texturecubemap.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\texture.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\texture3d.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\texture2d.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\texture1d.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\text3d.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\fadetext.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\text.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\texmat.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\texgennode.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\texgen.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\texenv.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\texenvcombine.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\terraintile.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\switch.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\stencil.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\stateset.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\shapedrawable.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\shape.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\shader.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\visibilitygroup.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\viewport.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\vertexprogram.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\uniform.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\transform.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\texturerectangle.obj
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\cmakefiles\generate.stamp
+c:\src\osg2.6.1\openscenegraph\build\lib\release\osgdb_ive.dll
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\plugins ive.tlog\cl.command.1.tlog
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\plugins ive.tlog\cl.items.tlog
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\plugins ive.tlog\cl.read.1.tlog
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\plugins ive.tlog\cl.write.1.tlog
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\plugins ive.tlog\custombuild.command.1.tlog
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\plugins ive.tlog\custombuild.read.1.tlog
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\plugins ive.tlog\custombuild.write.1.tlog
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\plugins ive.tlog\link.command.1.tlog
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\plugins ive.tlog\link.read.1.tlog
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\plugins ive.tlog\link.secondary.1.tlog
+c:\src\osg2.6.1\openscenegraph\build\src\osgplugins\ive\osgdb_ive.dir\release\plugins ive.tlog\link.write.1.tlog

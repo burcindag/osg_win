@@ -1,0 +1,33 @@
+﻿  Building Custom Rule C:/src/osg2.6.1/OpenSceneGraph/src/osgPlugins/dw/CMakeLists.txt
+  ReaderWriterDW.cpp
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\Image(301,42): warning C4100: 'nv': unreferenced parameter
+  (compiling source file '../../../../src/osgPlugins/dw/ReaderWriterDW.cpp')
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(55,28): warning C4589: Constructor of abstract class 'osg::Operation' ignores initializer for virtual base class 'osg::Referenced'
+  (compiling source file '../../../../src/osgPlugins/dw/ReaderWriterDW.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(55,28):
+      virtual base classes are only initialized by the most-derived type
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(81,23): warning C4589: Constructor of abstract class 'osg::Operation' ignores initializer for virtual base class 'osg::Referenced'
+  (compiling source file '../../../../src/osgPlugins/dw/ReaderWriterDW.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(81,23):
+      virtual base classes are only initialized by the most-derived type
+  
+C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(85,23): warning C4589: Constructor of abstract class 'osg::Operation' ignores initializer for virtual base class 'osg::Referenced'
+  (compiling source file '../../../../src/osgPlugins/dw/ReaderWriterDW.cpp')
+      C:\src\osg2.6.1\OpenSceneGraph\include\osg\OperationThread(85,23):
+      virtual base classes are only initialized by the most-derived type
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\dw\ReaderWriterDW.cpp(240,42): warning C4458: declaration of 'nrm' hides class member
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\dw\ReaderWriterDW.cpp(348,10):
+      see declaration of '_face::nrm'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\dw\ReaderWriterDW.cpp(645,32): warning C4458: declaration of 'mx' hides class member
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\dw\ReaderWriterDW.cpp(669,13):
+      see declaration of '_dwobj::mx'
+  
+C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\dw\ReaderWriterDW.cpp(912,35): warning C4456: declaration of 'rgb' hides previous local declaration
+      C:\src\osg2.6.1\OpenSceneGraph\src\osgPlugins\dw\ReaderWriterDW.cpp(907,31):
+      see declaration of 'rgb'
+  
+  osgdb_dw.vcxproj -> C:\src\osg2.6.1\OpenSceneGraph\build\lib\Release\osgdb_dw.dll
