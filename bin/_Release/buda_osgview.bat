@@ -1,1 +1,0 @@
-.\osgviewer.exe --window 100 100 1280 720 --screen 1 %1
